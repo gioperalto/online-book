@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Reader</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <h1 id="book-title">My Book</h1>
+    </nav>
+
+    <div class="container">
+        <aside class="sidebar" id="sidebar">
+            <h2>Table of Contents</h2>
+            <div id="chapter-list" class="chapter-list">
+                <p class="loading">Loading chapters...</p>
+            </div>
+        </aside>
+
+        <main class="content" id="content">
+            <div class="welcome">
+                <h1>Welcome</h1>
+                <p>Select a chapter from the sidebar to begin reading.</p>
+            </div>
+        </main>
+    </div>
+
+    <button class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle sidebar">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+    <script src="script.js"></script>
+</body>
+</html>
