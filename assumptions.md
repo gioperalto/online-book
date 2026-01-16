@@ -101,3 +101,47 @@
   - If three different people were involved in Eleanor's death, who poisoned her? Who strangled her? And did she truly kill herself at the end?
   - Who sent the phone message that disturbed Eleanor at dinner?
   - What is the connection between the "twenty years of lies" Victor argued about and the locket mystery?
+
+## Chapter 5 Developments
+
+- **Marlowe's Confrontation with the Family**:
+  - Marlowe survives the chapel attack and returns to the estate at dawn, ignoring the masked attacker's deadline
+  - Rosa is in stable condition at Millbrook General, refusing to talk to anyone but Marlowe
+  - Police backup is stationed at the estate; no one has been allowed to leave
+
+- **Victor's Major Confession**:
+  - Victor reveals he has embezzled approximately $200,000 from the family accounts over the past two years
+  - Eleanor discovered this last week and confronted him at dinner; he denied it publicly
+  - This is why Eleanor was changing her will to disinherit him
+  - Victor admits he went to the library at 11:30 PM to confront Eleanor; they argued violently
+  - He admits to wanting to strangle her in that moment but claims he walked away
+  - He says he drank in his study until he passed out—a weak alibi
+  - Diana did not know about the embezzlement
+
+- **Alibis and Movements Established**:
+  - **Julian**: Studied in room, came down for coffee around 10 PM (talked briefly with Rosa), heard footsteps around midnight, heard voices from library around 11 PM
+  - **Diana**: Went to conservatory after dinner until ~9:30, then to bedroom; took sleeping pill at 11 PM
+  - **Victor**: In study until 10 PM, then bedroom; went to library at 11:30 PM for confrontation with Eleanor; claims he then drank in his study until passing out
+  - **Margot**: Claims she went to kitchen around midnight, talked with Rosa, took tea to conservatory and stayed there until Rosa screamed—Marlowe notes she is lying about something
+  - **David Sterling**: Went to room after working with Eleanor until midnight; claims he heard nothing due to heavy sleep and blood pressure medication
+
+- **Marlowe's Working Theory**:
+  - Poison was administered during or shortly after dinner (slow-acting, in her system for at least an hour)
+  - By 11:30 PM when Victor confronted her, Eleanor was already compromised and disoriented
+  - After Victor left, someone else came and started strangling her but stopped (interrupted or couldn't finish)
+  - Eleanor, dying and in pain, may have used the letter opener to end her own suffering—self-inflicted wound
+  - This suggests TWO killers (poisoner and strangler) rather than three, with Eleanor ending it herself
+
+- **Evidence Being Pursued**:
+  - Captain Reyes has Eleanor's phone records—something significant has been found
+  - Rosa's collection of evidence (documents, photographs, payment records) spans 30 years
+  - Forensic evidence: tea cup, ligature marks, trace evidence still being processed
+  - Eleanor's financial records being reviewed
+
+- **Key Questions for Future Chapters**:
+  - What do Eleanor's phone records reveal?
+  - Who poisoned the tea and when exactly?
+  - Who tried to strangle Eleanor and then stopped—and why did they stop?
+  - What is Margot hiding about the night of the murder?
+  - Will the masked attacker make good on their threat to Marlowe?
+  - What will Rosa reveal when Marlowe visits her at the hospital?

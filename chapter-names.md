@@ -4,3 +4,4 @@
 ## The Weight of Inheritance
 ## The Last Testament
 ## Midnight Confessions
+## Three Hands, One Death
