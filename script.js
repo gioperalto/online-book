@@ -1,6 +1,6 @@
 // Configuration
 const config = {
-    bookTitle: 'My Book', // Change this to your book title
+    bookTitle: 'Murder at the Ashworth Estate', 
     chaptersFolder: 'chapters',
     chapterFilePattern: /^chapter-(\d+)\.md$/
 };
