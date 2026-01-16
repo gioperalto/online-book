@@ -189,3 +189,58 @@
   - What is Eleanor's connection to Marlowe's father?
   - How does the photograph connect to the current case?
   - Will the search warrant turn up the burner phone?
+
+## Chapter 7 Developments
+
+- **Major Family Revelation**:
+  - Detective Marlowe meets Catherine Webb at the Ashworth marina boathouse
+  - Catherine Webb is Marcus Webb's sister, making her Marlowe's great-aunt
+  - Marlowe's father was NOT the biological son of his legal grandfather—he was Marcus Webb's son
+  - Marlowe's grandmother was pregnant with Marcus's child when she was forced to marry Marlowe's grandfather
+  - This makes Marlowe the great-grandson of Marcus Webb, connecting him by blood to the Webb family
+  - Marlowe's grandmother kept this secret her entire life to protect her son from Eleanor
+
+- **Catherine Webb's Testimony**:
+  - Catherine has been building a case against Eleanor for 40 years
+  - She has proof that Eleanor paid to have Marcus killed (crane accident was staged)
+  - She reconnected with Marlowe's grandmother late in life; they corresponded through letters
+  - Catherine is dying of cancer (3 months or less to live)
+  - She wanted to expose Eleanor publicly, not kill her—death was "too good for her"
+  - Catherine confirms she had an informant inside the Ashworth house but never knew their identity
+
+- **The Informant Revealed - Margot Ashworth**:
+  - Margot is the owner of the burner phone
+  - She has been feeding information to Catherine Webb for three months
+  - She stole an Ashworth family heirloom ring (5 generations old) to prove her access and bona fides
+  - She had been collecting evidence against Eleanor for years, hidden in her room
+  - She did NOT poison or kill Eleanor, despite intending to
+
+- **Margot's Eyewitness Account - Critical Evidence**:
+  - Margot went to the library at midnight intending to confront/harm Eleanor
+  - She found Eleanor slumped over, barely conscious (poison already taking effect)
+  - She witnessed someone strangling Eleanor—hands around her throat
+  - The strangler heard something and fled through the garden door before Margot could see their face
+  - Description of strangler: tall, broad shoulders, moved like someone young and quick
+  - This description strongly suggests **Julian Ashworth** as the strangler
+
+- **Evidence Recovered**:
+  - Marlowe now has the burner phone from Margot
+  - Catherine Webb has the Ashworth family heirloom ring (given to her by the informant)
+  - Catherine has letters from Marlowe's grandmother detailing the truth about Marcus and the pregnancy
+  - Catherine has proof of Eleanor's payment trail leading to Marcus's murder
+
+- **Updated Murder Timeline**:
+  - Poison administered during/after dinner (unknown poisoner)
+  - By midnight, Eleanor was slumped over, barely conscious
+  - At midnight, Margot arrived and witnessed someone strangling Eleanor
+  - Strangler was interrupted and fled through garden door
+  - After strangler fled, Eleanor (still alive but dying) likely stabbed herself with the letter opener
+
+- **Key Questions for Future Chapters**:
+  - Is Julian the strangler Margot witnessed? What was his motive beyond inheriting the will?
+  - Who poisoned Eleanor? (Still unknown—could be Victor, Diana, Sterling, or another)
+  - Why did the strangler stop and flee?
+  - What will the burner phone evidence reveal?
+  - Will Margot's testimony hold up, and will she face charges for conspiracy?
+  - What is Sarah's connection to all of this (Marlowe hasn't called her back)?
+  - How will Marlowe's new family connection to the Webbs affect his objectivity?
