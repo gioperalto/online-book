@@ -145,3 +145,47 @@
   - What is Margot hiding about the night of the murder?
   - Will the masked attacker make good on their threat to Marlowe?
   - What will Rosa reveal when Marlowe visits her at the hospital?
+
+## Chapter 6 Developments
+
+- **Phone Records Revealed**:
+  - Eleanor received a call at 8:47 PM from Catherine Webb (206 area code - Seattle), Marcus Webb's 71-year-old sister
+  - Catherine Webb has been in regular contact with Eleanor for three months—weekly calls, sometimes more
+  - The text message that turned Eleanor white during dinner (7:23 PM): "I know what you did to Marcus. I have proof. The world will know by tomorrow unless you make this right."
+  - Eleanor responded at 11:08 PM with one word: "Come"
+  - Catherine Webb caught a red-eye flight and landed at 6:15 AM; police are picking her up
+
+- **The 11 PM Phone Call Mystery**:
+  - The call Eleanor made at 11 PM (that Sterling overheard) went to a burner phone
+  - The burner phone was located INSIDE the Ashworth estate
+  - The burner has been active at the property for at least three months—same period Catherine Webb started calling Eleanor
+  - This suggests someone in the house has been feeding information to Catherine Webb, building a case against Eleanor
+  - Eleanor discovered the "traitor" that night—this is what triggered her angry outburst
+
+- **Rosa's Hospital Revelations**:
+  - Confirms Eleanor was a "monster" who left a trail of bodies over five decades
+  - Eleanor owned Millbrook—mayor, police chief, judges all owed her
+  - Rosa collected evidence as "insurance" in case Eleanor turned on her
+  - Additional victims mentioned: Councilman Patterson (1985, "suicide" by carbon monoxide), reporter investigating union funds (1991, car accident)
+  - Rosa believes the masked attacker was someone familiar, possibly from the house
+  - Catherine Webb once confronted Eleanor at the estate years ago and was thrown out
+
+- **Marlowe's Personal Connection Deepens**:
+  - The masked figure called Marlowe again, demanding a meeting at the Ashworth marina boathouse at 9 PM
+  - They know about a photograph Marlowe keeps face-down on his kitchen table
+  - The photograph shows: Marlowe's grandmother with Marlowe's father as a teenager (about 16) at the edge of the Ashworth property
+  - In the background of the photo: young Eleanor Ashworth watching from the portico with a predatory expression
+  - This suggests Eleanor's involvement with Marlowe's family extends beyond his grandmother—possibly involving his father
+
+- **Rosa's Theory on Three Methods**:
+  - Poison = revenge (slow, calculated, letting victim know what's happening)
+  - Strangulation = rage (passionate, personal, from someone deeply hurt)
+  - Stabbing = Eleanor's final act of control (self-inflicted, choosing her own ending)
+
+- **Key Questions for Future Chapters**:
+  - What will Catherine Webb reveal about Marcus's death and her proof against Eleanor?
+  - Who owns the burner phone inside the Ashworth estate?
+  - What will be revealed at the boathouse meeting?
+  - What is Eleanor's connection to Marlowe's father?
+  - How does the photograph connect to the current case?
+  - Will the search warrant turn up the burner phone?
