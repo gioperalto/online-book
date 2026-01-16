@@ -297,3 +297,70 @@
   - What did Sarah know about Marlowe's grandmother, and how long has she known?
   - Is Diana the poisoner? (She had access to dinner, motive from years of abuse, and no confirmed alibi)
   - What about David Sterling? (37 years as Eleanor's confidant, knew all her secrets)
+
+## Chapter 9 Developments
+
+- **Sarah Marlowe's Full Confession**:
+  - Marlowe confronts Sarah at the Route 7 motel, Room 14
+  - Sarah confirms she was Victor's lover 23 years ago (she was 22, fresh out of college)
+  - Eleanor destroyed Sarah's family: had her father fired on fabricated safety violations, planted drugs on her brother (6 months in jail), threatened worse if she refused the payoff
+  - Eleanor paid Sarah $100,000 to disappear and never contact Victor again
+  - Sarah took the money and moved to Detroit, changed her professional name, tried to start over
+  - Sarah's family expenses (father's Alzheimer's, brother's rehab, mother's care) depleted the money
+  - Sarah began blackmailing Victor three years ago out of desperation, framing it as "recovery" rather than blackmail
+  - Six months ago, Sarah discovered Victor was embezzling family funds to pay her—realized Eleanor would eventually notice
+
+- **Sarah's Connection to Marlowe's Family**:
+  - Sarah found evidence about Marlowe's grandmother while sorting through her belongings after her death
+  - She discovered letters, a diary, and information about Marcus Webb and Eleanor's crimes
+  - Sarah framed the photograph of Marlowe's grandmother and father as a "kindness" but was hiding her knowledge
+  - Sarah claims she left the marriage to protect Marlowe from Eleanor's reach, not wanting Eleanor to discover Sarah was married to a Millbrook detective investigating old family secrets
+  - Sarah insists she loved Marlowe genuinely despite the secrets
+
+- **Sarah's Alibi for the Night of the Murder**:
+  - Sarah was at her mother's care facility until 9 PM
+  - Went home to Detroit, packed, tried to sleep
+  - Victor's call woke her at 6:15 AM with news of Eleanor's death
+  - Took 7:45 AM flight from Detroit Metro, arrived in Millbrook by 10 AM
+  - Night staff at mother's facility and neighbor can verify her whereabouts
+
+- **Sarah's Critical Information - Diana as the Poisoner**:
+  - Victor called Sarah the morning after, hysterical
+  - Victor repeatedly mentioned Diana, saying he "hadn't meant for it to go this far"
+  - Victor said Diana "promised it would only make Eleanor sick"
+  - This strongly implicates Diana as the poisoner
+  - Suggests Diana and Victor planned to incapacitate Eleanor (not kill her) to search for damaging documents
+
+- **Diana Ashworth's Full Confession**:
+  - Diana admits to poisoning Eleanor's tea with Aconitum napellus (Monkshood) from Eleanor's own conservatory
+  - She calculated the dosage to incapacitate, not kill—intended to make Eleanor sick for a few hours
+  - The plan: Victor and Diana would meet at midnight to search Eleanor's office for evidence against them while she was incapacitated
+  - Diana reveals she always knew about Sarah and Victor's past relationship—Eleanor told her on her wedding day
+  - Diana stayed in the marriage to execute her own long-term plans against Eleanor
+
+- **Diana's Eyewitness Account**:
+  - Diana was in the hallway when Julian entered the library
+  - She witnessed her own son attempt to strangle Eleanor from hiding
+  - She did not stop him—admits she wanted Eleanor dead in that moment
+  - After Julian fled, Diana was too afraid to help Eleanor or call for help
+  - She went to her room and took a real sleeping pill, telling herself the poison wasn't enough to kill
+
+- **Diana's Arrest**:
+  - Marlowe arrests Diana Ashworth for attempted murder of Eleanor Ashworth
+  - Diana accepts arrest with dignity, calling it freedom from a "20-year prison"
+  - She is taken into custody by officers at the estate
+
+- **Updated Case Status**:
+  - **Poisoner**: Diana Ashworth (CONFIRMED, arrested)
+  - **Strangler**: Julian Ashworth (previously confessed)
+  - **Final wound**: Self-inflicted by Eleanor (confirmed)
+  - Sarah Marlowe's alibi to be verified, but she is not currently a murder suspect
+
+- **Unresolved Questions for Future Chapters**:
+  - What was the original plan that Diana and Victor had for Eleanor's documents?
+  - What single event set this entire chain in motion—what triggered everyone to act on the same night?
+  - Does Catherine Webb know more than she has revealed?
+  - What role, if any, did David Sterling play in the events?
+  - How will the legal proceedings unfold for Diana, Julian, and potentially others?
+  - What is Marlowe's emotional reckoning with Sarah's revelations about their marriage?
+  - Will Eleanor's decades of crimes finally be exposed publicly?
