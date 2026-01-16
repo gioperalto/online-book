@@ -63,3 +63,41 @@
 - Captain Reyes has given Marlowe until tomorrow morning to maintain objectivity or be pulled from the case
 - The old will (still in effect): Victor gets 60%, Margot gets monthly stipend and residence, Julian gets trust at 30, remaining 40% to charities
 - The unsigned new will would have: disinherited Victor entirely, given everything to Julian, kept Margot's provisions unchanged
+
+## Chapter 4 Developments
+- **Rosa's Revelations about the Past**:
+  - Marlowe's grandmother was Eleanor's personal secretary before she married Marlowe's grandfather
+  - Eleanor and Marlowe's grandmother were once close friends
+  - **Marcus Webb**: A shipping clerk who fell in love with Marlowe's grandmother; Eleanor was also in love with him but he chose Marlowe's grandmother
+  - Eleanor destroyed the relationship by telling lies to Marlowe's grandfather (claimed affair, pregnancy, etc.)
+  - Marcus was transferred to Seattle (Eleanor's doing) and died 3 years later in a "shipping yard accident"
+  - Marcus gave the locket to Marlowe's grandmother the day before he left - it was a symbol of their love
+  - Marlowe's grandmother was forced to marry his grandfather out of desperation and shame
+  - Marlowe's grandmother confronted Eleanor 30 years after Marcus's death, demanding the truth
+  - Eleanor laughed in her face; Marlowe's grandmother died 3 days later of a "heart attack" - Rosa believes Eleanor murdered her
+  - The locket disappeared the night of the confrontation (grandmother was wearing it when she arrived, not when she died)
+
+- **The Attack at the Chapel**:
+  - A masked figure attacked Marlowe and Rosa at the midnight meeting
+  - The attacker knew they were coming - was waiting inside the chapel
+  - Attacker used voice distortion but admitted Eleanor deserved to die
+  - Gave Marlowe an ultimatum: walk away from the case or face consequences
+  - Cryptically hinted that the three methods of death point to multiple killers
+
+- **Critical Medical Examiner Findings**:
+  - The three methods were NOT administered at the same time
+  - **Poison**: Slow-acting toxin, in her system at least an hour before death; made her groggy and disoriented
+  - **Strangulation**: Second method, but NOT what killed her; someone started then stopped
+  - **Stabbing**: The actual cause of death, BUT the angle suggests self-inflicted wound
+  - New theory: Three different people may have been involved - one poisoned her, one tried to strangle her, and Eleanor herself may have finished the job with the letter opener
+
+- **Evidence Found at Chapel**:
+  - Rosa had collected evidence over the years: documents, photographs, records of payments
+  - Payments coincide with suspicious accidents, disappearances, destroyed careers
+  - Suggests Eleanor was running criminal operations from the mansion for decades
+
+- **Key Questions Raised**:
+  - Who is the masked attacker? (Voice was "familiar" to Marlowe)
+  - If three different people were involved in Eleanor's death, who poisoned her? Who strangled her? And did she truly kill herself at the end?
+  - Who sent the phone message that disturbed Eleanor at dinner?
+  - What is the connection between the "twenty years of lies" Victor argued about and the locket mystery?

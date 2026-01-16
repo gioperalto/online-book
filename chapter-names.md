@@ -3,3 +3,4 @@
 ## Some ghosts you have to face
 ## The Weight of Inheritance
 ## The Last Testament
+## Midnight Confessions

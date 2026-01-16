@@ -68,7 +68,7 @@ function getRepoInfo() {
     }
     
     // Fallback: You need to manually set this
-    return 'USERNAME/REPO-NAME'; // Replace with your GitHub username/repo
+    return 'gioperalto/online-book'; // Replace with your GitHub username/repo
 }
 
 // Load chapter titles from markdown files
