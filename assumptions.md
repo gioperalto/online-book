@@ -412,3 +412,53 @@
   - How will Marlowe reconcile his investigation with his family's deep involvement?
   - Will Sterling face charges for his 37 years of complicity?
   - What happens to the Ashworth estate and fortune now?
+
+## Chapter 11 Developments
+
+- **Robert Marlowe's Full Story**:
+  - Robert Marlowe (Marlowe's father) is confirmed as Marcus Webb's biological son
+  - Robert learned the truth at age 17, the night before his high school graduation, when his mother (Marlowe's grandmother) told him
+  - Helen Marlowe (Marlowe's grandmother) made Robert promise before her death to expose Eleanor's crimes—not through violence, but through truth and exposure
+  - Robert connected with Catherine Webb about 5 years ago; they've been building a case together ever since
+
+- **Marcus Webb's Final Letter**:
+  - Marcus wrote a final letter to Helen two days before his death
+  - He knew Eleanor was going to have him killed—he saw her people watching him in Seattle
+  - The letter confirms: Marcus loved Helen, he knew about the pregnancy (Robert), and he left records with Catherine
+  - Marcus asked Helen not to fight Eleanor until the time was right, but to keep the evidence safe
+  - The letter states: "The truth never dies. It waits. It finds a way."
+  - Marlowe now possesses this letter—his father gave it to him
+
+- **Robert's Phone Call to Eleanor (the catalyst)**:
+  - Robert called Eleanor at 4 PM on the day of her death
+  - He told her he had proof of Marcus's murder and other crimes
+  - He gave Eleanor an ultimatum: meet with him by noon the next day or he'd take everything to the press
+  - Eleanor was terrified—begged for time, said she would "handle things"
+  - Robert had no idea his phone call would trigger the events that led to Eleanor's death that same night
+
+- **The Larger Conspiracy**:
+  - Robert reveals that Eleanor wasn't acting alone
+  - She had a network of enablers, protectors, and beneficiaries who helped cover her crimes
+  - Some of these people are still alive and in positions of power in Millbrook
+  - Robert wants to expose not just Eleanor's crimes but the entire corrupt system she built
+  - This includes potentially bringing down "half of Millbrook"
+
+- **Marlowe's Position**:
+  - Marlowe now holds Marcus Webb's letter and the knowledge of the larger conspiracy
+  - He must decide whether to pursue only the immediate case (Diana, Julian) or expose the broader network
+  - He's struggling with the implications: exposing the system could complicate prosecutions or let guilty people walk free
+  - BUT it could also bring justice to decades of victims and dismantle a corrupt power structure
+
+- **Family Reconciliation Beginning**:
+  - This is the first real conversation Marlowe has had with his father in years
+  - Robert physically touched Marlowe (hand on shoulder)—described as "unfamiliar"
+  - Robert gave Marlowe the letter, saying "It should have been yours all along"
+  - Marlowe calls him "Dad" for the first time in the narrative—notes it feels "strange"
+
+- **Key Questions for Future Chapters**:
+  - Will Marlowe pursue the larger conspiracy or focus only on the immediate murders?
+  - Who are the other powerful people in Millbrook who enabled Eleanor's crimes?
+  - What will happen when Eleanor's network of corruption is threatened with exposure?
+  - How will Marlowe reconcile his roles as a detective seeking justice with his personal stake in the outcome?
+  - Will the evidence Catherine and Robert gathered be enough to bring down the system?
+  - What role will Sarah play going forward—ally, witness, or complication?
