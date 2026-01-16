@@ -1,4 +1,4 @@
-# Chapter One
+# Some ghosts you have to face
 
 The phone call came at 3:47 in the morning, that ungodly hour when the world holds its breath between night and dawn. I know the exact time because I was already awake, sitting in my kitchen with a glass of bourbon I had no intention of drinking, staring at a photograph I had no business keeping.
 
