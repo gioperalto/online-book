@@ -91,7 +91,3 @@ And I knew, with a certainty that settled into my bones like winter cold, that t
 But I also knew I couldn't walk away.
 
 Some ghosts, you have to face.
-
----
-
-*To be continued...*
