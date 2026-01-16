@@ -73,18 +73,35 @@ function getRepoInfo() {
 
 // Load chapter titles from markdown files
 async function loadChapterTitles() {
+    let totalWordCount = 0;
+
     const promises = chapters.map(async (chapter) => {
         try {
             const response = await fetch(chapter.url);
             const content = await response.text();
             const title = extractTitle(content);
             chapter.title = title || `Chapter ${chapter.number}`;
+            totalWordCount += countWords(content);
         } catch (error) {
             chapter.title = `Chapter ${chapter.number}`;
         }
     });
 
     await Promise.all(promises);
+    updateWordCount(totalWordCount);
+}
+
+// Count words in text
+function countWords(text) {
+    const cleaned = text.replace(/^#+\s+.+$/gm, '').replace(/[#*_`\[\]()]/g, '');
+    const words = cleaned.trim().split(/\s+/).filter(word => word.length > 0);
+    return words.length;
+}
+
+// Update word count display
+function updateWordCount(count) {
+    const wordCountEl = document.getElementById('word-count');
+    wordCountEl.textContent = `${count.toLocaleString()} words`;
 }
 
 // Extract title from markdown content (first h1)
