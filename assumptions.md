@@ -48,4 +48,18 @@
 - What is Marlowe's full history with the Ashworth family?
 - Who is Sarah and what is her connection to Marlowe and/or the Ashworths?
 - Why were three methods of death used - one very thorough killer or multiple killers?
-- Julian, Rosa, Thomas Chen, and David Sterling still need to be interviewed
+- Thomas Chen (groundskeeper) still needs to be interviewed
+- What will Rosa reveal at the midnight meeting at the old Ashworth chapel?
+- What message did Eleanor receive on her phone during dinner that turned her white?
+- What did Victor do that made Eleanor want to disinherit him ("twenty years of lies")?
+
+## Chapter 3 Developments
+- **David Sterling**: 37 years as Eleanor's attorney, reveals Eleanor was about to completely disinherit Victor (cutting him from 60% to 0%), but she died before signing the new will
+- Eleanor received a disturbing message on her phone during dinner that visibly shook her
+- Eleanor made an angry phone call around 11 PM saying "You should have told me years ago. Do you understand what you've done? What you've taken from this family?"
+- Victor and Eleanor argued before dinner about "consequences" and "twenty years of lies"
+- **Julian Ashworth**: 22-23 years old, law student (though wanted marine biology), genuinely grieving, observant - noticed Eleanor's reaction to the phone message and her changed attitude toward Victor
+- **Rosa Martinez**: 35 years with the family, knows secrets about the locket and Marlowe's grandmother, has arranged a midnight meeting at the abandoned Ashworth chapel
+- Captain Reyes has given Marlowe until tomorrow morning to maintain objectivity or be pulled from the case
+- The old will (still in effect): Victor gets 60%, Margot gets monthly stipend and residence, Julian gets trust at 30, remaining 40% to charities
+- The unsigned new will would have: disinherited Victor entirely, given everything to Julian, kept Margot's provisions unchanged
