@@ -283,7 +283,3 @@ Three methods. Three suspects. And a mystery that had just become infinitely mor
 I hung up before she could argue and started the engine. The sun was rising over Millbrook, burning away the clouds and the shadows and the comfortable darkness that had hidden so many secrets.
 
 Time to bring them all into the light.
-
----
-
-*To be continued...*

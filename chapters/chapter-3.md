@@ -285,7 +285,3 @@ Tonight, at midnight, I would finally learn the truth.
 But as I tucked the paper into my pocket and turned back toward the house, I couldn't shake the feeling that someone was watching me. That somewhere in those shadowed windows, a killer was making plans.
 
 And that whatever secrets Rosa Martinez was about to reveal, they would change everything I thought I knew—about the Ashworths, about Eleanor's murder, and about my own family's place in this web of lies.
-
----
-
-*To be continued...*

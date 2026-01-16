@@ -249,7 +249,3 @@ They were wrong.
 Whatever it cost me, whatever ghosts I had to face, I was going to find the truth.
 
 Even if it destroyed me in the process.
-
----
-
-*To be continued...*
