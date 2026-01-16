@@ -364,3 +364,51 @@
   - How will the legal proceedings unfold for Diana, Julian, and potentially others?
   - What is Marlowe's emotional reckoning with Sarah's revelations about their marriage?
   - Will Eleanor's decades of crimes finally be exposed publicly?
+
+## Chapter 10 Developments
+
+- **Diana's Backstory Revealed**:
+  - Diana's mother worked at Ashworth shipping company 30 years ago as an accounting secretary
+  - Diana's mother discovered financial irregularities - payments to shell companies, money laundering
+  - Eleanor had Diana's mother fired on fabricated theft charges ($10,000 "missing" from petty cash)
+  - Diana's mother spent 5 years working 3 jobs, never recovered from the shame, died of heart attack when Diana was 19
+  - Diana married Victor as a long-term revenge plan against Eleanor, not as a gold-digger
+  - Diana knew about Victor's embezzlement for almost a year, knew about Sarah since before the wedding
+
+- **The Catalyst Event - Robert Marlowe's Phone Call**:
+  - At 4 PM on the day of Eleanor's death, she received a phone call that terrified her
+  - The caller was **Robert Marlowe** - Detective Marlowe's father, claiming to be Marcus Webb's son
+  - Robert demanded a meeting and threatened to expose Eleanor's crimes to the press
+  - Eleanor spent the afternoon in fear, checking locks, looking over her shoulder
+  - This phone call was the "spark that lit the fuse" - it destabilized Eleanor and triggered the family to act
+
+- **David Sterling's Confession**:
+  - Sterling has been complicit in Eleanor's crimes for 37 years
+  - He drafted documents to make Marcus Webb's transfer look like a promotion
+  - He arranged for Marcus's death to be classified as workplace negligence
+  - He helped Eleanor believe all loose ends were tied up
+  - Eleanor asked him to prepare a new will that would cut out everyone - intended to "burn the family to the ground"
+  - Sterling is tired of protecting secrets and is now cooperating with Marlowe
+
+- **Marlowe's Father - Key Revelation**:
+  - Robert Marlowe is confirmed to be Marcus Webb's biological son
+  - He has known the truth about his parentage for years/decades
+  - He has been working with Catherine Webb, gathering evidence against Eleanor
+  - He called Eleanor on the day of her death to demand a meeting
+  - Robert is at his mother's (Marlowe's grandmother's) grave at the cemetery
+  - He visits the cemetery every year on the anniversary of her death, came early this year because Eleanor died
+
+- **The True Chain of Events**:
+  - Robert Marlowe's phone call (4 PM) destabilized Eleanor
+  - Eleanor panicked, made calls, gave instructions to handle the "situation"
+  - Diana saw an opportunity and poisoned Eleanor's tea that evening
+  - Julian, Victor, and Diana all acted independently that night
+  - Eleanor's fear and distraction created the perfect storm for the family to turn on her
+
+- **Key Questions for Future Chapters**:
+  - What will Robert Marlowe reveal at the cemetery about Marcus Webb and the family history?
+  - What was Robert's plan for exposing Eleanor before she was killed?
+  - Does Robert have additional evidence that could expose more of Eleanor's crimes?
+  - How will Marlowe reconcile his investigation with his family's deep involvement?
+  - Will Sterling face charges for his 37 years of complicity?
+  - What happens to the Ashworth estate and fortune now?
