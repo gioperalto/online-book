@@ -244,3 +244,56 @@
   - Will Margot's testimony hold up, and will she face charges for conspiracy?
   - What is Sarah's connection to all of this (Marlowe hasn't called her back)?
   - How will Marlowe's new family connection to the Webbs affect his objectivity?
+
+## Chapter 8 Developments
+
+- **Julian's Confession**:
+  - Julian Ashworth confesses to attempting to strangle Eleanor
+  - He found Eleanor in the library already "drunk" (actually poisoned) and slurring her words
+  - He put his hands around her throat and began strangling her, but stopped when she looked at him and said his name
+  - He fled through the garden door around 12:10 AM
+  - He confirms he is NOT the poisoner—the poison was already in Eleanor's system when he arrived
+  - He saw a shadow moving toward the old chapel as he fled the garden
+
+- **Victor's Backstory - The Blackmail Revealed**:
+  - 20 years ago, Victor fell in love with a woman Eleanor disapproved of
+  - Eleanor destroyed the relationship using her standard tactics: lies, manipulation, paid people off
+  - The woman was paid to disappear and never contact Victor again
+  - Victor was forced into an "Ashworth-approved" marriage to Diana six months later
+  - Three years ago, the woman returned and began blackmailing Victor
+  - Victor's embezzlement was to pay off the blackmailer, not simple greed
+  - Eleanor discovered both the embezzlement AND the reason behind it last week
+
+- **Major Revelation - Sarah Marlowe**:
+  - The blackmailer is **Sarah Marlowe** - Marlowe's ex-wife
+  - Sarah has been extorting money from Victor for three years
+  - Sarah was the woman Victor loved 20 years ago before Eleanor destroyed the relationship
+  - Sarah is currently in Millbrook, staying at the motel on Route 7, Room 14
+  - She arrived the day before, claiming she wanted to support Marlowe
+  - Sarah knew about Marlowe's grandmother and the Ashworth connection—possibly before they even met
+  - Their entire marriage may have been built on secrets Sarah never revealed
+  - Sarah claims she was "trying to protect" Marlowe by not telling him the truth
+
+- **Timeline Clarification**:
+  - Eleanor was poisoned during/after dinner (poison in system by ~11 PM)
+  - Victor confronted Eleanor at 11:30 PM (she was already compromised)
+  - Julian arrived at library around midnight, found Eleanor slumped and slurring
+  - Julian attempted strangulation, stopped when Eleanor said his name
+  - Julian fled through garden door around 12:10 AM
+  - Margot arrived at library around midnight, witnessed Julian strangling Eleanor
+  - After Julian fled, Eleanor (still alive but dying) stabbed herself with the letter opener
+
+- **Evidence Status**:
+  - Julian will be arrested for attempted murder/assault
+  - Margot's burner phone given to Captain Reyes
+  - Poisoner still unknown—could be Victor, Diana, Sterling, or another party
+  - Sarah Marlowe is now a potential suspect given her connection to the family
+
+- **Key Questions for Future Chapters**:
+  - Who poisoned Eleanor? (Julian, Margot, and Victor now ruled out as the poisoner)
+  - What will Sarah reveal about her connection to the Ashworths and Marlowe's family?
+  - Did Sarah have any involvement in Eleanor's death?
+  - Why did Sarah really come to Millbrook—to support Marlowe or for another reason?
+  - What did Sarah know about Marlowe's grandmother, and how long has she known?
+  - Is Diana the poisoner? (She had access to dinner, motive from years of abuse, and no confirmed alibi)
+  - What about David Sterling? (37 years as Eleanor's confidant, knew all her secrets)

@@ -7,3 +7,4 @@
 ## Three Hands, One Death
 ## The Message That Changed Everything
 ## The Boathouse Reckoning
+## The Son's Burden
