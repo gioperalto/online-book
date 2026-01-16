@@ -40,6 +40,7 @@ body {
 .word-count {
     font-size: 0.9rem;
     opacity: 0.85;
+    cursor: pointer;
 }
 
 .navbar h1 {

@@ -8,6 +8,8 @@ const config = {
 // State
 let chapters = [];
 let currentChapter = null;
+let totalWordCount = 0;
+let showingPageCount = false;
 
 // Initialize the application
 async function init() {
@@ -100,8 +102,25 @@ function countWords(text) {
 
 // Update word count display
 function updateWordCount(count) {
+    totalWordCount = count;
+    renderCountDisplay();
+}
+
+// Render the count display (words or pages)
+function renderCountDisplay() {
     const wordCountEl = document.getElementById('word-count');
-    wordCountEl.textContent = `${count.toLocaleString()} words`;
+    if (showingPageCount) {
+        const pageCount = Math.ceil(totalWordCount / 250);
+        wordCountEl.textContent = `${pageCount.toLocaleString()} pages`;
+    } else {
+        wordCountEl.textContent = `${totalWordCount.toLocaleString()} words`;
+    }
+}
+
+// Toggle between word count and page count
+function toggleCountDisplay() {
+    showingPageCount = !showingPageCount;
+    renderCountDisplay();
 }
 
 // Extract title from markdown content (first h1)
@@ -222,6 +241,10 @@ function setupEventListeners() {
     sidebarToggle.addEventListener('click', () => {
         sidebar.classList.toggle('active');
     });
+
+    // Word/page count toggle
+    const wordCountEl = document.getElementById('word-count');
+    wordCountEl.addEventListener('click', toggleCountDisplay);
 
     // Close sidebar when clicking outside on mobile
     document.addEventListener('click', (e) => {
