@@ -734,3 +734,58 @@
   - What will the adjuster reveal under interrogation?
   - How will the legal proceedings unfold for Diana, Julian, and Sterling?
   - What is Catherine Webb's remaining role before her cancer claims her?
+
+## Chapter 17 Developments
+
+- **Captain Reyes's Betrayal Revealed**:
+  - Morrison's hidden safe contained a handwritten list of network payroll members
+  - Captain Maria Reyes was on the list: Recruited 2019, monthly payment $5,000, status "Active"
+  - Bank records confirmed monthly deposits of $5,000 since March 2019 from Ashworth-connected entities
+  - Phone records show Reyes called the adjuster's burner phone at 6:47 AM—three hours before Marlowe arrived at Webb house
+  - Reyes warned the adjuster about Marlowe's movements
+  - Reyes fled her apartment and is now at large with an APB issued
+  - She was playing both sides: working for the network while positioning herself to cooperate with FBI if needed
+
+- **FBI Operation Status**:
+  - Warehouse operation cancelled due to network awareness and Reyes's compromised status
+  - Search warrants executed at six locations: Judge Harper's home, Morrison's fishing cabin, Ashworth shipping warehouse, three shell company properties
+  - Most locations had been sanitized—files destroyed, computers wiped
+  - Morrison's fireproof safe recovered with payment records dating back 20 years
+
+- **Catherine Webb's Alternative Plan**:
+  - Catherine reveals she has spent 40 years building relationships outside official channels
+  - Contact at *Detroit Free Press* ready to publish the full story
+  - Friend in U.S. Attorney's office in Detroit interested in multi-generational RICO case
+  - Plan: Go public with all evidence to make it impossible for network members to hide
+  - Faces will be plastered across newspapers, accounts frozen, families will know the truth
+  - Margaret/Torres reluctantly agrees to support the plan
+
+- **Rosa Martinez's New Revelation - The Locket Mystery**:
+  - Rosa saw someone in the garden the night Eleanor died, before she found the body
+  - The person was wearing something metallic that caught the moonlight—possibly a gold locket
+  - This contradicts the assumption that Eleanor was holding the locket when she died
+  - New theory: Someone wearing the locket was at the estate that night and dropped it
+
+- **Sarah Marlowe Under Suspicion**:
+  - Sarah had access to Marlowe's grandmother's belongings after her death
+  - She found letters and a diary—what if she also found the locket?
+  - Sarah's alibi has gaps: She was at her mother's care facility until 9 PM, then home "packing"
+  - Detroit to Millbrook is 2 hours by car—she could have driven to the estate and returned before her 7:45 AM flight
+  - Sarah knew the Ashworth house from her relationship with Victor, knew the layout and gardens
+  - Sarah had motive: Eleanor destroyed her relationship with Victor and ruined her family
+  - Chapter ends with Marlowe calling Sarah to confront her
+
+- **Hospital Command Center**:
+  - Marlowe's hospital room becomes operations hub for Catherine's plan
+  - Margaret's team sets up encrypted communications
+  - Robert Marlowe works with Catherine to organize evidence
+  - Marlowe contacts victim families, including Rosa, to gather final testimonies
+
+- **Key Questions for Future Chapters**:
+  - Was Sarah at the Ashworth estate the night of Eleanor's murder?
+  - Did Sarah have the locket, and did she drop it in Eleanor's hand?
+  - What role, if any, did Sarah play in Eleanor's death?
+  - Where is Captain Reyes hiding, and will she be captured?
+  - Will Catherine's media/legal strategy succeed in bringing down the network?
+  - How will the *Detroit Free Press* story impact the case?
+  - What will Sarah reveal when Marlowe confronts her?
