@@ -1060,3 +1060,59 @@
   - Will more Webb family members emerge from the past?
   - How will Marlowe handle testifying in the remaining trials?
   - What happens to the Ashworth estate now that Diana is convicted?
+
+## Chapter 22 Developments
+
+- **Julian's Trial Threatened by Motion to Dismiss**:
+  - Julian's defense team files motion claiming prosecutorial misconduct and Marlowe's conflict of interest
+  - The motion seeks to invalidate all evidence Marlowe touched, which could collapse the entire case
+  - Judge Marcus Thompson (federal appointee, procedural stickler) will hear the case after Judge Mills recused herself
+  - If Julian walks, defense teams for all other network members will file identical motions
+
+- **Patricia Webb's True Identity and Motives**:
+  - Patricia Webb is actually Eleanor's niece—daughter of Eleanor's younger sister Margaret (who married a Webb cousin)
+  - Eleanor had Patricia placed in foster care after her mother died and erased her mother from family records
+  - Patricia has spent 25 years gathering evidence and waiting for the right moment to destroy Eleanor's legacy
+  - She approached Sterling to trade information but someone got to him first
+
+- **Sterling's Recantation Explained**:
+  - Sterling recanted not due to coercion but because someone threatened to kill his daughter (a 30-year-old accountant in Boston)
+  - A mysterious man has been following Sterling's daughter for a week (Patricia has photographic evidence)
+  - The same threats-to-family tactics Eleanor used are still being employed
+
+- **Thomas Reid - Compromised Defense Attorney**:
+  - Junior associate on Julian's defense team
+  - His grandfather Harrison Reid was Eleanor's driver for 15 years, died of "heart attack" at 52 three weeks after being fired
+  - Eleanor paid for his mother's Yale education through a money-laundering foundation to ensure silence
+  - Reid was approached 6 months ago by "Mr. Smith" representing "interested parties" to protect Julian
+  - Reid provided prosecution strategies, discovery documents, and witness lists in exchange for funding
+  - The motion to dismiss was demanded by Mr. Smith, who specifically wanted Marlowe removed from the case
+  - Mr. Smith knew details about Marlowe's family that weren't in any public record
+
+- **The Foundation - New Major Threat**:
+  - A shadowy organization that appears to predate Eleanor's network
+  - Eleanor may have reported to or cooperated with The Foundation rather than being the ultimate power
+  - Morrison, Caldwell, Harper were Eleanor's people—The Foundation operates on a different level
+  - The mysterious "Mr. Smith" likely works for The Foundation
+
+- **Discovery in the Wine Cellar**:
+  - Anonymous text led Marlowe to check the Ashworth estate's wine cellar
+  - False wall concealed a hidden room packed with filing cabinets, document boxes, old computer terminals
+  - Photographs spanning 50+ years line the walls, annotated in Eleanor's handwriting
+  - Central portrait shows unknown silver-haired man with plaque: "Founding Member, 1952-2019, 'The Foundation Endures'"
+  - This man died just 3 years ago but was part of something dating back 70+ years
+
+- **Chapter Cliffhanger**:
+  - Marlowe is trapped in the secret room with the mysterious Mr. Smith
+  - His phone is dead (signal blocked)
+  - The man mentions "The Foundation" and says they have questions about Marlowe's investigation
+  - This represents a new layer of conspiracy beyond Eleanor's network
+
+- **Key Questions for Future Chapters**:
+  - What is The Foundation and how long has it existed?
+  - Who was the silver-haired "Founding Member" in the portrait?
+  - What does The Foundation want with Julian and the Ashworth estate?
+  - How will Marlowe escape the wine cellar confrontation?
+  - Will Patricia Webb become an ally in exposing The Foundation?
+  - What evidence is hidden in the secret room?
+  - How does The Foundation connect to the crimes against Marlowe's family?
