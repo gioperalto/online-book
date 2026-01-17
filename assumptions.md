@@ -619,3 +619,61 @@
   - Will "the adjuster" be captured or will he escape?
   - How will the relationship between Marlowe and his newly-discovered aunt Margaret/Torres develop?
   - What role will Margot play in the final unraveling of the mystery?
+
+## Chapter 15 Developments
+
+- **Margot's Recovered Memory - The True Killer**:
+  - Margot reveals she didn't leave the library immediately after Julian fled
+  - She hid behind curtains and witnessed David Sterling enter the library
+  - Sterling picked up the letter opener and stabbed Eleanor
+  - Eleanor was still conscious and recognized Sterling before he struck
+  - Margot blocked this memory due to trauma but finally recovered it
+
+- **Sterling's Motive Revealed**:
+  - Sterling had a 37-year arrangement with Eleanor: in exchange for his services, he would receive $3 million and a property in Maine upon her death
+  - Eleanor's new will (the one she intended to sign that night) would have eliminated Sterling's bequest entirely
+  - Sterling was explicitly removed for "services no longer meeting expectations"
+  - Sterling killed Eleanor to prevent the new will from being signed, ensuring the old will remained in effect
+
+- **Sterling's Confession**:
+  - Sterling admits to "finishing what the others started" after Diana's poisoning and Julian's strangulation
+  - He claims it was a "mercy killing" to end Eleanor's suffering
+  - He reveals deep resentment for 37 years of service that Eleanor was going to discard
+  - Eleanor's last words to Sterling: "You were never anything but a tool, David. Tools don't get rewarded. They get replaced."
+  - Sterling offers to testify against the network in exchange for leniency
+
+- **The Final Truth About Eleanor's Death**:
+  - Diana poisoned Eleanor (first act)
+  - Julian strangled Eleanor but stopped when she said his name (second act)
+  - Sterling stabbed Eleanor with the letter opener (third act)
+  - Eleanor grabbed Sterling's hand and helped drive the blade home (fourth act)
+  - Eleanor chose to participate in her own death rather than let someone else control the ending
+  - This explains the medical examiner's finding that the wound angle was consistent with self-infliction
+
+- **Sterling's Value to the FBI**:
+  - Sterling has 37 years of evidence against the network: documents, recordings, photographs
+  - He claims to know the identity of "the adjuster"
+  - He was supposed to be a key witness in the warehouse operation
+  - His arrest complicates the FBI's takedown plans
+
+- **New Threat - The Adjuster is Active**:
+  - Margaret/Torres warns Marlowe that the warehouse meeting is a trap
+  - Sterling talked before being arrested; the network knows about the operation
+  - The adjuster is already in Millbrook and is "tying up loose ends"
+  - The adjuster's first target is Robert Marlowe (James's father)
+  - Robert is at the old Webb property on the outskirts of town, retrieving something Catherine told him about
+  - The adjuster plans to eliminate everyone connected to the Webb family before disappearing
+
+- **The Old Webb Property**:
+  - The house where Marcus Webb grew up, before Eleanor destroyed his life
+  - Robert Marlowe went there to retrieve something important
+  - This is where the adjuster plans to strike first
+
+- **Key Questions for Future Chapters**:
+  - Will Marlowe reach his father in time to save him from the adjuster?
+  - Who is the adjuster and what is his true identity?
+  - What was Robert trying to retrieve from the old Webb property?
+  - Will the warehouse operation be cancelled or modified now that it's compromised?
+  - What consequences will Sterling face for Eleanor's murder?
+  - How will the network respond now that they know they're being targeted?
+  - Will Margaret's 30-year undercover operation succeed or fail?
