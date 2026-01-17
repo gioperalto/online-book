@@ -1453,3 +1453,59 @@
   - How will Marlowe's relationship with his father and aunt continue to develop?
   - What final personal closure will Marlowe find?
   - Will the remaining Foundation cases conclude, and what will be the final toll?
+
+## Chapter 28 Developments
+
+- **The Webb Restitution Trust Revealed**:
+  - Henry Ashworth (Eleanor's father-in-law, Foundation patriarch) established a secret trust in 1958
+  - The trust was funded by 2% of Ashworth Shipping profits annually
+  - Designated for "heirs and descendants of Marcus Webb and Helen Marlowe"
+  - Condition: disbursement only upon dissolution of Foundation operations and public acknowledgment of truth
+  - After 70 years of compound growth, the trust is worth $47 million
+  - Three beneficiaries: Robert Marlowe, Margaret/Torres, James Marlowe (~$15.7 million each)
+
+- **Henry Ashworth's Letter**:
+  - A sealed letter accompanied the trust, to be opened only upon disbursement
+  - Henry admitted he knew what Eleanor was doing to the Webb family but didn't stop her
+  - He cited fear and old age as excuses, acknowledged his own moral failure
+  - The letter explicitly states he is not asking for forgiveness
+  - He asked that the money be used to "rebuild what was broken"
+
+- **The Webb-Marlowe Foundation Established**:
+  - All three beneficiaries (James, Robert, Margaret) agree to donate their inheritance
+  - The $47 million will fund: victim restitution program for 200+ affected families, the new Webb-Marlowe Foundation
+  - The foundation will be public, transparent, and dedicated to supporting workers and communities
+  - Intended as "the opposite of everything the Ashworth family stood for"
+  - Harrison Cole (executor) will handle establishment paperwork
+
+- **Ashworth Estate Auction**:
+  - Held on a Saturday in late May
+  - Diana, Julian convicted - inheritance rights forfeit
+  - Victor fled to Argentina - forfeited by default
+  - Margot in Connecticut sanatorium - declared legally incompetent
+  - Remaining 40% (not family-designated) goes to charity per original will
+  - Eleanor's portrait sold for $16,000 to a private collector
+  - The mansion itself sold to historical society - will become a museum about the Foundation
+
+- **Patricia Webb's Future**:
+  - Will work as coordinator for the victim restitution program
+  - Sees this as continuing her mother Margaret Webb's documentation work
+
+- **James and Robert's Book Project**:
+  - Marlowe calls his father to confirm they will write a book together
+  - Not about the case, but about the family's private history
+  - Will begin with Marcus and Helen before everything went wrong
+  - Represents a new beginning in their relationship
+
+- **Plot Thread CLOSED**:
+  - **Ashworth Estate Distribution**: CLOSED
+  - Estate auctioned, mansion becomes museum
+  - Webb Restitution Trust disbursed to beneficiaries
+  - All three beneficiaries donate to Webb-Marlowe Foundation and victim restitution
+  - Henry Ashworth's guilty conscience fund transformed into genuine reparative work
+
+- **Key Questions for Final Chapters**:
+  - Will James and Robert complete their family history book?
+  - What final personal closure will Marlowe find?
+  - How will Marlowe's career evolve after the Foundation cases fully conclude?
+  - What becomes of the Webb-Marlowe Foundation and its work?

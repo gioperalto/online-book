@@ -27,3 +27,4 @@
 ## The Truth Goes to Print
 ## What We Leave Behind
 ## The Book of the Dead
+## The Inheritance
