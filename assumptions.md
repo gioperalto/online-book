@@ -1258,3 +1258,78 @@
   - How will the Foundation respond to Janet Chen's upcoming exposé?
   - Will Margaret/Torres's FBI operation continue without the wine cellar evidence?
   - What becomes of Marlowe's credibility as a detective?
+
+## Chapter 25 Developments
+
+- **Janet Chen's Story Published**:
+  - The *Detroit Free Press* published the first part of a 5-part investigative series at midnight
+  - Headline: "THE FOUNDATION: Inside the 70-Year Criminal Empire That Controlled an American City"
+  - Story traced Foundation history from 1952 establishment through Eleanor's death
+  - Included payment records, surveillance files, decision memos documenting crimes
+  - Janet found additional sources and witnesses who'd stayed silent for decades
+  - Article named Morrison, Caldwell, Harper, the adjuster, and others
+  - Marcus Webb and Helen Marlowe's photographs published; Helen publicly recognized as a hero
+  - Story became international news, covered by CNN, MSNBC, and media worldwide
+
+- **Julian Ashworth's Trial Concluded**:
+  - Judge Thompson dismissed Jonathan Gray's motion to suspend; issued federal warrant for Gray's arrest
+  - Gray no longer recognized as counsel for Ashworth Family Trust
+  - Trial proceeded immediately after overnight developments
+  - Defense argued diminished capacity due to traumatic upbringing
+  - Marlowe testified about Julian's voluntary confession
+  - Julian found GUILTY of attempted murder in the first degree
+  - Julian agreed to testify against remaining Foundation members in exchange for nothing—pure conscience
+  - Sentenced to 18 years in prison
+
+- **Foundation's Collapse Accelerates**:
+  - Jonathan Gray/Mr. Smith fled to Mexico City, then Costa Rica; captured trying to board boat to international waters
+  - Three Foundation members turned themselves in within a week of the story
+  - Two others apprehended attempting to flee
+  - One suspected member committed suicide in Buenos Aires
+  - FBI investigation expanded to six states and three federal districts
+
+- **Sentencing of Key Players**:
+  - **Julian Ashworth**: 18 years in prison
+  - **Diana Ashworth**: 22 years in prison
+  - **David Sterling**: 15 years (reduced sentence for testimony)
+  - **Morrison, Caldwell, Harper**: Face federal RICO charges; likely life sentences
+  - **Jonathan Gray**: In Costa Rica awaiting extradition
+
+- **Patricia Webb's Mother's Box - Major Revelation**:
+  - Patricia's mother Margaret Webb left a hidden box with instructions to open only when Foundation was truly destroyed
+  - Contents included: stack of letters, leather journal, and 1952 photograph
+  - Photograph shows Marcus Webb, Helen Marlowe (Marlowe's grandmother), Catherine Webb, and Eleanor Ashworth as young friends
+  - Caption: "The Webb-Ashworth Shipping Company Founders, 1952. Marcus, Helen, Catherine, and Eleanor. Before everything changed."
+  - Letters are correspondence between Margaret Webb and Catherine Webb from before Foundation turned dark
+  - Journal is Marcus Webb's personal diary (1950-1964), last entry two days before his death
+
+- **True Origin of the Foundation Revealed**:
+  - The Foundation did NOT start as a criminal organization
+  - It began as a business partnership: Webb-Ashworth Shipping Company, founded 1952
+  - Four founders: Marcus Webb (visionary), Helen/Marlowe's grandmother (organizer), Catherine Webb (strategist), Eleanor Ashworth (financier)
+  - For a few years they were partners, friends, "something like family"
+  - Eleanor loved Marcus but he fell in love with Helen
+  - Eleanor's heartbreak transformed her; she brought in Henry Ashworth and his criminal connections (Harpers, Morrisons)
+  - The partnership became a conspiracy; Marcus and Helen were pushed out, then hunted
+  - Eleanor destroyed everything because she couldn't accept losing Marcus
+
+- **Janet Chen's Final Article**:
+  - Published on a Sunday morning, three weeks after Julian's conviction
+  - Became most-read piece in *Detroit Free Press*'s 200-year history
+  - Told the complete story: origin, transformation, 60-year descent from partnership to conspiracy to murder
+  - Eleanor portrayed as both monster AND cautionary tale about letting pain transform into evil
+  - Foundation became symbol of how corruption begins "not in boardrooms or back alleys, but in the human heart"
+
+- **Plot Threads Closed**:
+  - Janet Chen's media exposé arc: CLOSED (5-part series published, final article complete)
+  - Julian Ashworth's trial: CLOSED (convicted, sentenced to 18 years)
+  - The Foundation's public exposure: CLOSED (international news, story complete)
+
+- **Key Questions for Future Chapters**:
+  - What happens at Marlowe's reconciliation with his father Robert?
+  - Will Catherine Webb's book be published, and what impact will it have?
+  - What final consequences will Sarah Marlowe face?
+  - How will Marlowe's relationship with Margaret/Torres evolve as family?
+  - What becomes of the Ashworth estate and fortune?
+  - Will any remaining Foundation members escape justice?
+  - How does Marlowe find personal peace after everything?
