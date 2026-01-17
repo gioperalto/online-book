@@ -462,3 +462,48 @@
   - How will Marlowe reconcile his roles as a detective seeking justice with his personal stake in the outcome?
   - Will the evidence Catherine and Robert gathered be enough to bring down the system?
   - What role will Sarah play going forward—ally, witness, or complication?
+
+## Chapter 12 Developments
+
+- **Marlowe's Decision to Pursue the Conspiracy**:
+  - Marlowe reveals to Captain Reyes that Eleanor had a network of enablers in positions of power
+  - He decides to pursue the larger conspiracy beyond just the immediate murder case
+  - Reyes gives him 48 hours before Chief Morrison demands a full briefing and the case goes through official channels
+
+- **Captain Reyes's Backstory**:
+  - Reyes had a partner years ago who discovered Ashworth corruption (a land deal displacing 200 families)
+  - The partner died of a suspicious "heart attack" at age 43, and the investigation was closed
+  - Reyes has spent 20 years keeping her head down and surviving within the corrupt system
+  - She is now willing to help Marlowe, driven by guilt over her own silence
+
+- **Key Power Players in the Corrupt Network**:
+  - Chief Morrison: 22 years in position, part of Eleanor's network
+  - Mayor Caldwell: 19 years in position, part of the network
+  - Judge Harper: Will handle Diana and Julian's cases, has been on the bench since before Marlowe joined the force
+  - These individuals have the power to make careers, evidence, and people disappear
+
+- **Sarah's Final Confession and Gift**:
+  - Sarah reveals she discovered Marlowe's grandmother's connection to Eleanor while sorting through her belongings after her death
+  - She kept silent to "protect" Marlowe from Eleanor's reach
+  - Sarah gives Marlowe a key to safety deposit box 1247 at First National Bank, main branch
+  - The box contains off-site backups of Eleanor's documents—evidence of decades of crimes
+  - Victor had access to the account; Sarah obtained a copy of the key during their relationship
+  - Sarah accepts she may face charges for her role in the blackmail scheme
+
+- **48-Hour Deadline**:
+  - Marlowe has until Chief Morrison's briefing to gather evidence
+  - After that, the case goes through official channels where the corrupt network can interfere
+  - The safety deposit box at First National Bank is Marlowe's primary target for the next morning
+
+- **Stakes Established**:
+  - If Marlowe succeeds, he can bring down the entire corrupt system Eleanor built
+  - If he fails, the network will destroy him—his career, reputation, and possibly his life
+  - The people he's targeting have survived by eliminating threats for decades
+
+- **Key Questions for Future Chapters**:
+  - What evidence will Marlowe find in safety deposit box 1247?
+  - Will the corrupt network discover what Marlowe is doing before he can expose them?
+  - How will Chief Morrison, Mayor Caldwell, and Judge Harper respond when threatened?
+  - Will Reyes's support hold, or will she be forced to abandon Marlowe?
+  - What consequences will Sarah face for her involvement?
+  - Can Marlowe complete his mission within the 48-hour window?
