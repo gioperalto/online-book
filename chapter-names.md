@@ -12,3 +12,4 @@
 ## The Catalyst
 ## The Grave Between Us
 ## The Network
+## The Vault

@@ -507,3 +507,64 @@
   - Will Reyes's support hold, or will she be forced to abandon Marlowe?
   - What consequences will Sarah face for her involvement?
   - Can Marlowe complete his mission within the 48-hour window?
+
+## Chapter 13 Developments
+
+- **Safety Deposit Box 1247 Contents**:
+  - Eleanor kept meticulous records of all her crimes as a "trophy case"
+  - **Marcus Webb file**: Employment records, transfer paperwork, insurance documents from 1964, and handwritten payment records for his murder:
+    - Crane operator: $5,000
+    - Safety inspector: $3,000
+    - Seattle PD contact: $10,000
+    - Coroner: $7,500
+  - **City Council files (1972-1985)**: Bribery records, zoning decisions purchased, contracts awarded to Ashworth-connected businesses
+  - **Police Department internal files**: Personnel files, evaluation reports, names organized by year with checkmarks, question marks, or "transferred/retired/deceased" notes
+  - Marlowe's name was on the list: "James Marlowe, hired 1998. Watch." - circled in red ink
+
+- **Eleanor's Surveillance of Marlowe**:
+  - Eleanor tracked Marlowe since he joined the force in 1998 (26 years of surveillance)
+  - Notes indicated: "No indication of knowledge re: grandmother. Recommend continued observation only."
+  - Eleanor let Marlowe live because she considered him not dangerous enough to eliminate
+
+- **The "Contingencies" Folder - Critical Evidence**:
+  - Instructions for what should happen after Eleanor's death
+  - Names of lawyers to contact, locations of additional evidence caches
+  - List of people to maintain "the arrangements" and ensure network continues functioning
+  - **Kill list**: Five names of individuals who agreed to "eliminate threats to network security"
+  - Two names identified: Chief Harold Morrison and Judge Victoria Harper
+  - Three other names unknown to Marlowe
+
+- **Confrontation at the Bank**:
+  - Patricia Holbrook (branch manager, woman in her 50s) stalled Marlowe and called Morrison and Caldwell
+  - Morrison and Caldwell confronted Marlowe in the vault viewing room
+  - They attempted to frame Marlowe: unauthorized access, evidence tampering, conflict of interest
+  - Morrison tried to place Marlowe on administrative leave
+  - They planned to discredit Marlowe with a psychiatric evaluation, citing his grandmother's "breakdown"
+  - They intended to bury Rosa's testimony, discredit Catherine Webb as dying with a grudge, and dismiss Sterling as a disbarred attorney
+
+- **Captain Reyes's Intervention**:
+  - Reyes contacted the FBI the night before
+  - **Special Agent Rebecca Torres**: FBI agent investigating public corruption in Millbrook for 18 months
+  - Reyes arrived at the bank with two state troopers and Agent Torres
+  - Morrison and Caldwell were taken into FBI custody for questioning
+  - Reyes finally took action to honor her dead partner and stop living in fear
+
+- **Evidence Secured by Marlowe**:
+  - Marlowe photographed all documents before being interrupted
+  - Physically removed and kept: Marcus Webb's file, police personnel list, contingencies folder with kill list
+  - Remaining folders returned to the box before Morrison arrived
+
+- **New Threat Emerges**:
+  - Marlowe receives anonymous text after leaving the bank: "You think you've won. You haven't. The network is bigger than Morrison. Bigger than Caldwell. Look closer at your own house, Detective."
+  - Implies someone in the network is still active and possibly close to Marlowe personally
+  - Suggests the conspiracy extends beyond the known players
+
+- **Key Questions for Future Chapters**:
+  - Who sent the threatening text message about looking "at your own house"?
+  - Who are the three unknown names on Eleanor's kill list?
+  - What will happen to Morrison and Caldwell in FBI custody?
+  - Will Judge Harper be arrested before she can interfere with Diana and Julian's cases?
+  - What additional evidence caches exist (mentioned in contingencies folder)?
+  - Is someone close to Marlowe part of the network?
+  - How will the FBI investigation intersect with Marlowe's murder case?
+  - What role will Agent Torres play going forward?
