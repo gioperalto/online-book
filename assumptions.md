@@ -1381,3 +1381,75 @@
   - How will Marlowe's career continue after the Foundation cases wrap up?
   - What final closure will Marlowe find regarding his grandmother's legacy?
   - Will any remaining Foundation members attempt retaliation?
+
+## Chapter 27 Developments
+
+- **Catherine Webb's Book Published**:
+  - Publisher: Harbinger Press, with editor Rebecca Thornton
+  - Legal review cleared for publication in February
+  - Publication date: March 1st
+  - Launch event held in New York City at converted warehouse space
+  - Book hit *New York Times* bestseller list within a week
+  - Received mostly positive reviews; some attempts to discredit failed
+
+- **Marlowe's Foreword**:
+  - Marlowe struggled for days to write the introduction
+  - Margaret/Torres advised him to write it as a letter to future readers
+  - Final foreword focused on theme of silence enabling corruption
+  - Emphasized that the Foundation survived because people stayed silent
+  - Challenged readers to consider their own silences
+
+- **Catherine's Posthumous Letter to Marlowe**:
+  - Robert Marlowe found a letter Catherine never sent, addressed to James
+  - Catherine explained she chose James because he didn't run from truth
+  - She compared him to his grandmother Helen's bravery
+  - Her final request: "Make them remember"
+  - The book is about remembrance, not revenge
+
+- **Launch Event Attendees**:
+  - Robert Marlowe (accompanied James to New York)
+  - Margaret/Torres (in FBI professional mode)
+  - Rosa Martinez (using a cane due to chapel attack injuries)
+  - Patricia Webb (watching from the back)
+  - Sarah Marlowe (sitting by the door)
+  - Journalists, podcasters, researchers, and publishers
+
+- **Marlowe's Launch Speech**:
+  - Introduced the key figures: Marcus Webb, Helen Marlowe, Catherine Webb
+  - Talked about the unnamed victims throughout the decades
+  - Emphasized the theme of silence enabling the Foundation
+  - Challenged audience to consider what silences they're keeping
+  - Received standing ovation
+
+- **Legal Outcomes Updated**:
+  - Morrison's trial concluded three weeks after book launch: Guilty on all counts, life without parole
+  - Caldwell's appeal denied
+  - Judge Harper pled guilty to racketeering charges, will testify against remaining members
+  - Foundation-adjacent lawyer's defamation suit thrown out within days
+
+- **Public Response**:
+  - Book passed between readers, discussed in book clubs
+  - Professors assigned it to classes
+  - Conservative outlets questioned sourcing
+  - Anonymous blogger claimed fabrication
+  - None of the attacks affected the book's momentum
+
+- **Marlowe's Personal Response**:
+  - Declined all offers for his own book, talk shows, documentaries
+  - Believes the story has been told; his job is to help it find its audience
+  - Visited Catherine's grave, leaving first edition copy of the book
+  - Found closure in seeing Catherine's work completed
+
+- **Plot Thread CLOSED**:
+  - **Catherine Webb's Book Publication**: CLOSED
+  - Book successfully published, hit bestseller list
+  - Marlowe wrote foreword and spoke at launch event
+  - Catherine's final letter delivered to Marlowe
+  - Marlowe visited Catherine's grave with the completed book
+
+- **Key Questions for Future Chapters**:
+  - How will the Ashworth estate and fortune be distributed?
+  - What becomes of Marlowe's career after the Foundation cases wrap up?
+  - How will Marlowe's relationship with his father and aunt continue to develop?
+  - What final personal closure will Marlowe find?
+  - Will the remaining Foundation cases conclude, and what will be the final toll?
