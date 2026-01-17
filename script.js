@@ -10,10 +10,12 @@ let chapters = [];
 let currentChapter = null;
 let totalWordCount = 0;
 let showingPageCount = false;
+let darkMode = false;
 
 // Initialize the application
 async function init() {
     document.getElementById('book-title').textContent = config.bookTitle;
+    loadDarkModePreference();
     await loadChaptersList();
     setupEventListeners();
     loadChapterFromURL();
@@ -121,6 +123,26 @@ function renderCountDisplay() {
 function toggleCountDisplay() {
     showingPageCount = !showingPageCount;
     renderCountDisplay();
+}
+
+// Load dark mode preference from localStorage
+function loadDarkModePreference() {
+    darkMode = localStorage.getItem('darkMode') === 'true';
+    applyDarkMode();
+}
+
+// Apply dark mode to the page
+function applyDarkMode() {
+    document.body.classList.toggle('dark-mode', darkMode);
+    const toggleBtn = document.getElementById('dark-mode-toggle');
+    toggleBtn.textContent = darkMode ? '\u2600\ufe0f' : '\ud83c\udf19';
+}
+
+// Toggle dark mode
+function toggleDarkMode() {
+    darkMode = !darkMode;
+    localStorage.setItem('darkMode', darkMode);
+    applyDarkMode();
 }
 
 // Extract title from markdown content (first h1)
@@ -245,6 +267,10 @@ function setupEventListeners() {
     // Word/page count toggle
     const wordCountEl = document.getElementById('word-count');
     wordCountEl.addEventListener('click', toggleCountDisplay);
+
+    // Dark mode toggle
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+    darkModeToggle.addEventListener('click', toggleDarkMode);
 
     // Close sidebar when clicking outside on mobile
     document.addEventListener('click', (e) => {
