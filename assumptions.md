@@ -855,3 +855,81 @@
   - Where is Captain Reyes hiding and will she be captured?
   - How will the remaining network members respond to the mounting pressure?
   - What role will Catherine Webb play as her health continues to decline?
+
+## Chapter 19 Developments
+
+- **Sarah's Formal Confession to FBI**:
+  - Sarah provides a two-hour testimony to Margaret/Torres at the hospital command center
+  - She recounts moment-by-moment details of what she witnessed through the library window
+  - Sarah describes Diana watching the clock while Eleanor sipped poisoned tea
+  - She notes that Julian was crying while strangling Eleanor—grief, not rage
+  - Margaret acknowledges Sarah is both a crucial witness and a compromised one due to her 35-year grudge
+
+- **Legal Assessment of Sarah's Testimony**:
+  - Margaret notes Sarah can corroborate Diana's poisoning, Julian's assault, and Sterling's murder
+  - Defense attorneys will argue Sarah's personal grudge makes her an unreliable witness
+  - The locket tampering could undermine the entire case OR tie everything together
+  - Sarah has already spoken to the *Detroit Free Press* reporter (Janet Chen) without telling Marlowe
+
+- **The *Detroit Free Press* Story Breaks**:
+  - **Janet Chen**: Pulitzer-winning reporter who has been working with Catherine Webb for three months
+  - Story published at 6 PM Eastern time, online edition first, print follows next morning
+  - Headline: "MILLBROOK'S HIDDEN EMPIRE: How One Family Controlled a City Through Murder, Bribery, and Fear"
+  - The article spans three full pages, detailing Eleanor's rise to power, her network, and her victims
+  - Catherine Webb, Rosa Martinez, and former Ashworth Shipping employees are quoted extensively
+  - Sarah is mentioned by name, including her escape helped by Helen Marlowe and the locket given for protection
+  - Marlowe's grandmother is publicly named as a hero for the first time
+
+- **The Network's Response**:
+  - Judge Victoria Harper holds a press conference denying all allegations
+  - Harper calls the exposé "fevered imaginings of a dying woman and desperate accusations of disgraced criminals"
+  - Harper claims 30 years of service with integrity and says she has "nothing to hide"
+  - Harper's confidence suggests she believes she can survive the media storm
+
+- **The Courthouse Fire**:
+  - At 10:47 PM, fire breaks out at Millbrook Courthouse
+  - Third floor (Harper's chambers) is fully engulfed
+  - Harper's case files from 30 years are being destroyed
+  - The fire is clearly arson—evidence destruction
+
+- **Captain Reyes Captured**:
+  - Reyes was at the courthouse fire scene, watching with satisfaction
+  - Marlowe chases her through the streets of Millbrook
+  - Confrontation in parking lot behind hardware store
+  - Reyes offers to trade Harper's real files for her freedom—claims the courthouse files were decoys
+  - Harper keeps her real evidence at a safe house on Miller Road, two miles past city limits
+  - Marlowe negotiates: Reyes will lead them to Harper's files AND testify against the network in exchange for reduced sentence (real time but not life)
+  - Reyes accepts; admits she joined the network out of fear, not belief
+
+- **Judge Harper Captured**:
+  - FBI units surround the Miller Road farmhouse
+  - Harper was inside, frantically feeding documents into a shredder
+  - Harper taken into federal custody without resistance
+  - 30 years of evidence being loaded into federal vehicles
+
+- **The Locket's Significance**:
+  - Marlowe still has the locket in his pocket
+  - Contains two tiny photographs: one of Marcus Webb, one of Helen Marlowe
+  - Represents the lovers Eleanor destroyed and the family Marlowe never knew he had
+
+- **Emotional Resolution Beginning**:
+  - Robert Marlowe calls James to acknowledge that Helen is finally being publicly recognized as a hero
+  - Father and son agree to visit Helen's grave together after the case concludes
+  - First time Robert calls James "son" in the narrative
+
+- **Updated Status of Key Players**:
+  - **Sarah Marlowe**: In FBI protective custody, awaiting determination of charges; testimony recorded
+  - **Captain Reyes**: In custody, cooperating; will testify against the network
+  - **Judge Harper**: In federal custody; 30 years of evidence secured from safe house
+  - **Morrison and Caldwell**: Still in FBI custody
+  - **The Adjuster**: Still in custody with severe injuries
+  - **Sterling**: In custody for Eleanor's murder
+
+- **Key Questions for Future Chapters**:
+  - What charges will Sarah ultimately face?
+  - How will the trials proceed for Diana, Julian, and Sterling?
+  - What will happen to the Ashworth estate and fortune?
+  - How will the network's remaining members respond to Harper's capture?
+  - What is Catherine Webb's remaining time, and will she live to see justice?
+  - How will Marlowe's relationship with his father evolve?
+  - What becomes of the locket—evidence, family heirloom, or both?
