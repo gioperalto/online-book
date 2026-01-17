@@ -677,3 +677,60 @@
   - What consequences will Sterling face for Eleanor's murder?
   - How will the network respond now that they know they're being targeted?
   - Will Margaret's 30-year undercover operation succeed or fail?
+
+## Chapter 16 Developments
+
+- **Confrontation at the Webb House**:
+  - Marlowe arrives at Marcus Webb's childhood home and finds his father's truck
+  - Robert Marlowe was there to retrieve evidence Catherine Webb told him about
+  - The adjuster was waiting in ambush, having anticipated Marlowe would come
+
+- **The Adjuster's Methods and Motives**:
+  - Described as average in appearance—unremarkable face, the kind easily forgotten
+  - Carries a suppressed .22, professional assassin's weapon
+  - Claims he "arranged" Marcus Webb's death in Seattle (the crane accident)
+  - Reveals he was hired to kill Marlowe's grandmother but she died of a heart attack first
+  - Current mission: eliminate all Webb family connections before the network collapses
+  - Targets include: Marlowe, Robert Marlowe, Catherine Webb, Rosa Martinez
+
+- **The Network's Decoy**:
+  - A bomb threat at the Millbrook FBI field office was used to pull Margaret/Torres away
+  - The bomb was a decoy—designed to distract while the adjuster eliminated witnesses
+  - Sterling talked before his arrest, alerting the network to the FBI operation
+
+- **The Fight at Webb House**:
+  - Marlowe is struck from behind by the adjuster
+  - Robert Marlowe uses an old flare gun as a weapon
+  - During the struggle, Marlowe is shot (bullet graze to the ribs)
+  - Robert fires the flare gun, hitting the adjuster in the chest
+  - The adjuster crashes through the stair railing and falls
+  - The adjuster survives but suffers third-degree burns and possible spinal injury
+
+- **Marcus Webb's Hidden Evidence**:
+  - Marcus hid a cardboard box in his childhood home before leaving for Seattle
+  - Contents include: employment records, financial documents, photographs of Eleanor's meetings
+  - Most important: Marcus Webb's personal journal with 50 years of corruption documented
+  - Names, dates, amounts—everything Eleanor wanted buried
+  - Marcus was gathering evidence to expose Eleanor but was killed before he could finish
+  - This is primary source evidence that changes the case significantly
+
+- **Family Reconciliation Progress**:
+  - Robert learns he has a sister (Margaret/Torres) for the first time
+  - Marlowe asks his father to come to the hospital with him
+  - First meaningful physical and emotional connection between father and son in years
+
+- **Updated Status of Key Players**:
+  - **The Adjuster**: Captured, severely injured (burns, possible spinal injury)
+  - **Sterling**: In custody, awaiting charges for Eleanor's murder
+  - **Morrison and Caldwell**: In FBI custody
+  - **The Network**: Aware the operation is compromised; some running, some preparing to fight
+  - **Marcus Webb's Journal**: Now in FBI possession as crucial evidence
+
+- **Key Questions for Future Chapters**:
+  - How will the network respond now that the adjuster is captured?
+  - Will the remaining network members run, fight, or surrender?
+  - What will Marcus's journal reveal about the full extent of Eleanor's crimes?
+  - Will the warehouse operation proceed in modified form?
+  - What will the adjuster reveal under interrogation?
+  - How will the legal proceedings unfold for Diana, Julian, and Sterling?
+  - What is Catherine Webb's remaining role before her cancer claims her?
