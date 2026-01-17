@@ -1333,3 +1333,51 @@
   - What becomes of the Ashworth estate and fortune?
   - Will any remaining Foundation members escape justice?
   - How does Marlowe find personal peace after everything?
+
+## Chapter 26 Developments
+
+- **Sarah Marlowe's Sentencing**:
+  - Federal sentencing hearing held in Detroit before Judge Harrison
+  - Charges: obstruction of justice, tampering with evidence, failure to report a crime
+  - Sentence: 3 years supervised probation, 500 hours community service at victim assistance organization, $50,000 fine to Millbrook Victim Restitution Fund
+  - Required to testify in all related Foundation cases for duration of probation
+  - No prison time due to cooperation and exceptional circumstances
+
+- **Sarah and Marlowe's Reconciliation**:
+  - Marlowe drives to Detroit to attend Sarah's sentencing hearing
+  - They meet at a café after the hearing for their first real conversation since her confession
+  - Sarah explains she left Marlowe because she feared Eleanor would kill him if she stayed
+  - Sarah admits she was "selfish" in not telling Marlowe the truth about his grandmother
+  - They reach an understanding: not reconciliation as husband and wife, but mutual understanding as survivors
+
+- **Sarah's Future Path**:
+  - Margaret/Torres has invited Sarah to work with a victim assistance program for Foundation survivors
+  - Sarah accepts, wanting to use her experience to help others escape similar situations
+  - She sees this as a way to make amends, not erase what she did
+
+- **Family Dinner at Robert Marlowe's House**:
+  - First family gathering: Marlowe, Robert Marlowe (his father), Margaret/Torres (his aunt), and Sarah
+  - Robert invited Sarah, showing acceptance of her despite her past
+  - Margaret shares FBI stories; Robert talks openly about Helen (Marlowe's grandmother)
+  - The dinner represents the beginning of healing and family connection
+  - Robert gives Marlowe a photograph of his grandmother as a young woman, laughing, before Eleanor's shadow fell
+
+- **Thematic Resolution - Sarah's Arc**:
+  - Sarah's storyline closes with forgiveness and understanding
+  - She transitions from "ex-wife who betrayed" to "survivor who will help others"
+  - Marlowe accepts that their past was "complicated" but finds peace with it
+  - The relationship between them is redefined: not romantic, but connected as fellow survivors
+
+- **Plot Thread CLOSED**:
+  - **Sarah Marlowe's legal consequences and her relationship with Marlowe**: CLOSED
+  - Sarah received probation rather than prison
+  - She and Marlowe have found understanding and closure
+  - She will work with Margaret's victim assistance program going forward
+
+- **Key Questions for Future Chapters**:
+  - What happens with the publication of Catherine Webb's book?
+  - How will the Ashworth estate and fortune be distributed?
+  - Will Morrison's trial and other pending cases conclude?
+  - How will Marlowe's career continue after the Foundation cases wrap up?
+  - What final closure will Marlowe find regarding his grandmother's legacy?
+  - Will any remaining Foundation members attempt retaliation?
