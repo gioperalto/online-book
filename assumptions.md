@@ -1180,3 +1180,81 @@
   - Will the Foundation attempt retaliation despite the deal?
   - What becomes of the Ashworth estate and fortune?
   - How will Marlowe reconcile with his family after the case concludes?
+
+## Chapter 24 Developments
+
+- **Julian Ashworth's Trial Begins**:
+  - Judge Marcus Thompson presides (federal appointee, procedural stickler)
+  - DA Elizabeth Kwan prosecutes
+  - Thomas Reid resigned from Julian's defense team after Marlowe confronted him
+  - Ashworth family absent from courtroom—Diana in prison, Victor fled Millbrook, Margot in Connecticut sanatorium
+  - Patricia Webb present in gallery, watching intently
+
+- **Patricia Webb's Files - Major Revelations**:
+  - Patricia sent 15 boxes of documents, photographs, and recordings overnight
+  - Her mother Margaret Webb was meticulous in documentation
+  - The Foundation wasn't just Millbrook—it had connections to at least 12 other cities across 5 states
+  - Eleanor was a "regional director"—one of five directors who controlled territories
+  - Each director answered to a central council and reported quarterly
+  - The Foundation had actual written bylaws governing membership, succession, and conflict resolution
+  - Most other directors are now dead; Foundation has been in decline for a decade since Henry Ashworth's health failed
+  - Eleanor was supposed to rebuild the Foundation but became greedy, treating network as personal fiefdom
+  - Other directors cut Eleanor loose when investigation started rather than protect her
+
+- **Mr. Smith's True Identity - Jonathan Gray**:
+  - Mr. Smith revealed his alias as "Jonathan Gray"
+  - Claims to represent the "Ashworth Family Trust"
+  - Appeared in court during Julian's trial with explosive motion
+
+- **The Foundation's Counter-Strike**:
+  - Jonathan Gray interrupted Julian's trial with motion to dismiss
+  - Submitted sworn affidavit claiming Julian's confession was coerced
+  - Alleged that Marlowe threatened Julian with evidence of family crimes
+  - Claimed entire investigation was tainted by Marlowe's personal vendetta
+  - Julian removed as beneficiary of Ashworth Family Trust, effective immediately
+  - Foundation shifted strategy: no longer protecting Julian, now using him to attack Marlowe
+
+- **Judge Thompson's Ruling**:
+  - Trial suspended (not cancelled) pending review of submitted evidence
+  - Gray's motion could delay proceedings for months
+  - If successful, would invalidate every piece of evidence Marlowe touched
+  - Would collapse not just Julian's case but cases against all remaining network members
+
+- **The Foundation's True Strategy Revealed**:
+  - Foundation isn't fighting to free Julian—they're fighting to discredit Marlowe
+  - Goal is to make Marlowe "the story" instead of the Foundation
+  - Attempting to shift narrative: transform Marlowe from hero detective to corrupt cop with vendetta
+  - Patricia Webb warns this is how Foundation has survived—by controlling narratives for 70 years
+
+- **Janet Chen - Key Media Contact**:
+  - Reporter who wrote the *Detroit Free Press* exposé
+  - Has been working with Catherine Webb for three months
+  - Now asking questions about Marlowe specifically
+  - Lives in suburbs of Detroit, in house cluttered with investigation documents
+  - Has whiteboard with Foundation connections mapped out
+  - Marlowe gives her full interview—everything he knows—for comprehensive exposé
+  - Story to be published in three days
+
+- **Catastrophic Evidence Destruction**:
+  - Someone broke into Ashworth estate wine cellar
+  - Secret room with Foundation files completely cleaned out
+  - Every filing cabinet, document, and piece of evidence removed
+  - Security cameras caught van leaving at 3 AM with fake plates, driver's face covered
+  - Seventy years of Foundation history erased
+  - Janet Chen's upcoming story will lack corroboration
+  - Planned prosecutions will lack evidence
+
+- **Patricia Webb's Mother's Files - Still Hidden**:
+  - Despite wine cellar breach, Patricia Webb's mother's files remain hidden and safe
+  - These may be the only remaining documentary evidence of Foundation crimes
+  - Location undisclosed
+
+- **Key Questions for Future Chapters**:
+  - Will Janet Chen's story still run despite the evidence destruction?
+  - Where are Patricia Webb's mother's files hidden, and what do they contain?
+  - Can Marlowe recover from the Foundation's narrative attack?
+  - Will Julian's trial resume or be dismissed?
+  - Who executed the wine cellar break-in?
+  - How will the Foundation respond to Janet Chen's upcoming exposé?
+  - Will Margaret/Torres's FBI operation continue without the wine cellar evidence?
+  - What becomes of Marlowe's credibility as a detective?
