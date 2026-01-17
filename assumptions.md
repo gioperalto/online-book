@@ -997,3 +997,66 @@
   - How will the remaining network members (Morrison, Caldwell, Harper, others) be prosecuted?
   - What happens to the Ashworth estate and fortune?
   - Will Marlowe find emotional closure after the trials conclude?
+
+## Chapter 21 Developments
+
+- **Diana Ashworth's Trial**:
+  - Judge Katherine Mills presides—a federal appointee from Albany brought in after Judge Harper's arrest
+  - DA Elizabeth Kwan prosecutes—appointed by the governor after previous DA resigned due to network connections
+  - Defense attorney Malcolm Price (Harvard Law, former federal prosecutor) represents Diana
+  - Marlowe testifies about Diana's confession and the investigation
+
+- **Defense Strategy - Personal Connection Attack**:
+  - Price attempts to undermine Marlowe's credibility by exposing his family connection to the Ashworths
+  - Questions whether Marlowe's personal vendetta against Eleanor influenced his investigation methods
+  - Attacks the informal interview where Diana confessed (no Miranda, not in custody)
+  - Argues Diana made an "easy target" for a detective who despised the Ashworth family
+
+- **Sterling's Betrayal**:
+  - David Sterling recants his testimony mid-trial
+  - Claims his original confession was coerced by the FBI
+  - Now says he didn't actually see Diana administer the poison
+  - His lawyers argue he said whatever necessary to get his reduced sentence deal
+
+- **Patricia Webb - New Character**:
+  - Marcus Webb's cousin, appeared in 1998 booking photo for fraud (charges dropped)
+  - Disappeared after 1998—presumably courtesy of Eleanor's network
+  - Visited Sterling in prison under fake name "Patricia Williams"
+  - Someone is using her to sabotage the trial from the inside
+  - Represents another ghost from Eleanor's past emerging at critical moment
+
+- **New Physical Evidence**:
+  - Marlowe discovers overlooked evidence in the conservatory
+  - Potting station with laboratory-grade beakers (not gardening equipment)
+  - One beaker contains aconitum napellus residue matching what was in Eleanor's system
+  - Beakers have Diana's fingerprints and traces of gloves from her closet
+  - This physical evidence corroborates Diana's confession independent of Sterling
+
+- **Julian Ashworth's Testimony - Key Moment**:
+  - Julian testifies against his own mother
+  - States he saw Diana adding drops from a vial to Eleanor's tea tray around 10 PM
+  - Direct eyewitness observation, not hearsay
+  - Diana visibly betrayed—her composure cracks for first time
+  - Bond between mother and son severed when Julian chose truth
+
+- **Trial Verdict**:
+  - Jury deliberates for 6 hours
+  - Diana found GUILTY of attempted murder in the first degree
+  - Sentencing date to be set
+  - Diana's final words suggest Eleanor "poisoned" the family metaphorically long before Diana's literal poison
+
+- **Thematic Element - "The Ashworth Poison"**:
+  - Diana argues Eleanor destroyed everyone who loved her
+  - The family was "poisoned" by Eleanor long before the murder
+  - Marlowe recognizes Diana wasn't entirely wrong
+  - The verdicts address symptoms, not the disease
+  - Eleanor's corruption ran deeper than any toxin
+
+- **Key Questions for Future Chapters**:
+  - Who is Patricia Webb working for, and who sent her to turn Sterling?
+  - What are the remaining network members planning?
+  - How will Julian's trial proceed after he testified against his mother?
+  - What is Sterling's ultimate fate after recanting?
+  - Will more Webb family members emerge from the past?
+  - How will Marlowe handle testifying in the remaining trials?
+  - What happens to the Ashworth estate now that Diana is convicted?
