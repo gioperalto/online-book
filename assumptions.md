@@ -933,3 +933,67 @@
   - What is Catherine Webb's remaining time, and will she live to see justice?
   - How will Marlowe's relationship with his father evolve?
   - What becomes of the locket—evidence, family heirloom, or both?
+
+## Chapter 20 Developments
+
+- **Catherine Webb's Death**:
+  - Catherine Webb dies peacefully at 4:47 AM, three days after the *Detroit Free Press* story breaks
+  - She was smiling when she passed—the hospice nurse confirmed she went peacefully in her sleep
+  - She held on just long enough to see the story go national and the network begin to crumble
+  - Her death represents the end of forty years of work to expose Eleanor's crimes
+
+- **Marcus Webb's Ring**:
+  - Catherine left Marlowe a small wooden cherry box containing Marcus Webb's wedding ring
+  - The ring is heavy gold with a small diamond set in an ornate setting
+  - Engraved inside: "H.M. Forever. 1958" (Helen Marlowe)
+  - Marcus gave the ring to Catherine the day before he was killed, knowing Eleanor was coming for him
+  - He planned to give it to Helen after they married—but he never returned from Seattle
+  - Marlowe now wears the ring as Robert instructed
+
+- **Catherine's Funeral**:
+  - Held three days after her death, in Millbrook, per her will
+  - She wanted to be buried in the family plot where Marcus Webb has a cenotaph (memorial stone)
+  - Attendees: Margaret/Torres, Robert Marlowe, Marlowe, Rosa Martinez, Sarah Marlowe
+  - Sarah stood at the back, facing charges but still attending
+  - Robert wept openly; Margaret maintained composure but was emotional
+
+- **Catherine's Book - A Major Revelation**:
+  - Catherine spent her last decade writing a complete history of Eleanor Ashworth's crimes
+  - The book covers everything from Marcus Webb's murder to the present day
+  - It was completed six months ago when she learned the cancer was terminal
+  - Her dying wish was for James Marlowe to release it, to write the foreword, to give interviews
+  - She believed the story would mean more coming from family than from a stranger
+  - Marlowe agrees to publish it
+
+- **Sarah's Legal Status**:
+  - Facing charges: obstruction of justice, tampering with evidence, failure to report a crime
+  - Prosecutor recommended probation rather than jail time due to cooperation and exceptional circumstances
+  - She attended Catherine's funeral despite her legal situation
+
+- **Family Reconciliation Progress**:
+  - Marlowe visits his grandmother Helen's grave, places the ring and locket there temporarily
+  - He speaks to her, promising to tell the full story and ensure no one forgets
+  - Robert and Marlowe share a meal at a diner—Robert initiates physical contact (grips Marlowe's hand)
+  - Robert explicitly asks Marlowe to publish Catherine's book, saying he's "tired of secrets"
+  - First time Robert calls James "son" in direct conversation
+
+- **The Locket and Ring - Symbolic Union**:
+  - The locket and ring are now together—the two pieces Marcus and Helen gave each other
+  - Marlowe carries the locket; he wears Marcus's ring
+  - Robert: "That's what Catherine wanted. Not vengeance. Not justice. Just... remembrance."
+
+- **Trial Dates Set**:
+  - Diana Ashworth: January 15 (first trial)
+  - Julian Ashworth: follows Diana's trial
+  - Sterling: will testify against both in exchange for reduced charges
+  - Marlowe will be called to testify against all three as lead detective
+
+- **Key Questions for Future Chapters**:
+  - How will Diana's trial unfold?
+  - What will Julian's defense be?
+  - How will Sterling's testimony affect the cases?
+  - Will Catherine's book be published before or after the trials?
+  - What final legal consequences will Sarah face?
+  - How will the remaining network members (Morrison, Caldwell, Harper, others) be prosecuted?
+  - What happens to the Ashworth estate and fortune?
+  - Will Marlowe find emotional closure after the trials conclude?
