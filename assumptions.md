@@ -789,3 +789,69 @@
   - Will Catherine's media/legal strategy succeed in bringing down the network?
   - How will the *Detroit Free Press* story impact the case?
   - What will Sarah reveal when Marlowe confronts her?
+
+## Chapter 18 Developments
+
+- **Sarah's True Identity and History**:
+  - Sarah's maiden name was Rebecca Harper (not Sarah)
+  - She grew up in Traverse City, not Millbrook
+  - At age 19, she worked as an intern at Ashworth Shipping (35 years ago)
+  - She witnessed firsthand the criminal operations: money laundering, cooked books, criminal associates
+  - Eleanor noticed Sarah was asking too many questions and ordered Marlowe's grandmother to "handle" her (make her disappear)
+  - Marlowe's grandmother refused and instead helped Sarah escape
+
+- **The Locket's True History**:
+  - Marlowe's grandmother gave the locket to Sarah 30 years ago, not 20
+  - The locket was given when Marlowe's grandmother was dying (6 months to live)
+  - It was meant as "protection" and a symbol that the truth would eventually come out
+  - The grandmother made Sarah promise to wait until Eleanor died before exposing the truth
+  - Sarah kept the locket hidden for 35 years, waiting for the right moment
+
+- **Sarah's Connection to Marlowe**:
+  - Sarah changed her name and built a new life after escaping Millbrook
+  - When she met and fell in love with James Marlowe, she discovered he was Helen's grandson
+  - She claims to have genuinely loved him but also admits she used their relationship to stay close to the Ashworth situation
+  - Their entire relationship had a dual purpose: love and strategic positioning
+
+- **Sarah as Eyewitness to Eleanor's Murder**:
+  - Sarah drove from Detroit to the Ashworth estate on the night of Eleanor's murder
+  - She arrived just before midnight and entered through the back woods to the garden
+  - She witnessed the entire murder sequence through the library window:
+    - Diana's poison taking effect
+    - Victor's confrontation with Eleanor
+    - Julian strangling Eleanor
+    - David Sterling stabbing Eleanor with the letter opener
+    - Eleanor grabbing Sterling's hand to help push the blade home
+  - She chose not to intervene, believing Eleanor deserved what was happening
+  - She watched as a "ritual sacrifice" unfolded and did nothing
+
+- **The Locket in Eleanor's Hand - Explained**:
+  - After the murder, Sarah entered the library
+  - Eleanor was still barely alive and recognized the locket around Sarah's neck
+  - Eleanor laughed and said "So Helen's ghost has finally come for me"
+  - Sarah deliberately removed the locket and placed it in Eleanor's dying hand
+  - She wanted Eleanor to die holding proof of what she had destroyed
+  - This explains why the locket was found in Eleanor's hand - it was planted by Sarah, not something Eleanor possessed
+
+- **Sarah's Legal Situation**:
+  - Sarah witnessed a murder and failed to report it
+  - She tampered with evidence by planting the locket
+  - She obstructed justice by not coming forward
+  - She agrees to testify and accept whatever charges come
+  - Her testimony can corroborate all aspects of the murder: Diana's poisoning, Julian's strangulation, Sterling's stabbing
+
+- **Marlowe's Decision**:
+  - Marlowe takes the locket from Sarah
+  - He requires Sarah to tell Margaret/Torres everything with no more secrets
+  - Margaret will decide if Sarah's testimony helps or hurts the case
+  - Sarah agrees to face arrest if necessary, but wants the truth told first
+
+- **Key Questions for Future Chapters**:
+  - How will Margaret/Torres react to Sarah's confession and evidence tampering?
+  - Will Sarah's eyewitness testimony strengthen or complicate the prosecutions?
+  - What charges will Sarah face for obstruction and evidence tampering?
+  - How will Marlowe reconcile his personal feelings about Sarah's betrayal with the case?
+  - Will the *Detroit Free Press* story break before or after Sarah's testimony is integrated?
+  - Where is Captain Reyes hiding and will she be captured?
+  - How will the remaining network members respond to the mounting pressure?
+  - What role will Catherine Webb play as her health continues to decline?
