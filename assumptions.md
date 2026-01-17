@@ -568,3 +568,54 @@
   - Is someone close to Marlowe part of the network?
   - How will the FBI investigation intersect with Marlowe's murder case?
   - What role will Agent Torres play going forward?
+
+## Chapter 14 Developments
+
+- **Major Family Revelation - Agent Rebecca Torres is Marlowe's Aunt**:
+  - Agent Torres's real name is Margaret Helen Webb, born June 15, 1964
+  - She is Marlowe's grandmother's daughter by Marcus Webb (making her Marlowe's biological aunt)
+  - Marlowe's grandmother was pregnant with Margaret after Marcus was killed, hid the pregnancy
+  - She gave birth secretly in Seattle and gave the baby to Rosa Martinez (who passed her to her sister to raise)
+  - Margaret learned the truth about her parents when she was old enough, harbored hatred for Eleanor
+
+- **Margaret's Decades-Long Infiltration**:
+  - Margaret spent years studying Eleanor's methods and the network's operations
+  - She infiltrated the network from the inside, spending almost 30 years building a case
+  - She became an FBI agent 22 years ago specifically to bring down Eleanor's organization
+  - She has been the anonymous source sending text messages guiding Marlowe through the investigation
+  - She has been protecting Marlowe and his father for years without their knowledge
+
+- **Catherine Webb's Visit**:
+  - Catherine Webb came to Marlowe's home with a birth certificate his grandmother had hidden
+  - The document proves Margaret's existence and parentage
+  - Catherine received similar cryptic text messages about revealing "everything" to James
+
+- **Rosa Martinez's Critical Confession**:
+  - Rosa was present when Margaret was born; helped facilitate the secret adoption
+  - Rosa has known Margaret's identity and location for decades
+  - Rosa revealed that Margaret is Agent Torres before Torres confirmed it herself
+
+- **The Network's Remaining Threat - "The Adjuster"**:
+  - One of the three unknown names on Eleanor's kill list is a dangerous operative called "the adjuster"
+  - He has no known real name, no photographs, no paper trail—only a legend and body count
+  - He was Eleanor's most trusted operative for eliminating threats for 40 years
+  - Of the three unknown names: one is dead (suicide), one is in witness protection, and "the adjuster" remains at large
+
+- **Planned Operation**:
+  - The surviving network members are meeting tomorrow night at the old Ashworth shipping warehouse on the east dock
+  - Margaret has assembled an FBI team for a takedown operation at midnight
+  - Marlowe will go inside as part of the operation, using his role as lead investigator as cover
+  - This is intended to be a final strike to dismantle what remains of the network
+
+- **New Cliffhanger - Margot Ashworth's Visit**:
+  - Marlowe returns home to find Margot Ashworth inside his house, holding his grandmother's photograph
+  - Margot claims that Eleanor did NOT kill herself—contradicting the established theory
+  - This suggests Eleanor's final stabbing wound may not have been self-inflicted after all
+
+- **Key Questions for Future Chapters**:
+  - What does Margot know about Eleanor's final moments that contradicts the suicide theory?
+  - Who actually delivered the fatal stabbing wound if not Eleanor herself?
+  - Will the midnight warehouse operation succeed or fail?
+  - Will "the adjuster" be captured or will he escape?
+  - How will the relationship between Marlowe and his newly-discovered aunt Margaret/Torres develop?
+  - What role will Margot play in the final unraveling of the mystery?
