@@ -144,7 +144,7 @@ Diana gasped. Victor ignored her.
 
 "But I didn't. I walked out, went to my study, and drank until I passed out." He laughed bitterly. "Not exactly an alibi that covers me in glory, but it's the truth."
 
-I studied him for a long moment, weighing his words against his demeanor, against everything I knew about this family. He was telling the truth about the argument—that much I believed. But whether he was telling the truth about what came after...
+I studied him for a long moment, measuring his claims against the tension in his jaw, the tremor in his hands, against everything I knew about this family. He was telling the truth about the argument—that much I believed. But whether he was telling the truth about what came after...
 
 "Miss Ashworth?" I turned to Margot. "Your turn."
 

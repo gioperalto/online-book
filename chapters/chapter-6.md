@@ -98,7 +98,7 @@ Rosa closed her eyes, gathering strength. "Over the years, I saw things. Heard t
 
 "No. Because I was afraid." Her voice dropped to a whisper. "I saw what happened to people who crossed Eleanor. Your grandmother. Marcus Webb. A city councilman named Patterson who tried to investigate the shipping company in 1985—found dead in his car, carbon monoxide poisoning, ruled a suicide. A reporter who was asking questions about missing union funds in 1991—car accident on a wet road, no witnesses. The pattern was always the same. Anyone who threatened Eleanor ended up dead, and it always looked like an accident or a choice."
 
-The weight of her words settled over me like a shroud. I'd known Eleanor was ruthless—the evidence had been piling up since I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades...
+Her revelations sank into my bones like ice water. I'd known Eleanor was ruthless—the evidence had been piling up since I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades...
 
 "The person who attacked us at the chapel," I said. "They knew things. Things about the case, about the three methods of death. Do you have any idea who it might have been?"
 
