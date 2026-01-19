@@ -1,4 +1,4 @@
-# The Son's Burden
+# Julian's Confession
 
 I found Julian Ashworth exactly where I expected to find him: in the library, sitting in the same leather chair where his grandmother had died.
 

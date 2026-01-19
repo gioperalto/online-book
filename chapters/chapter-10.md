@@ -1,4 +1,4 @@
-# The Catalyst
+# Sparks and Tinder
 
 The holding cells at Millbrook station were a study in institutional gray. Concrete walls, fluorescent lights that buzzed like dying insects, benches bolted to the floor. I stood on the free side of the bars, watching Diana Ashworth sit with her hands folded in her lap, composed as ever despite the circumstances.
 

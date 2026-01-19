@@ -1,31 +1,31 @@
 # Chapter names
 
 ## Some ghosts you have to face
-## The Weight of Inheritance
-## The Last Testament
+## Burden of Blood
+## Final Words
 ## Midnight Confessions
 ## Three Hands, One Death
-## The Message That Changed Everything
-## The Boathouse Reckoning
-## The Son's Burden
-## The Ex-Wife's Truth
-## The Catalyst
-## The Grave Between Us
-## The Network
-## The Vault
-## The House That Watched
-## The Fourth Hand
-## The Webb House
-## The Gathering Storm
-## The Confession
-## The Breaking Storm
-## The Last Webb
-## The Trial Begins
-## The Sins of the Father
-## The Foundation
-## The Reckoning
-## The Truth Goes to Print
+## A Fatal Message
+## Reckoning at the Boathouse
+## Julian's Confession
+## Sarah's Secrets
+## Sparks and Tinder
+## Standing Among Stones
+## Web of Complicity
+## Behind Locked Doors
+## Shadows in the Windows
+## A Fourth Hand Revealed
+## Marcus Webb's Legacy
+## Gathering Storm
+## Confession
+## Breaking Storm
+## Last of the Webbs
+## Trial Begins
+## Sins of Our Fathers
+## Foundation of Lies
+## Final Reckoning
+## Truth Goes to Print
 ## What We Leave Behind
-## The Book of the Dead
-## The Inheritance
-## The Quiet After
+## Ledger of Sins
+## Blood Inheritance
+## Silence at Last

@@ -1,4 +1,4 @@
-# The Message That Changed Everything
+# A Fatal Message
 
 The phone records told a story no one in the Ashworth house had wanted me to hear.
 

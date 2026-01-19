@@ -1,4 +1,4 @@
-# The Network
+# Web of Complicity
 
 Captain Maria Reyes was waiting for me in her office when I returned to the station. The afternoon sun slanted through the blinds, striping her desk with bars of gold and shadow. She didn't look up from the paperwork in front of her as I entered, just gestured at the chair across from her.
 

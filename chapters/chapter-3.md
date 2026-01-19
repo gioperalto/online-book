@@ -1,4 +1,4 @@
-# The Last Testament
+# Final Words
 
 David Sterling had the practiced calm of a man who made his living navigating other people's disasters. He sat in the formal dining room where the Ashworth family had shared their final meal together just hours before, his silver hair perfectly combed, his charcoal suit immaculate despite the chaos of the morning. A leather briefcase rested on the table beside him. His hands were folded neatly in front of him. Steady. Uncallused. The hands of someone who'd never done physical labor.
 

@@ -1,4 +1,4 @@
-# The Weight of Inheritance
+# Burden of Blood
 
 Victor Ashworth looked exactly like what old money produces after four generations: soft around the middle, sharp around the eyes, and possessed of that particular brand of arrogance that comes from never having to apologize for anything. He sat in the drawing room like a man attending a mildly inconvenient business meeting, not one whose mother lay dead two rooms away.
 

@@ -1,4 +1,4 @@
-# The Vault
+# Behind Locked Doors
 
 First National Bank opened its doors at nine o'clock sharp. I was there at eight forty-five, parked across the street in my unmarked sedan, watching the morning routine of Millbrook unfold around me.
 
