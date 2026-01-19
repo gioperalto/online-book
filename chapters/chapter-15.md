@@ -46,7 +46,7 @@ Margot looked at me, and in her eyes I saw something that went beyond fear. It w
 
 ---
 
-The name hit me like a physical blow. David Sterling—Eleanor's attorney of thirty-seven years. The man who had helped cover up Marcus Webb's murder, who had drafted the documents that kept Eleanor's network hidden, who had cooperated so willingly when I'd questioned him about the night of Eleanor's death.
+The name landed with the weight of a verdict. David Sterling—Eleanor's attorney of thirty-seven years. The man who had helped cover up Marcus Webb's murder, who had drafted the documents that kept Eleanor's network hidden, who had cooperated so willingly when I'd questioned him about the night of Eleanor's death.
 
 "You're certain?"
 

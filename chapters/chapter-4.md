@@ -50,7 +50,7 @@ My grandmother. Young, beautiful, standing beside a man I didn't recognize in fr
 
 "Your grandmother gave it to me," Rosa said quietly. "The day before she disappeared. She asked me to keep it safe, to give it to you when the time was right." She paused. "She said you would need to know the truth someday. That the Ashworths would come for you eventually, just like they came for her."
 
-The words hit me like physical blows. "Came for her? What are you talking about? My grandmother died of a heart attack. She was sixty-two years old, she had a weak heart, she—"
+The words knocked the air from my lungs. "Came for her? What are you talking about? My grandmother died of a heart attack. She was sixty-two years old, she had a weak heart, she—"
 
 "She was murdered." Rosa's voice cut through my denials like a knife. "Just like Eleanor. Different methods, maybe, but the same result. The same family behind it."
 
@@ -262,7 +262,7 @@ I straightened. "What do you mean?"
 
 "Wrong for murder," Reyes said quietly. "Right for suicide."
 
-The words hit me like a bucket of ice water. "You're saying Eleanor killed herself?"
+A chill ran through me. "You're saying Eleanor killed herself?"
 
 "I'm saying someone poisoned her, someone else tried to strangle her, and then Eleanor—confused, dying, maybe trying to end her suffering—picked up the letter opener and finished the job herself." Reyes exhaled. "Three methods of death, Marlowe. But possibly three different hands involved. Including the victim's own."
 

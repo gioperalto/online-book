@@ -44,7 +44,7 @@ Catherine was quiet for a long moment. The clock on my wall ticked, marking seco
 
 I took the envelope carefully. The paper was old, brittle at the edges, bearing my grandmother's handwriting: *For the one who will finish what we started.*
 
-Inside was a single sheet, folded into thirds. I opened it, and the words struck me like a physical blow.
+Inside was a single sheet, folded into thirds. I opened it, and my breath caught in my throat.
 
 *Certificate of Live Birth*
 *State of Washington*

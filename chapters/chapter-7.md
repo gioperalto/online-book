@@ -42,7 +42,7 @@ The figure was very still. When they spoke again, the distortion seemed to falte
 
 "Because your father wasn't who you think he was, Marlowe. And neither was your grandmother's husband."
 
-The words hit me like physical blows. "What the hell does that mean?"
+My stomach dropped. "What the hell does that mean?"
 
 "Your grandfather—the man who raised your father—married your grandmother after Eleanor's lies destroyed her reputation. He was a good man, kind, willing to give a ruined woman a fresh start." The figure paused. "But your grandmother was already pregnant when they married."
 

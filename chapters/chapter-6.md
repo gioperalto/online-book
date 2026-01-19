@@ -10,7 +10,7 @@ I found it. The number was unfamiliar—a 206 area code. Seattle.
 
 "We traced it," Reyes continued. "It belongs to a woman named Catherine Webb. Seventy-one years old, lives in a retirement community outside of Tacoma."
 
-Webb. The name hit me like a fist to the chest.
+Webb. The name sent a jolt through my spine.
 
 "Marcus Webb's sister," I said. It wasn't a question.
 
