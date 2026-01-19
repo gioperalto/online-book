@@ -78,7 +78,7 @@ I sat in the plastic chair, processing. This was the Sarah I'd married—the wom
 
 "So you came to Millbrook."
 
-"I came because I heard Eleanor was dead. I came because Victor called me in tears at six in the morning, terrified that the police would find out about our arrangement. And I came—" She paused, her eyes meeting mine. "I came because I knew you were on the case. And I thought... maybe it was finally time to tell you the truth."
+"I came because I heard Eleanor was dead. I came because Victor called me in tears at six in the morning, terrified that the police would find out about our arrangement. And I came—" She paused, her eyes meeting mine. "I came because I knew you were on the case. And I thought maybe it was finally time to tell you the truth."
 
 I stood up from the chair, needing to move, needing to process. The motel room felt too small suddenly, the walls pressing in.
 
@@ -94,19 +94,19 @@ I remembered. Three years ago, before everything fell apart. My grandmother's fu
 
 "The photograph," I said. "The one you framed for me."
 
-"I found other things with it. Letters. A diary she'd kept during the years she worked for Eleanor. Notes about Marcus Webb, about the pregnancy, about what Eleanor had done to destroy her." Sarah's eyes were wet now. "I realized then that Eleanor hadn't just destroyed my life—she'd destroyed yours too. Your entire family, going back generations. And I wanted to tell you, James. I wanted to show you everything I'd found. But..."
+"I found other things with it. Letters. A diary she'd kept during the years she worked for Eleanor. Notes about Marcus Webb, about the pregnancy, about what Eleanor had done to destroy her." Sarah's eyes were wet now. "I realized then that Eleanor hadn't just destroyed my life—she'd destroyed yours too. Your entire family, going back generations. And I wanted to tell you, James. I wanted to show you everything I'd found. But—"
 
 "But you were still taking money from Victor."
 
-"Yes." The word was barely a whisper. "If I told you the truth, you'd want to investigate. You'd pull the thread, and the whole thing would unravel, and Victor would expose me, and you'd find out about the blackmail..." She trailed off, shaking her head. "I was a coward. I chose to protect my secret rather than give you the truth you deserved."
+"Yes." The word was barely a whisper. "If I told you the truth, you'd want to investigate. You'd pull the thread, and the whole thing would unravel, and Victor would expose me, and you'd find out about the blackmail—" She trailed off, shaking her head. "I was a coward. I chose to protect my secret rather than give you the truth you deserved."
 
 "Is that why you left? Why you wanted the divorce?"
 
-"I left because I couldn't keep lying to you." Sarah's voice cracked. "Every day, waking up next to you, knowing what I was hiding—it was destroying me. I thought... I thought if I left, if I disappeared again, you could move on. You could investigate your grandmother's death without me getting in the way. You could find the truth on your own terms."
+"I left because I couldn't keep lying to you." Sarah's voice cracked. "Every day, waking up next to you, knowing what I was hiding—it was destroying me. I thought if I left, if I disappeared again, you could move on. You could investigate your grandmother's death without me getting in the way. You could find the truth on your own terms."
 
 "So you abandoned me to protect yourself."
 
-"I abandoned you to protect you." Her eyes flashed. "If Eleanor had found out I was married to a Millbrook detective, if she'd discovered I was still connected to Victor, if she'd learned that your grandmother's grandson was investigating old family secrets..." Sarah shook her head. "Eleanor destroyed everyone who got too close to her crimes, James. I wasn't going to let her destroy you too."
+"I abandoned you to protect you." Her eyes flashed. "If Eleanor had found out I was married to a Millbrook detective, if she'd discovered I was still connected to Victor, if she'd learned that your grandmother's grandson was investigating old family secrets—" Sarah shook her head. "Eleanor destroyed everyone who got too close to her crimes, James. I wasn't going to let her destroy you too."
 
 I stood there in the weak morning light, looking at this woman who had been my wife, my partner, my companion through the hardest years of my career. I wanted to hate her. Part of me did hate her—for the lies, for the secrets, for the three years of silence that had eaten away at me like acid.
 
@@ -156,7 +156,7 @@ Diana, who had been quietly watching while everyone else in the family fell apar
 
 "Victor told you Diana was involved."
 
-"He implied it. Maybe he was trying to deflect blame, maybe he was telling the truth—I don't know. But the way he said it..." Sarah shook her head. "It sounded like they'd planned something together. Like Diana had been the one with the idea, and Victor had just gone along with it."
+"He implied it. Maybe he was trying to deflect blame, maybe he was telling the truth—I don't know. But the way he said it—" Sarah shook her head. "It sounded like they'd planned something together. Like Diana had been the one with the idea, and Victor had just gone along with it."
 
 I thought about the timeline. Victor confronting Eleanor at eleven-thirty, her already compromised by poison. Diana claiming she'd gone to bed at eleven, taken a pill, slept through everything. The convenient alibi of unconsciousness.
 
@@ -164,7 +164,7 @@ I thought about the timeline. Victor confronting Eleanor at eleven-thirty, her a
 
 "Just that she 'promised it would only make Eleanor sick.' That 'it wasn't supposed to kill her.'" Sarah's voice was careful, precise. "James, I know how this looks—me pointing the finger at someone else. But I'm telling you what Victor said. Make of it what you will."
 
-I moved toward the door, my mind already racing ahead. If Diana had poisoned Eleanor—expecting only to make her ill, perhaps to incapacitate her—then the murder wasn't premeditated. It was manslaughter at best. But combined with Julian's strangulation attempt and Eleanor's self-inflicted wound...
+I moved toward the door, my mind already racing ahead. If Diana had poisoned Eleanor—expecting only to make her ill, perhaps to incapacitate her—then the murder wasn't premeditated. It was manslaughter at best. But combined with Julian's strangulation attempt and Eleanor's self-inflicted wound, the case had become impossibly complicated.
 
 Three people. Three separate attacks on the same woman in the same night. A poisoner, a strangler, and the victim herself, all converging in that library like actors in a tragedy none of them had scripted.
 
@@ -182,7 +182,7 @@ I turned back to face her. In the harsh motel light, she looked older than her y
 
 I stepped outside, into the parking lot, into the daylight that felt too bright after the dimness of the motel room. Behind me, I heard Sarah say one more thing:
 
-"Be careful with Diana, James. If she really did poison Eleanor... she's been hiding it perfectly. Which means she's better at deception than any of us realized."
+"Be careful with Diana, James. If she really did poison Eleanor, she's been hiding it perfectly. Which means she's better at deception than any of us realized."
 
 I didn't respond. I got in my car and drove toward the Ashworth estate, toward the woman who might be the poisoner I'd been hunting for two days.
 
@@ -268,7 +268,7 @@ Diana nodded slowly. "I was in the hallway when I heard them. Julian's voice, El
 
 "Why didn't you stop him?"
 
-"Because for one moment—one terrible, shameful moment—I wanted him to succeed." Tears streamed down Diana's face now, cutting tracks through her careful makeup. "I wanted Eleanor dead. I'd wanted it for twenty years. And watching Julian do what I'd been too cowardly to do myself... I couldn't move. I couldn't speak. I just stood there in the darkness and watched."
+"Because for one moment—one terrible, shameful moment—I wanted him to succeed." Tears streamed down Diana's face now, cutting tracks through her careful makeup. "I wanted Eleanor dead. I'd wanted it for twenty years. And watching Julian do what I'd been too cowardly to do myself—I couldn't move. I couldn't speak. I just stood there in the darkness and watched."
 
 "But he stopped."
 
@@ -278,7 +278,7 @@ Diana nodded slowly. "I was in the hallway when I heard them. Julian's voice, El
 
 Diana's laugh was bitter, broken. "So in the end, Eleanor killed herself. Even in death, she had to be in control." She looked at me with red-rimmed eyes. "Does it matter, Detective? I poisoned her. I watched my son try to murder her. I did nothing to save her. Whatever the official cause of death, I'm responsible."
 
-I pulled out my handcuffs. "Diana Ashworth, you're under arrest for the attempted murder of Eleanor Ashworth. You have the right to remain silent..."
+I pulled out my handcuffs. "Diana Ashworth, you're under arrest for the attempted murder of Eleanor Ashworth. You have the right to remain silent—"
 
 She held out her hands, accepting the cuffs with a dignity that seemed almost peaceful.
 
@@ -294,7 +294,7 @@ The poisoner was caught. The strangler had confessed. The victim had taken her o
 
 But as I handed Diana off to the waiting officers, I couldn't shake the feeling that something was still missing. Some piece of the puzzle that hadn't fallen into place.
 
-Eleanor Ashworth had been murdered by her own family—a collective act of desperation and rage and grief. But underneath it all, beneath the poison and the strangulation and the final desperate act...
+Eleanor Ashworth had been murdered by her own family—a collective act of desperation and rage and grief. But underneath it all, beneath the poison and the strangulation and the final desperate act, something else was waiting to be discovered.
 
 What had driven them all to this point? What single event had set everything in motion?
 

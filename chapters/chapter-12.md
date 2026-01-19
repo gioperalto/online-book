@@ -176,7 +176,7 @@ She wiped her eyes and took a breath, steadying herself. "Because I have somethi
 
 "And you never used it."
 
-"I was too afraid. As long as Eleanor was alive, using that evidence would have been suicide. But now..." Sarah reached into her jacket and pulled out a small key. "Safety deposit box 1247. First National Bank, main branch. Eleanor's name is on the account, but she gave Victor access years ago—and Victor gave me a copy of the key when we were together."
+"I was too afraid. As long as Eleanor was alive, using that evidence would have been suicide. But now—" Sarah reached into her jacket and pulled out a small key. "Safety deposit box 1247. First National Bank, main branch. Eleanor's name is on the account, but she gave Victor access years ago—and Victor gave me a copy of the key when we were together."
 
 I stared at the key, small and ordinary, holding the potential to change everything.
 
@@ -200,7 +200,7 @@ She turned to leave, then paused.
 
 "Sarah—"
 
-"Don't." She held up a hand. "Don't say it's okay, because it's not. Don't say you forgive me, because you shouldn't have to. Just... do what you need to do. Bring them all down. Make it mean something."
+"Don't." She held up a hand. "Don't say it's okay, because it's not. Don't say you forgive me, because you shouldn't have to. Just do what you need to do. Bring them all down. Make it mean something."
 
 She walked away into the gathering darkness. I watched until she disappeared, then looked down at the key in my hand.
 

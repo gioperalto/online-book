@@ -12,7 +12,7 @@ I didn't sit. Instead, I positioned myself near the fireplace, where I could wat
 
 "The manner of it was."
 
-Something flickered across his face—too quick to identify, gone before I could catalog it. "Yes. Well. I'm sure you'll find whoever did this. That's your job, isn't it?"
+Something flickered across his face. Too quick to identify, gone before I could catalog it. "Yes. Well. I'm sure you'll find whoever did this. That's your job, isn't it?"
 
 I pulled out my notebook, taking my time. Let him stew. Let him wonder what I already knew.
 
@@ -30,7 +30,7 @@ Victor shifted in his chair, the first crack in his composure. "Dinner. We all h
 
 "What time did dinner end?"
 
-"Around nine, I suppose. Maybe nine-thirty. David—that's David Sterling, Mother's attorney—he and Mother retired to the library afterward to discuss some business matters. The rest of us went our separate ways."
+"Around nine, I suppose. Maybe nine-thirty. David. That's David Sterling, Mother's attorney. He and Mother retired to the library afterward to discuss some business matters. The rest of us went our separate ways."
 
 "What kind of business matters?"
 
@@ -38,9 +38,9 @@ Now Victor's mask slipped fully. His jaw tightened, and I watched his hands curl
 
 "That bothered you."
 
-"What bothers me, Detective, is being interrogated like a common criminal while my mother's body grows cold. What bothers me is that someone violated the sanctity of this home—my home—and committed this... this atrocity. What I would like is for you to stop wasting time questioning the family and start looking for the real killer."
+"What bothers me, Detective, is being interrogated like a common criminal while my mother's body grows cold. What bothers me is that someone violated the sanctity of this home. My home. And committed this atrocity. What I would like is for you to stop wasting time questioning the family and start looking for the real killer."
 
-I let the silence stretch between us, heavy and uncomfortable. Victor Ashworth was hiding something—that much was obvious. The question was whether it was garden-variety family dysfunction or something more sinister.
+I let the silence stretch between us, heavy and uncomfortable. Victor Ashworth was hiding something. That much was obvious. The question was whether it was garden-variety family dysfunction or something more sinister.
 
 "Tell me about your relationship with your mother."
 
@@ -62,7 +62,7 @@ Victor laughed, a short, bitter sound. "Close? Eleanor Ashworth wasn't close to 
 
 He stood abruptly, crossing to the window to stare out at the rain-soaked grounds. His reflection in the glass looked older than the man himself, more worn.
 
-"I didn't kill my mother, Detective Marlowe. I had no reason to. In a few years—maybe less, given her health—I would have inherited everything anyway. Why would I risk everything by rushing the inevitable?"
+"I didn't kill my mother, Detective Marlowe. I had no reason to. In a few years. Maybe less, given her health. I would have inherited everything anyway. Why would I risk everything by rushing the inevitable?"
 
 It was a good point. Logical. Exactly the kind of thing an intelligent murderer would say.
 
@@ -72,13 +72,13 @@ Victor's shoulders stiffened. "What about her?"
 
 "I understand she and your mother weren't on the best of terms."
 
-He turned from the window, and now there was something new in his expression—protective, almost fierce. "My sister has had a difficult life, Detective. Much of it thanks to our mother's interference. But Margot isn't capable of violence. She's too..." He searched for the word. "Fragile."
+He turned from the window, and now there was something new in his expression. Protective, almost fierce. "My sister has had a difficult life, Detective. Much of it thanks to our mother's interference. But Margot isn't capable of violence. She's too—" He searched for the word. "Fragile."
 
 "Fragile people have killed before."
 
 "Not Margot."
 
-I made a note, more to give myself time to think than because I needed to record anything. The family dynamics were revealing themselves like layers of an onion—bitter and liable to make you cry.
+I made a note, more to give myself time to think than because I needed to record anything. The family dynamics were revealing themselves like layers of an onion. Bitter and liable to make you cry.
 
 "One more question, Mr. Ashworth. The locket your mother was holding when she died. Do you recognize it?"
 
@@ -88,15 +88,15 @@ The change was instantaneous. Victor's face went pale, then flushed, cycling thr
 
 "Small, gold, heart-shaped. She was clutching it in her right hand."
 
-"I don't—" He stopped, swallowed hard. "I don't know anything about any locket."
+"I don't." He stopped, swallowed hard. "I don't know anything about any locket."
 
 He was lying. I knew it as surely as I knew my own name. But before I could press further, the drawing room doors burst open and a whirlwind of silk and fury swept into the room.
 
-"Victor! They won't let me leave! Those police officers out front say I can't take my car and—" The woman stopped short when she saw me, her perfectly made-up face rearranging itself into an expression of haughty displeasure. "Who are you?"
+"Victor! They won't let me leave! Those police officers out front say I can't take my car." The woman stopped short when she saw me, her perfectly made-up face rearranging itself into an expression of haughty displeasure. "Who are you?"
 
 "Detective James Marlowe," I said. "And you must be Diana Ashworth."
 
-Diana was everything Victor wasn't—sharp where he was soft, beautiful in a way that seemed calculated rather than natural. Her blonde hair was immaculately styled despite the early hour, her makeup flawless, her designer clothes chosen to suggest wealth without appearing to try. She looked like someone who had practiced being an Ashworth in the mirror until she got it right.
+Diana was everything Victor wasn't. Sharp where he was soft, beautiful in a way that seemed calculated rather than natural. Her blonde hair was immaculately styled despite the early hour, her makeup flawless, her designer clothes chosen to suggest wealth without appearing to try. She looked like someone who had practiced being an Ashworth in the mirror until she got it right.
 
 "Detective." She made the word sound like an insult. "I hope you're here to tell us this nightmare is over."
 
@@ -112,7 +112,7 @@ Her eyes narrowed. "I want to call my lawyer."
 
 "Is there?" She crossed her arms. "Ask your questions, then. I have nothing to hide."
 
-I studied her for a moment—the defensive posture, the too-bright eyes, the slight tremor in her hands that her bravado couldn't quite conceal.
+I studied her for a moment. The defensive posture, the too-bright eyes, the slight tremor in her hands that her bravado couldn't quite conceal.
 
 "Where were you last night between midnight and three a.m.?"
 
@@ -124,9 +124,9 @@ I studied her for a moment—the defensive posture, the too-bright eyes, the sli
 
 "What was your relationship with Eleanor?"
 
-Diana exchanged a glance with Victor—quick, loaded with meaning I couldn't decipher.
+Diana exchanged a glance with Victor. Quick, loaded with meaning I couldn't decipher.
 
-"She was my mother-in-law," Diana said carefully. "We had a... cordial relationship."
+"She was my mother-in-law," Diana said carefully. "We had a cordial relationship."
 
 "That's not what I've heard."
 
@@ -134,7 +134,7 @@ Her composure cracked. "What exactly have you heard, Detective?"
 
 "That Eleanor didn't approve of your marriage. That she tried to convince Victor to divorce you. That she threatened to cut him off entirely if he didn't."
 
-Victor stepped forward. "That's enough. My wife doesn't have to—"
+Victor stepped forward. "That's enough. My wife doesn't have to."
 
 "It's fine, Victor." Diana put a hand on his arm, stilling him. When she looked at me again, her eyes were cold. "Eleanor didn't approve of anyone who wasn't born into her precious social circle. She thought I was a gold-digger, a social climber, someone beneath the Ashworth name. She made my life miserable for the first five years of our marriage."
 
@@ -156,13 +156,13 @@ I was almost to the door when Diana's voice stopped me.
 
 I turned.
 
-She was standing very still, one hand pressed against her stomach in a gesture that seemed unconscious. "When you catch whoever did this... I want to know why. Not for Eleanor's sake. For my own. I need to understand how someone could do something so... thorough."
+She was standing very still, one hand pressed against her stomach in a gesture that seemed unconscious. "When you catch whoever did this, I want to know why. Not for Eleanor's sake. For my own. I need to understand how someone could do something so thorough."
 
-It was an odd word choice. Thorough. Three methods of death—poison, strangulation, stabbing. As if someone wanted to make absolutely certain Eleanor Ashworth stayed dead.
+It was an odd word choice. Thorough. Three methods of death. Poison, strangulation, stabbing. As if someone wanted to make absolutely certain Eleanor Ashworth stayed dead.
 
 "When I find out, Mrs. Ashworth, you'll be the first to know."
 
-I left them standing together in the drawing room, husband and wife, united in their grief or their guilt—I couldn't yet tell which.
+I left them standing together in the drawing room, husband and wife, united in their grief or their guilt. I couldn't yet tell which.
 
 ---
 
@@ -186,15 +186,15 @@ I sat down on the bench across from her, trying to seem less threatening. Up clo
 
 "That's strong language."
 
-"It's the truth." Her eyes met mine, and I was startled by the clarity in them. Whatever Victor thought about his sister being fragile, there was steel underneath the broken surface. "My mother drove my father to an early grave with her demands and her cruelty. She controlled Victor's entire life—who he married, where he worked, how he raised his son. And me..." She trailed off, looking away.
+"It's the truth." Her eyes met mine, and I was startled by the clarity in them. Whatever Victor thought about his sister being fragile, there was steel underneath the broken surface. "My mother drove my father to an early grave with her demands and her cruelty. She controlled Victor's entire life. Who he married, where he worked, how he raised his son. And me—" She trailed off, looking away.
 
 "What did she do to you?"
 
-"She made me into this." Margot gestured at herself—the nightgown, the bare feet, the wild hair. "When I was eighteen, I fell in love. A boy from town, not rich, not important, but kind. So kind." Her voice caught. "Mother found out. She paid him to leave. Gave him enough money to disappear, and he took it without a backward glance."
+"She made me into this." Margot gestured at herself. The nightgown, the bare feet, the wild hair. "When I was eighteen, I fell in love. A boy from town, not rich, not important, but kind. So kind." Her voice caught. "Mother found out. She paid him to leave. Gave him enough money to disappear, and he took it without a backward glance."
 
 "I'm sorry."
 
-"Don't be. It was twenty years ago. I should be over it by now." But her eyes glistened with tears that said otherwise. "After that, there were... problems. Hospitals. Medications. Mother told everyone I was 'delicate.' But the truth is, she broke me, Detective. She broke me, and she never once apologized."
+"Don't be. It was twenty years ago. I should be over it by now." But her eyes glistened with tears that said otherwise. "After that, there were problems. Hospitals. Medications. Mother told everyone I was 'delicate.' But the truth is, she broke me, Detective. She broke me, and she never once apologized."
 
 I thought about the photograph on my kitchen table, about my own complicated history with this family. "Did you kill her, Margot?"
 
@@ -218,7 +218,7 @@ But she just shook her head and turned back to the rain-streaked glass, a pale g
 
 ---
 
-I stepped outside for air, standing on the covered porch as the rain hammered the grounds into mud. My hands were shaking—from cold, I told myself, though I knew better.
+I stepped outside for air, standing on the covered porch as the rain hammered the grounds into mud. My hands were shaking. From cold, I told myself, though I knew better.
 
 The locket. Someone else knew about the locket.
 
@@ -234,11 +234,11 @@ A long pause. Then: "I wondered when you'd call."
 
 "It's all over the news. Eleanor Ashworth, dead." Another pause, heavy with things unsaid. "Are you okay?"
 
-I thought about the question. About the weight of the past pressing down on me. About the locket in Eleanor's dead hand—my grandmother's locket, the one that had disappeared twenty years ago along with every chance I'd had at a normal life.
+I thought about the question. About the weight of the past pressing down on me. About the locket in Eleanor's dead hand. My grandmother's locket, the one that had disappeared twenty years ago along with every chance I'd had at a normal life.
 
 "No," I said finally. "I don't think I am."
 
-"James—"
+"James."
 
 "I'll come see you tonight. After I finish here. There are things I need to tell you. Things I should have told you three years ago."
 

@@ -2,11 +2,11 @@
 
 The phone records told a story no one in the Ashworth house had wanted me to hear.
 
-I sat in the back of Reyes's unmarked cruiser, parked just outside the estate gates, studying the printout she'd handed me while the morning sun climbed higher and the shadows retreated from the Gothic mansion like guilty secrets fleeing the light.
+I sat in the back of Reyes's unmarked cruiser, parked just outside the estate gates. I studied the printout she'd handed me while the morning sun climbed higher. The shadows retreated from the Gothic mansion like guilty secrets fleeing the light.
 
 "Look at the call at 8:47 PM," Reyes said, tapping the paper with a manicured nail. "Incoming, duration three minutes and twelve seconds."
 
-I found it. The number was unfamiliar—a 206 area code. Seattle.
+I found it. The number was unfamiliar. A 206 area code. Seattle.
 
 "We traced it," Reyes continued. "It belongs to a woman named Catherine Webb. Seventy-one years old, lives in a retirement community outside of Tacoma."
 
@@ -16,9 +16,9 @@ Webb. The name sent a jolt through my spine.
 
 Reyes nodded, her expression grim. "She's alive, Marlowe. And based on the call logs, she's been in contact with Eleanor Ashworth regularly for the past three months. Weekly calls, sometimes more."
 
-I stared at the printout, my mind racing. Marcus Webb—the man my grandmother had loved, the man Eleanor had destroyed out of jealousy, the man who had died in a "shipping yard accident" nearly forty years ago. His sister had been calling Eleanor. Why?
+I stared at the printout, my mind racing. Marcus Webb. The man my grandmother had loved. The man Eleanor had destroyed out of jealousy. The man who had died in a "shipping yard accident" nearly forty years ago. His sister had been calling Eleanor. Why?
 
-"There's more," Reyes said. She pulled another sheet from her folder. "The text message that came in during dinner—the one that turned Eleanor white according to her grandson. We recovered it from her phone."
+"There's more," Reyes said. She pulled another sheet from her folder. "The text message that came in during dinner. The one that turned Eleanor white according to her grandson. We recovered it from her phone."
 
 She handed me the printout. A single message, sent from Catherine Webb's number at 7:23 PM:
 
@@ -36,33 +36,33 @@ One word. Just one word, typed in reply to decades of buried truth:
 
 "Catherine Webb caught a red-eye flight from Seattle that same night," Reyes said. "She landed at the regional airport at 6:15 this morning. We've got officers picking her up now."
 
-I sat back, letting the implications wash over me. Eleanor had received proof of her crimes—or at least the threat of proof—and had responded by inviting the accuser to her home. Why? To negotiate? To threaten? To confess?
+I sat back, letting the implications wash over me. Eleanor had received proof of her crimes. Or at least the threat of proof. And she had responded by inviting the accuser to her home. Why? To negotiate? To threaten? To confess?
 
 Or to silence one more person who knew too much?
 
-"The timeline," I said slowly. "Eleanor received the text during dinner at 7:23. According to Julian, that's when she went pale. She went to the library, made a phone call to someone—Sterling heard her say 'you should have told me years ago'—and then at 11:08, she responded to Catherine with that single word. Come."
+"The timeline," I said slowly. "Eleanor received the text during dinner at 7:23. According to Julian, that's when she went pale. She went to the library. Made a phone call to someone. Sterling heard her say 'you should have told me years ago.' And then at 11:08, she responded to Catherine with that single word. Come."
 
 "You think the phone call and the text are connected?"
 
-"Has to be. Eleanor found out something that night—something about Marcus Webb, something about the past—and she was confronting someone about it." I looked up at Reyes. "Sterling said she was upset during that call. Angry. What if she'd just learned that someone in her own family had been feeding information to Catherine Webb?"
+"Has to be. Eleanor found out something that night. Something about Marcus Webb. Something about the past. And she was confronting someone about it." I looked up at Reyes. "Sterling said she was upset during that call. Angry. What if she'd just learned that someone in her own family had been feeding information to Catherine Webb?"
 
 Reyes's eyes widened. "A traitor in the house."
 
-"Someone who knew Eleanor's secrets and decided to expose them. Someone who'd been in contact with Catherine Webb, helping her build a case." I thought about the family gathered in that drawing room—Victor with his embezzlement, Diana with her years of humiliation, Margot with her destroyed heart, Julian with his stolen future. Each of them had reason to hate Eleanor. Each of them had access to her secrets.
+"Someone who knew Eleanor's secrets and decided to expose them. Someone who'd been in contact with Catherine Webb, helping her build a case." I thought about the family gathered in that drawing room. Victor with his embezzlement. Diana with her years of humiliation. Margot with her destroyed heart. Julian with his stolen future. Each of them had reason to hate Eleanor. Each of them had access to her secrets.
 
 "We need to find out who Eleanor was calling at 11 PM," I said. "Pull the records."
 
 Reyes was already reaching for her phone. "On it. Anything else?"
 
-I hesitated, thinking about the masked figure at the chapel, the voice that had been familiar yet wrong. They'd known about the three methods of death before the medical examiner's report. They'd known about my grandmother. They'd known exactly where Rosa and I would be and when.
+I hesitated. I thought about the masked figure at the chapel. The voice that had been familiar yet wrong. They'd known about the three methods of death before the medical examiner's report. They'd known about my grandmother. They'd known exactly where Rosa and I would be and when.
 
-"Yeah," I said finally. "I need to talk to Rosa Martinez. Whatever she knows, whatever evidence she was collecting—it's connected to all of this. Someone didn't want her talking, which means she has something worth killing over."
+"Yeah," I said finally. "I need to talk to Rosa Martinez. Whatever she knows, whatever evidence she was collecting. It's connected to all of this. Someone didn't want her talking. That means she has something worth killing over."
 
 ---
 
 Millbrook General Hospital smelled like disinfectant and despair. I walked the fluorescent-lit corridors with my badge clipped to my belt and my mind churning through possibilities, each one darker than the last.
 
-Rosa was in a private room on the third floor, courtesy of a department budget that didn't exist and Captain Reyes's creative accounting. An officer was stationed outside her door—young, alert, hand resting near his service weapon. He nodded when I showed my credentials and stepped aside.
+Rosa was in a private room on the third floor, courtesy of a department budget that didn't exist and Captain Reyes's creative accounting. An officer was stationed outside her door. Young. Alert. Hand resting near his service weapon. He nodded when I showed my credentials and stepped aside.
 
 The room was dim, the blinds drawn against the morning sun. Rosa lay in the hospital bed, looking smaller than I remembered, fragile in a way that had nothing to do with age. Her eyes were open, watching me as I entered.
 
@@ -72,37 +72,37 @@ The room was dim, the blinds drawn against the morning sun. Rosa lay in the hosp
 
 "Like someone tried to crack my skull open." She touched the bandage on her temple, wincing. "But I have survived worse. The Ashworths have been trying to break me for thirty-five years."
 
-I pulled a chair close to her bed and sat down, leaning forward with my elbows on my knees. "Rosa, I need to know everything. Not just about my grandmother—about all of it. The documents you collected, the evidence, the secrets. Someone tried to kill us to keep them buried. I need to understand why."
+I pulled a chair close to her bed and sat down, leaning forward with my elbows on my knees. "Rosa, I need to know everything. Not just about my grandmother. About all of it. The documents you collected, the evidence, the secrets. Someone tried to kill us to keep them buried. I need to understand why."
 
 She was quiet for a long moment, her dark eyes searching my face. Then, slowly, she began to speak.
 
-"When I started working for the Ashworths, I was young. Naive. I thought wealthy people were different—more cultured, more refined." She laughed bitterly. "I learned quickly that money doesn't make people better. It just gives them more ways to hide what they really are."
+"When I started working for the Ashworths, I was young. Naive. I thought wealthy people were different. More cultured. More refined." She laughed bitterly. "I learned quickly that money doesn't make people better. It just gives them more ways to hide what they really are."
 
 "And what was Eleanor?"
 
-"A monster." The word came out flat, factual. "Not the kind you see in movies—no fangs, no claws. The kind that smiles at you while destroying everything you love. The kind that believes the world exists to serve her whims."
+"A monster." The word came out flat, factual. "Not the kind you see in movies. No fangs. No claws. The kind that smiles at you while destroying everything you love. The kind that believes the world exists to serve her whims."
 
 "Tell me about the documents."
 
-Rosa closed her eyes, gathering strength. "Over the years, I saw things. Heard things. Eleanor was not careful around the help—she considered us furniture, invisible. So I watched, and I listened, and when I could, I collected proof."
+Rosa closed her eyes, gathering strength. "Over the years, I saw things. Heard things. Eleanor was not careful around the help. She considered us furniture. Invisible. So I watched, and I listened, and when I could, I collected proof."
 
 "Proof of what?"
 
-"Everything." Rosa's eyes opened, and there was fire in them now. "The bribes she paid to make problems disappear. The accidents she arranged when people got in her way. The lies she told to destroy marriages, careers, lives. Your grandmother was just one of many, Detective. Eleanor Ashworth left a trail of bodies—some literal, some figurative—spanning five decades."
+"Everything." Rosa's eyes opened, and there was fire in them now. "The bribes she paid to make problems disappear. The accidents she arranged when people got in her way. The lies she told to destroy marriages, careers, lives. Your grandmother was just one of many, Detective. Eleanor Ashworth left a trail of bodies. Some literal. Some figurative. Spanning five decades."
 
 "Why didn't you come forward sooner? Take it to the police?"
 
-"With what?" She laughed again, hollow and tired. "Eleanor owned this town. The mayor, the police chief, the judges—all of them owed her something. Who would believe a housekeeper from Mexico over the great Eleanor Ashworth?" She shook her head. "I kept the evidence as protection. Insurance. If she ever turned on me, I would have something to bargain with."
+"With what?" She laughed again, hollow and tired. "Eleanor owned this town. The mayor. The police chief. The judges. All of them owed her something. Who would believe a housekeeper from Mexico over the great Eleanor Ashworth?" She shook her head. "I kept the evidence as protection. Insurance. If she ever turned on me, I would have something to bargain with."
 
 "But you never used it."
 
-"No. Because I was afraid." Her voice dropped to a whisper. "I saw what happened to people who crossed Eleanor. Your grandmother. Marcus Webb. A city councilman named Patterson who tried to investigate the shipping company in 1985—found dead in his car, carbon monoxide poisoning, ruled a suicide. A reporter who was asking questions about missing union funds in 1991—car accident on a wet road, no witnesses. The pattern was always the same. Anyone who threatened Eleanor ended up dead, and it always looked like an accident or a choice."
+"No. Because I was afraid." Her voice dropped to a whisper. "I saw what happened to people who crossed Eleanor. Your grandmother. Marcus Webb. A city councilman named Patterson who tried to investigate the shipping company in 1985. Found dead in his car. Carbon monoxide poisoning. Ruled a suicide. A reporter who was asking questions about missing union funds in 1991. Car accident on a wet road. No witnesses. The pattern was always the same. Anyone who threatened Eleanor ended up dead, and it always looked like an accident or a choice."
 
-Her revelations sank into my bones like ice water. I'd known Eleanor was ruthless—the evidence had been piling up since I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades...
+Her revelations sank into my bones like ice water. I'd known Eleanor was ruthless. The evidence had been piling up since I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades, was overwhelming.
 
 "The person who attacked us at the chapel," I said. "They knew things. Things about the case, about the three methods of death. Do you have any idea who it might have been?"
 
-Rosa hesitated. "The voice was wrong—distorted, disguised—but something about the way they moved, the way they spoke... it felt familiar. Like someone I've seen before, wearing a different face."
+Rosa hesitated. "The voice was wrong. Distorted. Disguised. But something about the way they moved, the way they spoke—it felt familiar. Like someone I've seen before, wearing a different face."
 
 "Someone from the house?"
 
@@ -110,17 +110,17 @@ Rosa hesitated. "The voice was wrong—distorted, disguised—but something abou
 
 "Who?"
 
-"Eleanor, obviously. David Sterling—he has been her confidant for thirty-seven years; he knows where all the bodies are buried. Victor and Margot grew up in that house; they may have overheard things over the years." She paused, her brow furrowing. "And there is one other."
+"Eleanor, obviously. David Sterling. He has been her confidant for thirty-seven years. He knows where all the bodies are buried. Victor and Margot grew up in that house. They may have overheard things over the years." She paused, her brow furrowing. "And there is one other."
 
 "Who?"
 
-"Catherine Webb." Rosa met my eyes. "Marcus's sister. She came to the estate once, many years ago. I was there when she confronted Eleanor, demanded to know the truth about her brother's death. Eleanor had her thrown out, threatened to destroy her if she ever came back." Rosa's grip tightened. "But Catherine never stopped searching. Never stopped digging. If anyone has enough information to piece together what Eleanor did..."
+"Catherine Webb." Rosa met my eyes. "Marcus's sister. She came to the estate once, many years ago. I was there when she confronted Eleanor, demanded to know the truth about her brother's death. Eleanor had her thrown out, threatened to destroy her if she ever came back." Rosa's grip tightened. "But Catherine never stopped searching. Never stopped digging. If anyone has enough information to piece together what Eleanor did, it's her."
 
 "She's on her way here," I said. "Caught a flight last night after Eleanor responded to her text message."
 
-Rosa's face went pale. "Then she's in danger. If someone in that house is willing to kill to keep Eleanor's secrets buried—"
+Rosa's face went pale. "Then she's in danger. If someone in that house is willing to kill to keep Eleanor's secrets buried."
 
-"We've got officers bringing her in. She'll be safe." But even as I said it, I wasn't sure I believed it. This case had tentacles reaching everywhere—into the past, into the Ashworth family, into my own history. Someone had tried to kill Rosa and me last night. Someone who was still out there, still watching, still planning.
+"We've got officers bringing her in. She'll be safe." But even as I said it, I wasn't sure I believed it. This case had tentacles reaching everywhere. Into the past. Into the Ashworth family. Into my own history. Someone had tried to kill Rosa and me last night. Someone who was still out there. Still watching. Still planning.
 
 "Rosa." I leaned closer. "The person at the chapel said something I've been thinking about. They said to ask myself why someone would need to kill Eleanor three different ways. What do you think they meant?"
 
@@ -130,7 +130,7 @@ Rosa was quiet for a long moment. When she spoke, her voice was barely audible.
 
 "Three killers for three crimes."
 
-"Or three methods for three motivations." Rosa's hand fell away from my arm. "The poison could have been revenge—slow, calculated, the kind of death that lets the victim know what's happening. The strangulation could have been rage—passionate, personal, the hands of someone who had been hurt deeply. And the stabbing..."
+"Or three methods for three motivations." Rosa's hand fell away from my arm. "The poison could have been revenge. Slow. Calculated. The kind of death that lets the victim know what's happening. The strangulation could have been rage. Passionate. Personal. The hands of someone who had been hurt deeply. And the stabbing—"
 
 "Eleanor did that herself," I said. "The medical examiner confirmed it."
 
@@ -138,13 +138,13 @@ Rosa's eyes widened. "Herself?"
 
 "The angle of the wound was consistent with self-infliction. We think she might have ended it herself, rather than let someone else choose her death."
 
-A strange expression crossed Rosa's face—something between understanding and a grief I couldn't quite identify.
+A strange expression crossed Rosa's face. Something between understanding and a grief I couldn't quite identify.
 
 "That sounds like Eleanor," she said softly. "Even in death, she had to be in control. Had to make the final choice." Rosa turned her face toward the window, though she couldn't see anything through the drawn blinds. "She spent her whole life controlling everyone around her. Why would she let death be any different?"
 
 ---
 
-I left Rosa's room with more questions than answers and a growing certainty that the end of this case was approaching faster than I was ready for. The pieces were there—the phone calls, the text messages, the three methods of death—but they hadn't yet clicked into place.
+I left Rosa's room with more questions than answers and a growing certainty that the end of this case was approaching faster than I was ready for. The pieces were there. The phone calls. The text messages. The three methods of death. But they hadn't yet clicked into place.
 
 My phone buzzed as I stepped into the elevator. A text from Reyes:
 
@@ -152,7 +152,7 @@ My phone buzzed as I stepped into the elevator. A text from Reyes:
 
 I called her back immediately. "What did you find?"
 
-"The call Eleanor made at 11 PM—the one Sterling overheard where she said 'you should have told me years ago'?" Reyes paused, and I could hear the disbelief in her voice. "It went to a burner phone. Untraceable. But we pinged the location."
+"The call Eleanor made at 11 PM. The one Sterling overheard where she said 'you should have told me years ago.'" Reyes paused, and I could hear the disbelief in her voice. "It went to a burner phone. Untraceable. But we pinged the location."
 
 "Where?"
 
@@ -160,9 +160,9 @@ I called her back immediately. "What did you find?"
 
 The elevator doors opened. I stood frozen, my mind racing.
 
-"Someone in the house has a burner phone," I said. "Someone who's been communicating with Eleanor—maybe with Catherine Webb—off the record."
+"Someone in the house has a burner phone," I said. "Someone who's been communicating with Eleanor. Maybe with Catherine Webb. Off the record."
 
-"Gets better," Reyes said. "We cross-referenced the burner's activity with the cell towers near the estate. That phone has been active at the property for at least three months—roughly the same time period Catherine Webb started calling Eleanor."
+"Gets better," Reyes said. "We cross-referenced the burner's activity with the cell towers near the estate. That phone has been active at the property for at least three months. Roughly the same time period Catherine Webb started calling Eleanor."
 
 "The traitor," I breathed. "Someone in that house has been feeding information to Marcus Webb's sister. Building a case against Eleanor."
 

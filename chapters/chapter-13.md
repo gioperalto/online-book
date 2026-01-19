@@ -127,13 +127,13 @@ Chief Morrison stood in the doorway. Behind him, Mayor Caldwell. Both men were d
 
 "Personal grudges."
 
-"Your grandmother, detective." Caldwell's smile didn't waver. "We're aware of your family's history with the Ashworths. It's been brought to our attention that you may have... unresolved feelings about events from the past."
+"Your grandmother, detective." Caldwell's smile didn't waver. "We're aware of your family's history with the Ashworths. It's been brought to our attention that you may have unresolved feelings about events from the past."
 
 They knew. Of course they knew. Eleanor had been tracking my family for decades—why wouldn't her network have access to the same information?
 
 "My grandmother was destroyed by Eleanor Ashworth," I said carefully. "So was Marcus Webb, and probably dozens of other people. I have evidence—"
 
-"You have materials removed from a safety deposit box without proper authorization," Morrison interrupted. His friendly mask was slipping, something harder showing beneath. "Materials that belong to an estate in probate. Materials that you accessed using a key obtained from... well, we're not sure where, are we? Could be evidence tampering. Could be theft."
+"You have materials removed from a safety deposit box without proper authorization," Morrison interrupted. His friendly mask was slipping, something harder showing beneath. "Materials that belong to an estate in probate. Materials that you accessed using a key obtained from—well, we're not sure where, are we? Could be evidence tampering. Could be theft."
 
 "The key was provided by a witness in the investigation."
 
@@ -157,7 +157,7 @@ Mental illness. My grandmother's "breakdown"—the same breakdown Eleanor had en
 
 "You've thought of everything."
 
-"Eleanor thought of everything." Morrison's voice was almost admiring. "She built this system to survive. To protect the people who protected her. We're just... honoring her legacy."
+"Eleanor thought of everything." Morrison's voice was almost admiring. "She built this system to survive. To protect the people who protected her. We're just honoring her legacy."
 
 "By destroying anyone who threatens to expose the truth."
 

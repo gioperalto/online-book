@@ -148,7 +148,7 @@ Sterling was quiet for a long moment. The clock on his wall—an antique grandfa
 
 "Tell me."
 
-"For thirty-seven years, I had an arrangement with Eleanor. In exchange for my... services, I would receive a bequest upon her death. Not the largest share, but substantial—three million dollars and the deed to a property in Maine where I'd hoped to retire." Sterling's jaw tightened. "This new will—the one she was going to sign—eliminated that arrangement entirely. Zero dollars. Zero property. And a clause explicitly stating that I was being removed for 'services no longer meeting expectations.'"
+"For thirty-seven years, I had an arrangement with Eleanor. In exchange for my services, I would receive a bequest upon her death. Not the largest share, but substantial—three million dollars and the deed to a property in Maine where I'd hoped to retire." Sterling's jaw tightened. "This new will—the one she was going to sign—eliminated that arrangement entirely. Zero dollars. Zero property. And a clause explicitly stating that I was being removed for 'services no longer meeting expectations.'"
 
 "So you killed her for money."
 

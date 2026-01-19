@@ -134,7 +134,7 @@ Sterling's expression didn't change, but I noticed his hand pause over the docum
 
 A long silence. Sterling removed his glasses and polished them with a silk handkerchief—a delay tactic, buying time to compose his answer.
 
-"I wasn't present for the call," he said finally. "But I can tell you that Eleanor was... unsettled... when I arrived that evening. She mentioned that certain matters from the past had resurfaced. Old business that she thought was concluded."
+"I wasn't present for the call," he said finally. "But I can tell you that Eleanor was unsettled when I arrived that evening. She mentioned that certain matters from the past had resurfaced. Old business that she thought was concluded."
 
 "What kind of business?"
 
@@ -144,11 +144,11 @@ A long silence. Sterling removed his glasses and polished them with a silk handk
 
 Sterling was quiet for a long moment. Then he sighed, a sound of surrender, and leaned back in his chair.
 
-"There are things about Eleanor that even her family doesn't know," he said slowly. "Things I've been protecting for decades. But perhaps..." He shook his head. "Perhaps it's time for the truth to come out."
+"There are things about Eleanor that even her family doesn't know," he said slowly. "Things I've been protecting for decades. But perhaps—" He shook his head. "Perhaps it's time for the truth to come out."
 
 I waited. The afternoon light filtered through the study's heavy curtains, casting long shadows across the Oriental rug.
 
-"Forty years ago, Eleanor made a decision that shaped the course of this family's history." Sterling's voice had dropped, as if he feared being overheard. "There was a man—a business partner in the shipping company. He had evidence of certain... irregularities... in Eleanor's handling of the company finances. Evidence that would have destroyed her reputation and possibly led to criminal charges."
+"Forty years ago, Eleanor made a decision that shaped the course of this family's history." Sterling's voice had dropped, as if he feared being overheard. "There was a man—a business partner in the shipping company. He had evidence of certain irregularities in Eleanor's handling of the company finances. Evidence that would have destroyed her reputation and possibly led to criminal charges."
 
 "What was his name?"
 
@@ -196,7 +196,7 @@ He had known. All these years, he had known about Marcus Webb, about Eleanor's c
 
 I straightened, my detective's instincts cutting through the shock. "Mr. Sterling, where is my father now?"
 
-"I don't know. But Detective..." Sterling hesitated, then reached into his briefcase and pulled out a slim folder. "Eleanor asked me to prepare this document yesterday evening. It was supposed to be a new will—one that would have cut out everyone except a trust for charitable works. She intended to burn the family to the ground rather than let your father expose her."
+"I don't know. But Detective—" Sterling hesitated, then reached into his briefcase and pulled out a slim folder. "Eleanor asked me to prepare this document yesterday evening. It was supposed to be a new will—one that would have cut out everyone except a trust for charitable works. She intended to burn the family to the ground rather than let your father expose her."
 
 I took the folder but didn't open it. "Why are you telling me this?"
 

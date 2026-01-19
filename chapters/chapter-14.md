@@ -117,7 +117,7 @@ I turned. Agent Rebecca Torres stood in the hallway, her gray suit rumpled, a pa
 
 "I know all that. It's why I'm here."
 
-"But what you don't know is that it's not over. Eleanor's network is still operating. Someone inside it is still sending messages, still watching, still making threats." I showed her my phone. "Look at this. Someone wants me to find someone—a woman named Margaret, Eleanor's goddaughter's daughter. My... relative, apparently. They're warning me that the network will find her first."
+"But what you don't know is that it's not over. Eleanor's network is still operating. Someone inside it is still sending messages, still watching, still making threats." I showed her my phone. "Look at this. Someone wants me to find someone—a woman named Margaret, Eleanor's goddaughter's daughter. My relative, apparently. They're warning me that the network will find her first."
 
 Torres read the messages, her expression shifting from skepticism to concern. "Who's sending these?"
 

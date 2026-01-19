@@ -6,7 +6,7 @@ I arrived at the old Ashworth chapel at eleven-forty, twenty minutes early becau
 
 The chapel sat at the far edge of the Ashworth property, separated from the main estate by a quarter mile of overgrown forest and a rusted iron gate that hadn't been locked in decades. It was a Gothic relic, all pointed arches and crumbling stone, its stained glass windows long since shattered by time and teenage vandals. The Ashworths had built it in the 1890s, back when the family still believed in something beyond money and power. Now it was just another monument to their decay.
 
-I parked my car on the access road and walked the last hundred yards on foot, my flashlight cutting a weak beam through the darkness. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl—mournful, questioning, like it wanted to know what a fool like me was doing out here in the dark.
+I parked my car on the access road and walked the last hundred yards on foot, my flashlight cutting a weak beam through the darkness. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning. Like it wanted to know what a fool like me was doing out here in the dark.
 
 *Good question*, I thought. *Wish I had a good answer.*
 
@@ -16,13 +16,13 @@ The interior was exactly what you'd expect from a building abandoned for half a 
 
 I checked my watch. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
 
-I found a pew that still had four legs and sat down to wait. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here—twenty-three years ago, when I was a rookie cop and my grandmother was still alive, when the Ashworth name was just another wealthy family in Millbrook and not the weight around my neck it had become.
+I found a pew that still had four legs and sat down to wait. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
 
 *What happened to you, Grandma?* I wondered. *What did Eleanor do?*
 
 The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway.
 
-Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of her own clutched in one hand. She looked smaller here, away from the grand surroundings of the Ashworth estate—just a woman in her sixties, carrying secrets that had grown heavier with each passing year.
+Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of her own clutched in one hand. She looked smaller here, away from the grand surroundings of the Ashworth estate. Just a woman in her sixties. Carrying secrets that had grown heavier with each passing year.
 
 "Detective Marlowe." Her voice echoed off the stone walls. "You came."
 
@@ -30,7 +30,7 @@ Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of 
 
 She nodded slowly, picking her way through the debris toward the altar. I followed, my flashlight beam tracking her movements.
 
-"I have worked for the Ashworths for thirty-five years," she said, not looking at me. "I started when I was twenty-eight. A young woman from Guadalajara, barely speaking English, desperate for work. Mrs. Ashworth—the old Mrs. Ashworth, Eleanor's mother-in-law—she hired me as a kitchen maid. Said she liked the way I didn't chatter."
+"I have worked for the Ashworths for thirty-five years," she said, not looking at me. "I started when I was twenty-eight. A young woman from Guadalajara, barely speaking English, desperate for work. Mrs. Ashworth. The old Mrs. Ashworth, Eleanor's mother-in-law. She hired me as a kitchen maid. Said she liked the way I didn't chatter."
 
 She reached the altar and turned to face me, her dark eyes glittering in the combined light of our flashlights.
 
@@ -38,7 +38,7 @@ She reached the altar and turned to face me, her dark eyes glittering in the com
 
 "But now?"
 
-"Now Eleanor is dead." Rosa's face twisted with something that might have been grief or relief—it was hard to tell in the shadows. "And I am old, Detective. Too old to carry these secrets to my grave. They are too heavy. They have been heavy for twenty years."
+"Now Eleanor is dead." Rosa's face twisted with something that might have been grief or relief. It was hard to tell in the shadows. "And I am old, Detective. Too old to carry these secrets to my grave. They are too heavy. They have been heavy for twenty years."
 
 She reached into her coat pocket and withdrew something small that glinted gold in the flashlight beam. My breath caught in my throat.
 
@@ -52,7 +52,7 @@ My grandmother. Young, beautiful, standing beside a man I didn't recognize in fr
 
 The words knocked the air from my lungs. "Came for her? What are you talking about? My grandmother died of a heart attack. She was sixty-two years old, she had a weak heart, she—"
 
-"She was murdered." Rosa's voice cut through my denials like a knife. "Just like Eleanor. Different methods, maybe, but the same result. The same family behind it."
+"She was murdered." Rosa's voice cut through my denials like a knife. "Just like Eleanor. Different methods, maybe. But the same result. The same family behind it."
 
 I staggered backward, my legs hitting a pew, forcing me to sit. The flashlight trembled in my hand, sending shadows dancing across the ruined walls.
 
@@ -62,31 +62,31 @@ I staggered backward, my legs hitting a pew, forcing me to sit. The flashlight t
 
 I shook my head, but even as I did, fragments of memory surfaced. My grandmother's face whenever someone mentioned the Ashworths. The way she'd change the subject, find an excuse to leave the room. The sadness in her eyes that she could never quite explain.
 
-"They were friends once," Rosa continued. "Close friends. Your grandmother knew all of Eleanor's secrets—her affairs, her manipulations, the ways she destroyed anyone who got in her way. And then Eleanor fell in love."
+"They were friends once," Rosa continued. "Close friends. Your grandmother knew all of Eleanor's secrets. Her affairs. Her manipulations. The ways she destroyed anyone who got in her way. And then Eleanor fell in love."
 
 "With who?"
 
 Rosa pointed at the photograph still clutched in my trembling hand. "The man in the picture. His name was Marcus Webb. He was a shipping clerk, working for Eleanor's husband. A nobody, Eleanor's mother-in-law would have said. But Eleanor didn't care. For the first time in her life, she wanted something she couldn't buy."
 
-I looked at the photograph again, at the man standing beside my grandmother. He was handsome in a rough, working-class way—broad shoulders, strong jaw, eyes that crinkled at the corners like he laughed often. And the way he was looking at my grandmother...
+I looked at the photograph again, at the man standing beside my grandmother. He was handsome in a rough, working-class way. Broad shoulders. Strong jaw. Eyes that crinkled at the corners like he laughed often. And the way he was looking at my grandmother—it was unmistakable.
 
 "He was in love with her," I said. "My grandmother."
 
-"Yes. They met through Eleanor, fell in love, planned to marry. And when Eleanor found out—" Rosa's voice hardened. "She could not stand it. The one man she wanted, the one thing her money could not buy, and he chose someone else. Someone she considered beneath her."
+"Yes. They met through Eleanor, fell in love, planned to marry. And when Eleanor found out." Rosa's voice hardened. "She could not stand it. The one man she wanted, the one thing her money could not buy, and he chose someone else. Someone she considered beneath her."
 
 "What did she do?"
 
-"What Eleanor always did when someone took something from her. She destroyed them." Rosa reached out and touched the photograph, her finger tracing my grandmother's face. "She went to your grandmother's fiance—your grandfather—and told him lies. Said your grandmother had been having an affair with Marcus for months, that she was pregnant with his child, that she had been laughing at him behind his back."
+"What Eleanor always did when someone took something from her. She destroyed them." Rosa reached out and touched the photograph, her finger tracing my grandmother's face. "She went to your grandmother's fiance. Your grandfather. And told him lies. Said your grandmother had been having an affair with Marcus for months, that she was pregnant with his child, that she had been laughing at him behind his back."
 
-My stomach turned. My grandfather—stern, proud, unforgiving—had never spoken about how he and my grandmother met, how they fell in love, how their marriage began. Now I understood why.
+My stomach turned. My grandfather. Stern. Proud. Unforgiving. He had never spoken about how he and my grandmother met, how they fell in love, how their marriage began. Now I understood why.
 
-"Your grandfather believed her. He confronted your grandmother, and she denied it, but the damage was done. Eleanor had poisoned everything. Marcus was transferred to a shipping office in Seattle—Eleanor's doing, of course—and your grandmother married your grandfather out of desperation, out of shame, out of nowhere else to go."
+"Your grandfather believed her. He confronted your grandmother, and she denied it, but the damage was done. Eleanor had poisoned everything. Marcus was transferred to a shipping office in Seattle. Eleanor's doing, of course. And your grandmother married your grandfather out of desperation, out of shame, out of nowhere else to go."
 
 "And the locket?"
 
 "Marcus gave it to her. The day before he left. He told her he would always love her, that someday they would find their way back to each other." Rosa's voice softened. "He died three years later. An accident at the shipping yard. At least, that's what the reports said."
 
-I sat in the darkness, the weight of revelation pressing down on me like stones. My grandmother, trapped in a loveless marriage because of Eleanor Ashworth's jealousy. Marcus Webb, sent away and then killed—another accident, another convenient death. And the locket, passed down through years of silence, keeping a love story alive that should have been.
+I sat in the darkness, the weight of revelation pressing down on me like stones. My grandmother, trapped in a loveless marriage because of Eleanor Ashworth's jealousy. Marcus Webb, sent away and then killed. Another accident. Another convenient death. And the locket, passed down through years of silence, keeping a love story alive that should have been.
 
 "Why now?" I asked finally. "Why did Eleanor have the locket when she died?"
 
@@ -94,17 +94,17 @@ Rosa's face darkened. "Because your grandmother came back for it. Thirty years a
 
 "And Eleanor refused."
 
-"Eleanor laughed in her face. Said the past was the past, that nobody cared anymore about some dead shipping clerk and some bitter old woman." Rosa's hands clenched into fists. "Your grandmother left that night. Three days later, she was dead. Heart attack, the doctors said. But I was there when she visited Eleanor. I heard them arguing. I saw Eleanor's face afterward—triumphant, satisfied."
+"Eleanor laughed in her face. Said the past was the past, that nobody cared anymore about some dead shipping clerk and some bitter old woman." Rosa's hands clenched into fists. "Your grandmother left that night. Three days later, she was dead. Heart attack, the doctors said. But I was there when she visited Eleanor. I heard them arguing. I saw Eleanor's face afterward. Triumphant. Satisfied."
 
 "You think Eleanor killed her."
 
-"I know she did. I don't know how—Eleanor was clever, always clever—but I know." Rosa met my eyes. "The locket disappeared that night. Your grandmother was wearing it when she came to confront Eleanor. She was not wearing it when they found her body."
+"I know she did. I don't know how. Eleanor was clever. Always clever. But I know." Rosa met my eyes. "The locket disappeared that night. Your grandmother was wearing it when she came to confront Eleanor. She was not wearing it when they found her body."
 
 The pieces clicked together in my mind with sickening clarity. Eleanor had killed my grandmother, or had her killed, and kept the locket as a trophy. A reminder of her victory over the woman who had dared to take something she wanted.
 
-"But why was she holding it when she died?" I pressed. "If it was a trophy, why—"
+"But why was she holding it when she died?" I pressed. "If it was a trophy, why."
 
-A sound cut through the darkness—the creak of rusted hinges, the groan of the chapel door being pushed open.
+A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open.
 
 Rosa went rigid. "Someone followed us."
 
@@ -114,23 +114,23 @@ No answer. Just the whisper of wind through broken windows and the pound of my o
 
 "Stay behind me," I told Rosa, moving toward the door. My footsteps seemed impossibly loud in the silence, each one echoing off stone walls that had heard confessions for over a century.
 
-I reached the doorway and swept my flashlight across the darkness outside. Nothing. No movement, no sound, no—
+I reached the doorway and swept my flashlight across the darkness outside. Nothing. No movement. No sound.
 
 The blow came from behind.
 
-I didn't see it—didn't hear it—just felt an explosion of pain at the base of my skull as something heavy connected with the back of my head. The world tilted sideways, my flashlight spinning away into darkness, my weapon clattering across stone.
+I didn't see it. Didn't hear it. Just felt an explosion of pain at the base of my skull as something heavy connected with the back of my head. The world tilted sideways, my flashlight spinning away into darkness, my weapon clattering across stone.
 
-I hit the ground hard, my vision swimming with stars and shadows. Somewhere nearby, Rosa was screaming—a high, terrified sound that cut off abruptly, replaced by the sickening thud of a body hitting the floor.
+I hit the ground hard, my vision swimming with stars and shadows. Somewhere nearby, Rosa was screaming. A high, terrified sound that cut off abruptly. Replaced by the sickening thud of a body hitting the floor.
 
-*Get up,* I told myself. *Get up, get up, get up—*
+*Get up,* I told myself. *Get up, get up, get up.*
 
-But my body wouldn't obey. The darkness was closing in, thick and suffocating, and the last thing I heard before unconsciousness claimed me was a voice—familiar, yet somehow wrong—whispering words I couldn't quite understand.
+But my body wouldn't obey. The darkness was closing in, thick and suffocating, and the last thing I heard before unconsciousness claimed me was a voice. Familiar, yet somehow wrong. Whispering words I couldn't quite understand.
 
 ---
 
 I woke to pain.
 
-It radiated from the back of my skull in waves, each pulse bringing fresh nausea and a reminder that I was very much still alive—though probably not for much longer, given the circumstances.
+It radiated from the back of my skull in waves, each pulse bringing fresh nausea and a reminder that I was very much still alive. Though probably not for much longer, given the circumstances.
 
 I was lying on cold stone, my hands bound behind my back with what felt like zip ties, my ankles similarly secured. The darkness was absolute; either my flashlight had been taken or my eyes weren't working properly. Maybe both.
 
@@ -138,7 +138,7 @@ I was lying on cold stone, my hands bound behind my back with what felt like zip
 
 No answer.
 
-I twisted against my bonds, testing their strength, and was rewarded with a fresh spike of pain through my skull that made my vision white out. When it cleared—assuming my vision had cleared; it was impossible to tell in the darkness—I forced myself to take stock.
+I twisted against my bonds, testing their strength, and was rewarded with a fresh spike of pain through my skull that made my vision white out. When it cleared. Assuming my vision had cleared. It was impossible to tell in the darkness. I forced myself to take stock.
 
 I was still in the chapel. I could smell the mold and decay, feel the grit of centuries-old dust beneath my cheek. My weapon was gone, along with my phone and flashlight. Whoever had attacked us was thorough.
 
@@ -148,31 +148,31 @@ The attack had come from inside the chapel, not outside. That meant our attacker
 
 Or had someone been watching the whole time? Listening? Following?
 
-A sound cut through my thoughts—footsteps, slow and deliberate, approaching from somewhere to my left. I went still, feigning unconsciousness, and listened.
+A sound cut through my thoughts. Footsteps. Slow and deliberate. Approaching from somewhere to my left. I went still, feigning unconsciousness, and listened.
 
 "I know you're awake, Detective Marlowe." The voice was distorted somehow, artificially deepened, but there was something familiar about it that I couldn't quite place. "You can stop pretending."
 
-I didn't move. Didn't speak. Let them think I was still out, let them get closer—
+I didn't move. Didn't speak. Let them think I was still out, let them get closer.
 
-A foot connected with my ribs, hard enough to drive the breath from my lungs but not hard enough to break anything. A warning shot.
+A foot connected with my ribs. Hard enough to drive the breath from my lungs but not hard enough to break anything. A warning shot.
 
 "I said stop pretending." The voice was closer now, directly above me. "We need to talk."
 
-I opened my eyes—not that it made any difference in the darkness—and spoke through gritted teeth. "Where's Rosa?"
+I opened my eyes. Not that it made any difference in the darkness. I spoke through gritted teeth. "Where's Rosa?"
 
-"The housekeeper is... resting. She won't be disturbed."
+"The housekeeper is resting. She won't be disturbed."
 
-My blood ran cold. "If you've hurt her—"
+My blood ran cold. "If you've hurt her."
 
 "She's alive. For now. Her continued survival depends entirely on you, Detective. On how cooperative you choose to be."
 
-I heard the scrape of a match, and suddenly there was light—a candle, held in a gloved hand, illuminating nothing but shadows and the suggestion of a face hidden behind a black mask.
+I heard the scrape of a match, and suddenly there was light. A candle, held in a gloved hand. Illuminating nothing but shadows and the suggestion of a face hidden behind a black mask.
 
 "Who are you?"
 
-"That's not the right question." The figure set the candle on a nearby surface—the altar, I realized—and crouched down to my level. "The right question is: what do you know?"
+"That's not the right question." The figure set the candle on a nearby surface. The altar, I realized. Then crouched down to my level. "The right question is: what do you know?"
 
-"I know Eleanor Ashworth was murdered. I know someone in that house killed her. And I know—"
+"I know Eleanor Ashworth was murdered. I know someone in that house killed her. And I know."
 
 "You know about the locket." The masked figure leaned closer. "Rosa told you the story. The tragic romance, the jealous matriarch, the convenient accidents. She told you your grandmother was murdered."
 
@@ -180,9 +180,9 @@ I heard the scrape of a match, and suddenly there was light—a candle, held in 
 
 A pause. Then, quietly: "No. She wasn't wrong."
 
-Something in the voice shifted—a crack in the artificial distortion, a hint of genuine emotion beneath the mask.
+Something in the voice shifted. A crack in the artificial distortion. A hint of genuine emotion beneath the mask.
 
-"Eleanor Ashworth destroyed many people over the years," the figure continued. "Your grandmother was just one of them. Marcus Webb was another. There were others—so many others—people who got in her way, who knew too much, who simply existed in a space Eleanor wanted to occupy."
+"Eleanor Ashworth destroyed many people over the years," the figure continued. "Your grandmother was just one of them. Marcus Webb was another. There were others. So many others. People who got in her way. Who knew too much. Who simply existed in a space Eleanor wanted to occupy."
 
 "So you killed her." It wasn't a question. "You poisoned her, strangled her, stabbed her. Made sure she was dead three times over."
 
@@ -190,15 +190,15 @@ Something in the voice shifted—a crack in the artificial distortion, a hint of
 
 "There's no justice in murder."
 
-"No?" The figure laughed—a hollow, bitter sound. "Tell that to your grandmother. Tell that to Marcus Webb. Tell that to Margot Ashworth, who had her soul carved out by her mother's cruelty. Tell that to every person Eleanor destroyed while the world looked the other way because she had money and power and the right last name."
+"No?" The figure laughed. A hollow, bitter sound. "Tell that to your grandmother. Tell that to Marcus Webb. Tell that to Margot Ashworth, who had her soul carved out by her mother's cruelty. Tell that to every person Eleanor destroyed while the world looked the other way because she had money and power and the right last name."
 
 I struggled against my bonds, feeling the zip ties bite into my wrists. "So what now? You kill me too? Add another body to your count?"
 
-"That depends." The figure stood, their shadow stretching across the stone floor like a specter. "I didn't intend for you to become involved, Detective. Your assignment to this case was... unfortunate. But now that you know the truth—or part of it—we find ourselves at an impasse."
+"That depends." The figure stood, their shadow stretching across the stone floor like a specter. "I didn't intend for you to become involved, Detective. Your assignment to this case was unfortunate. But now that you know the truth—or part of it—we find ourselves at an impasse."
 
 "An impasse."
 
-"You have two choices. You can continue your investigation, pursue this case to its conclusion, and eventually discover who I am. In that scenario, I will be forced to protect myself, and you—and everyone you care about—will suffer the consequences." The figure paused. "Or you can walk away. Resign from the case, cite personal conflict of interest, and let the Ashworth family secrets stay buried where they belong."
+"You have two choices. You can continue your investigation, pursue this case to its conclusion, and eventually discover who I am. In that scenario, I will be forced to protect myself. You. And everyone you care about. Will suffer the consequences." The figure paused. "Or you can walk away. Resign from the case, cite personal conflict of interest, and let the Ashworth family secrets stay buried where they belong."
 
 "You're asking me to let a murderer go free."
 
@@ -240,7 +240,7 @@ By the time I got her to my car and myself to a phone, it was nearly four in the
 
 "I know."
 
-More silence. Then: "The crime scene unit is still processing the chapel. They found the photograph you mentioned, along with some other items Rosa had collected over the years. Evidence of Eleanor's... activities."
+More silence. Then: "The crime scene unit is still processing the chapel. They found the photograph you mentioned, along with some other items Rosa had collected over the years. Evidence of Eleanor's activities."
 
 "What kind of evidence?"
 

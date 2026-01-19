@@ -82,7 +82,7 @@ I sat with that, letting it settle. My father hadn't killed Eleanor Ashworth. He
 
 He pulled out a small leather pouch, worn soft with age. Inside was a folded piece of paper, yellowed at the edges.
 
-"Your grandmother kept a letter. The last letter Marcus ever wrote to her, sent from Seattle two days before he died." My father handed it to me. "She never showed it to anyone. Kept it hidden her whole life. But before she passed, she gave it to me and said... said it was time for someone else to carry it."
+"Your grandmother kept a letter. The last letter Marcus ever wrote to her, sent from Seattle two days before he died." My father handed it to me. "She never showed it to anyone. Kept it hidden her whole life. But before she passed, she gave it to me and said it was time for someone else to carry it."
 
 I unfolded the paper carefully, handling it like the artifact it was. The handwriting was faded but legible—neat, precise strokes from a man who had taken care with his words.
 
@@ -159,7 +159,7 @@ My father absorbed this in silence. Then: "Does she know about us? About our con
 
 The question hung in the air. Did I believe Sarah? Did I trust that her lies had been born from love rather than self-preservation?
 
-"I don't know what I believe anymore," I admitted. "This whole case... every layer I peel back, there's another secret underneath. Everyone in Eleanor's orbit has been hiding something. Everyone has reasons, justifications, excuses for the lies they told."
+"I don't know what I believe anymore," I admitted. "This whole case—every layer I peel back, there's another secret underneath. Everyone in Eleanor's orbit has been hiding something. Everyone has reasons, justifications, excuses for the lies they told."
 
 "That's what happens when you build a world on fear." My father's voice was quiet, reflective. "Eleanor made people afraid to tell the truth. So they lied to survive, and the lies became habit, and eventually nobody could tell the difference between who they really were and who they'd become to protect themselves."
 
