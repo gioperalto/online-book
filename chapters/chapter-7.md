@@ -190,7 +190,7 @@ Inside, the chapel was darker than I remembered. Moonlight filtered through brok
 
 A phone. A burner phone.
 
-"I know you're there, Detective." Her voice was calm, unsurprised. "I've been expecting you."
+"I know you're there, Detective." Her voice was calm, unsurprised. "I wondered when you'd find me."
 
 I stepped out of the shadows, my hand on my weapon. "Margot. You're the informant."
 

@@ -2,7 +2,7 @@
 
 David Sterling had the practiced calm of a man who made his living navigating other people's disasters. He sat in the formal dining room where the Ashworth family had shared their final meal together just hours before, his silver hair perfectly combed, his charcoal suit immaculate despite the chaos of the morning. A leather briefcase rested on the table beside him. His hands were folded neatly in front of him. Steady. Uncallused. The hands of someone who'd never done physical labor.
 
-"Detective Marlowe." He rose when I entered, extending one of those manicured hands. "David Sterling. I've been expecting you."
+"Detective Marlowe." He rose when I entered, extending one of those manicured hands. "David Sterling. I assumed you'd want to speak with me."
 
 His grip was firm but brief, the handshake of a man who'd calibrated every gesture for maximum efficiency. I took the seat across from him and pulled out my notebook, though we both knew this conversation would require more than notes.
 
