@@ -66,67 +66,81 @@ Catherine Webb looked at me with eyes that held forty years of grief and a lifet
 
 ---
 
-We sat on overturned crates in the darkness, the photograph between us like a bridge spanning decades. Catherine. My great-aunt. I still couldn't fully process it. She spoke in a quiet, measured voice, laying out a history I'd never known existed.
+We sat on overturned crates in the darkness, the photograph between us like a bridge spanning decades. Catherine. My great-aunt. I still couldn't fully process it.
 
-"I was fifteen when Marcus died. They told us it was an accident at the shipping yard. A crane malfunction, they said. But I never believed it. Marcus was careful. Methodical. He didn't make mistakes."
+She didn't speak. Instead, she reached into a worn leather satchel and began placing items on the crate between us, one by one. Each object caught the moonlight like a piece of evidence at a crime scene.
 
-"You think Eleanor had him killed."
+A faded shipping company manifest from 1964.
 
-"I know she did. It took me forty years to prove it, but I found the records. Payments to a dock foreman who retired to Florida six months later. A crane inspector who signed off on equipment he never examined. A trail of money and silence leading straight back to the Ashworth family." Catherine's hands trembled as she spoke. "Eleanor murdered my brother because he dared to love someone else. And when she found out your grandmother was pregnant, she would have killed the baby too. Killed your father before he was ever born. If your grandmother hadn't hidden the truth."
+A series of canceled checks, the amounts blacked out but the signatures visible.
 
-"How do you know all this?"
+A dog-eared address book with certain names circled in red.
 
-"Your grandmother told me. Not everything. Not at first. But enough." Catherine reached into her coat and produced a bundle of letters, yellowed with age. "After Marcus died, I tried to find your grandmother. To tell her I knew what Eleanor had done, to see if she knew anything that could help me prove it. But she'd disappeared. Married. Moved away. Changed her name. I didn't find her until decades later, when she was already old and dying."
+And finally, a small cassette tape, its label reading simply: *M.W. - Final Recording*.
 
-I took the letters with hands that didn't quite feel like my own. The handwriting was my grandmother's. I recognized it from birthday cards and recipes. From a lifetime of small, familiar moments.
+"I was fifteen when Marcus died," Catherine said, her voice barely above a whisper. "They told us it was an accident. But Marcus sent me this tape two days before the crane 'malfunctioned.'" She pressed play on a small recorder she'd brought.
 
-"She wrote to me," Catherine continued. "After we reconnected. She told me about Marcus, about the pregnancy, about the terror she'd lived with every day. The fear that Eleanor would discover the truth and come for her son." Catherine's eyes met mine. "Your father never knew who his real father was. Your grandmother took that secret to her grave. But she wanted someone to know. She wanted someone to make sure Eleanor's crimes didn't stay buried forever."
+A man's voice crackled through the speaker—young, frightened, but steady: *"Katie, if you're hearing this, something's happened to me. I want you to look at the shipping manifest from June 3rd. Look at who signed off on the crane inspection. Then look at the checks Eleanor writes every month—the ones that go to a P.O. box in Florida. Follow the money, Katie. The money always tells the truth."*
 
-I thought about my father. Quiet. Withdrawn. A man who'd spent his life running from something he couldn't name. I thought about my grandmother, dying alone in a hospital bed while Eleanor Ashworth prospered in her Gothic mansion. I thought about Marcus Webb, a young man who'd loved the wrong woman and paid for it with his life.
+The recording clicked off. I stared at the manifest on the crate.
 
-"Why now?" I asked. "Why come forward after all this time?"
+"You followed the trail."
 
-"Because I'm dying." Catherine said it simply, without drama. "Cancer. The doctors give me three months, maybe less. I've spent my whole life trying to bring Eleanor to justice, but the system was rigged. She owned everyone who could have helped. When I finally had enough evidence to expose her, I realized the only way to make it stick was to find someone Eleanor couldn't buy or threaten." She looked at me. "Someone with a personal stake. Someone who would see it through to the end."
+"For forty years." Catherine spread the documents out. "The crane inspector—his signature is on this manifest. Six months after Marcus died, he retired to Florida. Started receiving monthly payments from a shell company." She pointed to one of the canceled checks. "A shell company whose registered agent was David Sterling."
 
-"You've been calling the estate. Threatening her."
+I picked up the address book. The names circled in red—I recognized two of them from the Ashworth investigation.
 
-"Preparing her." Catherine's smile was thin, sharp. "I wanted her to know it was coming. To feel the fear she'd made so many others feel. And I wanted to draw her out, to see how she'd react when the walls started closing in."
+"These people..."
 
-"But someone killed her before you could finish."
+"All dead. All within five years of Marcus. All 'accidents' or 'natural causes.'" Catherine's hands were trembling now. "I've spent four decades mapping Eleanor's victims. Every time I got close, witnesses disappeared. Evidence vanished. But I kept copies. I kept everything."
 
-Catherine was silent for a moment. "Yes. Someone took my justice away from me. Someone who knew what she'd done and decided to end it their own way."
+I looked at the items spread before me—a paper trail of murder spanning half a century. But something was missing.
 
-"Who?"
+"My grandmother. Where does she fit?"
 
-"I don't know. I thought I did. I thought I knew every secret in that house. But the murder surprised me." She paused. "The three methods surprised me more."
+Catherine reached into her satchel one final time and pulled out a bundle of letters tied with faded ribbon. She didn't hand them to me—instead, she untied the ribbon and fanned them out, letting me see the dates. The earliest was from 1994. The latest was three days before my grandmother died.
 
-"You know about the poison, the strangulation, the stabbing."
+"Read the first one," Catherine said. "Just the opening paragraph."
 
-"I know someone in that house was working with me. Feeding me information. When I heard what happened to Eleanor, I assumed they'd acted. But three methods? That suggests something more complicated."
+I picked it up. My grandmother's handwriting. My throat tightened.
 
-"Your informant," I said, my mind racing. "The person with the burner phone. Who is it?"
+*Dear Catherine—I know who you are. I know what you've been searching for. Marcus spoke of you often, in those last months. He said you were stubborn enough to find the truth someday. I think that day has come. But I can't tell you everything in a letter. There's too much risk. Instead, I'll tell you where to look...*
 
-Catherine shook her head. "I don't know. We communicated through encrypted messages, dead drops. They never revealed their identity. They said it was safer that way. For both of us."
+The letter continued with a series of cryptic instructions—locations, dates, names written in code.
 
-"They attacked Rosa and me at the chapel."
+"She didn't give me answers," Catherine said. "She gave me a map. It took me another thirty years to decode it all." She met my eyes. "Your grandmother was a detective at heart, James. She gathered evidence her entire life, hiding it in places Eleanor would never think to look. She was waiting for someone who could use it."
 
-"I know. They called me afterward, panicked. Said things were spinning out of control, that the investigation was getting too close." Catherine's eyes were troubled. "They didn't want to hurt you. They wanted to scare you off. But they knew you wouldn't stop. Not once you learned about your grandmother. About Marcus."
+"Someone like you."
 
-"So they brought me here. Used you to tell me the truth."
+"Someone like you." Catherine stood slowly. "I'm dying. Cancer has seen to that. But before I go, I need to know this evidence will end up in the right hands." She gestured at the documents. "Take them. Follow the trail your grandmother laid out. I've decoded most of it, but there are pieces I could never find—pieces she hid specifically for family to discover."
 
-"Used me?" Catherine laughed bitterly. "I've been using them. Using everyone. I've spent forty years building this case, and I wasn't going to let anything derail it. Not Rosa's evidence. Not your investigation. Not even Eleanor's murder." She leaned forward. "The question now is what you're going to do with the truth."
+I stared at the paper trail of forty years' worth of investigation. "Why not just tell me everything you know?"
 
-I looked at the photograph, at my grandmother's face, at my father as a teenager. A boy who'd never known his real father. A man who'd lived his whole life in shadow.
+Catherine smiled—thin, sharp, knowing. "Because your grandmother understood something important: the truths we discover ourselves are the ones we fight for. If I just handed you a list of names and crimes, you'd have information. But if you follow the trail, you'll have understanding. You'll know not just what Eleanor did, but *how*. And the how is what will bring down everyone who helped her."
 
-"I'm going to find out who killed Eleanor Ashworth," I said. "Not for her sake. For justice."
+I gathered the documents carefully, my mind already racing through the connections. The shipping manifest led to the crane inspector. The checks led to Sterling. The address book contained names I needed to cross-reference.
 
-"Even if justice means protecting her killers?"
+"The person working with you inside the house," I said. "The one with the burner phone. They attacked Rosa and me."
 
-I met Catherine's eyes. "Justice doesn't work that way. Eleanor committed crimes. Terrible crimes. But so did whoever murdered her. If there's evidence of what she did, I'll make sure it sees the light. But I won't let her killers walk free just because their victim deserved what she got."
+"I know. They panicked when you got too close." Catherine pulled her coat tight. "I've never met them face to face. Only encrypted messages, dead drops. They know the house, know the family—but they've never revealed themselves. Not even to me."
 
-Catherine studied me for a long moment. Something in her expression shifted. Disappointment, maybe. Or a grudging respect.
+"Then how do I find them?"
 
-"You're more like Marcus than you know," she said finally. "He was the same way. Stubborn. Principled. Unwilling to compromise, even when compromise would have saved him." She stood, gathering her coat around her. "I've given you what I came to give. The rest is up to you."
+Catherine reached into her pocket and produced a small object—a ring, gold with an intricate leaf pattern. "They sent me this as proof of their access. It's been in the Ashworth family for five generations. Only someone inside the house could have taken it."
+
+I turned the ring over in my hands. An heirloom. A clue. Another piece of the puzzle my grandmother had spent her life assembling.
+
+"The question now," Catherine said, "is what you're going to do with all of it."
+
+I met her eyes. "I'm going to follow every trail. Find every connection. And when I'm done, the truth will be public—all of it. Eleanor's crimes *and* whoever killed her."
+
+"Even if justice means your own family gets dragged through the mud?"
+
+"Justice doesn't play favorites." I gathered the documents into my jacket. "That's what makes it justice."
+
+Catherine studied me for a long moment. Something shifted in her expression—not quite approval, but close.
+
+"You're more like Marcus than you know," she said finally. "Stubborn. Principled. The kind of man who follows the trail no matter where it leads." She turned toward the door. "I've pointed you in the right direction. The rest of the path is yours to walk."
 
 "Wait." I rose too, blocking her path. "The informant. You said they were inside the house. There has to be something. Some clue to their identity."
 

@@ -44,61 +44,65 @@ My grandmother. Young, beautiful, standing beside a man I didn't recognize in fr
 
 "Where did you get this?" My voice came out rough, broken.
 
-"Your grandmother gave it to me," Rosa said quietly. "The day before she disappeared. She asked me to keep it safe, to give it to you when the time was right." She paused. "She said you would need to know the truth someday. That the Ashworths would come for you eventually, just like they came for her."
+Rosa didn't answer. Instead, she reached into her coat and pulled out a small wooden box, weathered with age. She set it on the altar between us.
 
-The words knocked the air from my lungs. "Came for her? What are you talking about? My grandmother died of a heart attack. She was sixty-two years old, she had a weak heart, she—"
+"Your grandmother gave me this. The day before she died." Rosa's eyes met mine in the flickering light. "She said: 'When James is ready, show him the path. Don't give him the answers—give him the questions.'"
 
-"She was murdered." Rosa's voice cut through my denials like a knife. "Just like Eleanor. Different methods, maybe. But the same result. The same family behind it."
+I stared at the box. "What's inside?"
 
-I staggered backward, my legs hitting a pew, forcing me to sit. The flashlight trembled in my hand, sending shadows dancing across the ruined walls.
+"Open it."
 
-"That's impossible. I was at the hospital. I saw the death certificate. Natural causes, they said. Natural causes."
+My hands trembled as I lifted the lid. Inside, nestled in faded velvet, were three items: a newspaper clipping yellowed with age, a small brass key, and a folded piece of paper covered in my grandmother's handwriting.
 
-"Natural causes." Rosa laughed, a bitter, hollow sound. "That is what the Ashworths' money buys, Detective. Natural causes. Accidents. Suicides. Whatever story they need to tell." She moved closer, her voice dropping to barely a whisper. "Your grandmother worked for Eleanor. Did you know that? Before you were born, before she married your grandfather, she was Eleanor's personal secretary."
+I picked up the newspaper clipping first. The headline read: *SHIPPING YARD ACCIDENT CLAIMS WORKER'S LIFE - Seattle, 1964*. The photograph beneath showed a crane, collapsed, and in the background, barely visible, a young man's face circled in pencil.
 
-I shook my head, but even as I did, fragments of memory surfaced. My grandmother's face whenever someone mentioned the Ashworths. The way she'd change the subject, find an excuse to leave the room. The sadness in her eyes that she could never quite explain.
+"Who circled this?"
 
-"They were friends once," Rosa continued. "Close friends. Your grandmother knew all of Eleanor's secrets. Her affairs. Her manipulations. The ways she destroyed anyone who got in her way. And then Eleanor fell in love."
+"Read the name in the article."
 
-"With who?"
+I scanned the faded text. *Marcus Webb, 34, a transfer from the Millbrook shipping office...*
 
-Rosa pointed at the photograph still clutched in my trembling hand. "The man in the picture. His name was Marcus Webb. He was a shipping clerk, working for Eleanor's husband. A nobody, Eleanor's mother-in-law would have said. But Eleanor didn't care. For the first time in her life, she wanted something she couldn't buy."
+My blood ran cold. I looked at the photograph Rosa had shown me—the man standing with my grandmother, the same strong jaw, the same eyes.
 
-I looked at the photograph again, at the man standing beside my grandmother. He was handsome in a rough, working-class way. Broad shoulders. Strong jaw. Eyes that crinkled at the corners like he laughed often. And the way he was looking at my grandmother—it was unmistakable.
+"He was transferred. And then he died."
 
-"He was in love with her," I said. "My grandmother."
+Rosa said nothing. She simply pointed at the folded paper.
 
-"Yes. They met through Eleanor, fell in love, planned to marry. And when Eleanor found out." Rosa's voice hardened. "She could not stand it. The one man she wanted, the one thing her money could not buy, and he chose someone else. Someone she considered beneath her."
+I opened it. My grandmother's handwriting—I'd recognize it anywhere—but the words made no sense at first:
 
-"What did she do?"
+*Things I Cannot Say:*
+*- E. wanted what she could not have*
+*- M. chose me instead*
+*- Three days after I confronted her, they found me*
+*- The locket was GONE when I woke in the hospital*
+*- Natural causes. That is what money buys.*
+*- If you're reading this, I did not survive the second attempt*
 
-"What Eleanor always did when someone took something from her. She destroyed them." Rosa reached out and touched the photograph, her finger tracing my grandmother's face. "She went to your grandmother's fiance. Your grandfather. And told him lies. Said your grandmother had been having an affair with Marcus for months, that she was pregnant with his child, that she had been laughing at him behind his back."
+"Second attempt?" The words came out strangled.
 
-My stomach turned. My grandfather. Stern. Proud. Unforgiving. He had never spoken about how he and my grandmother met, how they fell in love, how their marriage began. Now I understood why.
+"Look at the date on the newspaper clipping, Detective. Then look at your grandmother's death certificate. Count the years."
 
-"Your grandfather believed her. He confronted your grandmother, and she denied it, but the damage was done. Eleanor had poisoned everything. Marcus was transferred to a shipping office in Seattle. Eleanor's doing, of course. And your grandmother married your grandfather out of desperation, out of shame, out of nowhere else to go."
+I did the math in my head. Thirty years. My grandmother had lived thirty years after Marcus Webb died. And then, according to her own words...
 
-"And the locket?"
+"She woke in the hospital. After the first 'heart attack.' But she wrote 'if you're reading this, I did not survive the second attempt.'"
 
-"Marcus gave it to her. The day before he left. He told her he would always love her, that someday they would find their way back to each other." Rosa's voice softened. "He died three years later. An accident at the shipping yard. At least, that's what the reports said."
+Rosa nodded slowly. "Your grandmother was poisoned, Detective. The first time, she survived. The second time..." Her voice trailed off.
 
-I sat in the darkness, the weight of revelation pressing down on me like stones. My grandmother, trapped in a loveless marriage because of Eleanor Ashworth's jealousy. Marcus Webb, sent away and then killed. Another accident. Another convenient death. And the locket, passed down through years of silence, keeping a love story alive that should have been.
+"Eleanor killed her."
 
-"Why now?" I asked finally. "Why did Eleanor have the locket when she died?"
+"I don't give you answers. I give you questions." Rosa picked up the brass key from the box. "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there—letters, documents, things she gathered over sixty years of watching and waiting." She pressed the key into my palm. "The path is yours to walk now. The truth is yours to find."
 
-Rosa's face darkened. "Because your grandmother came back for it. Thirty years after Marcus died, after your grandfather passed, after she had nothing left to lose. She came to Eleanor and demanded the truth. She wanted Eleanor to admit what she'd done, to acknowledge the lives she'd destroyed."
+I sat in the darkness, turning the key over in my fingers. My grandmother hadn't just left me evidence—she'd left me a trail of breadcrumbs, a detective's treasure hunt spanning decades.
 
-"And Eleanor refused."
+"Why didn't she go to the police? Why didn't she expose Eleanor while she was still alive?"
 
-"Eleanor laughed in her face. Said the past was the past, that nobody cared anymore about some dead shipping clerk and some bitter old woman." Rosa's hands clenched into fists. "Your grandmother left that night. Three days later, she was dead. Heart attack, the doctors said. But I was there when she visited Eleanor. I heard them arguing. I saw Eleanor's face afterward. Triumphant. Satisfied."
+Rosa's laugh was bitter. "Ask yourself who owned the police in this town for the last sixty years. Then ask yourself why your grandmother chose to leave her evidence to a detective she trusted—her own grandson—instead of anyone else."
 
-"You think Eleanor killed her."
+I looked at the key, the clipping, the handwritten list of things she couldn't say aloud. My grandmother had known she was being hunted. She'd prepared for it. And she'd waited, patiently, for someone who would finally be able to follow the trail.
 
-"I know she did. I don't know how. Eleanor was clever. Always clever. But I know." Rosa met my eyes. "The locket disappeared that night. Your grandmother was wearing it when she came to confront Eleanor. She was not wearing it when they found her body."
+"The locket," I said slowly. "She was wearing it when she confronted Eleanor. It disappeared. And now Eleanor dies clutching it. Why?"
 
-The pieces clicked together in my mind with sickening clarity. Eleanor had killed my grandmother, or had her killed, and kept the locket as a trophy. A reminder of her victory over the woman who had dared to take something she wanted.
-
-"But why was she holding it when she died?" I pressed. "If it was a trophy, why."
+"That's the right question." Rosa's eyes glittered. "Now find the right answer."
 
 A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open.
 

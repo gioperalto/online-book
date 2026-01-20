@@ -56,27 +56,38 @@ Sterling stared at me for a long moment, and I watched him wrestle with somethin
 
 Sterling's mouth twitched. Not quite a smile, but close. "No. I suppose not."
 
-He slid the folder across the table. I opened it to find page after page of dense legal text, but Sterling pointed to a section near the middle.
+He slid the folder across the table. I opened it to find page after page of dense legal text—but something was wrong. Several pages had been torn out, their ragged edges still visible in the binding. Fresh coffee rings stained documents that should have been pristine. And in the margins, someone had scribbled notes in handwriting that wasn't Sterling's neat script.
 
-"This is the will as it stood yesterday morning. Victor inherits the estate and the bulk of the assets, approximately sixty percent. Margot receives a monthly stipend and a guaranteed residence in the east wing for the remainder of her life. Julian. Victor's son. He receives a trust that matures when he turns thirty, roughly eight years from now."
+"What happened to this file?"
 
-"And the other forty percent?"
+Sterling's composure cracked. "Eleanor happened. Last night, after our meeting, she went through everything herself. Tore out the pages she didn't want anyone to see."
 
-"Divided among various charities and foundations that Eleanor supported over the years. The Ashworth legacy, as she liked to call it."
+I flipped through what remained. Partial sentences jumped out at me: *...beneficiary to be changed upon...* and *...previous arrangement with V. Ashworth hereby terminated...* and most damning of all, a single phrase circled in red ink: *DISINHERIT ENTIRELY.*
 
-I studied the document, my mind racing. "You said this was the will as it stood yesterday morning. She wanted to change it?"
+"Who was she planning to cut out?"
 
-Sterling nodded, his face grave. "Last night, Eleanor instructed me to draft a new version. One with significant alterations."
+Sterling didn't answer. Instead, he reached into his briefcase and produced a crumpled ball of paper—something he'd clearly retrieved from Eleanor's wastebasket.
 
-"How significant?"
+I smoothed it out on the table. A handwritten list in Eleanor's spidery script:
 
-He pulled another document from the folder. This one only a few pages, covered in handwritten notes and corrections.
+*Victor - NOTHING. He knows why.*
+*Julian - everything, held in trust*
+*Margot - unchanged*
+*D.S. - see attached (VOID)*
 
-"She wanted to disinherit Victor entirely."
+"D.S.?" I looked up at Sterling.
 
-The words landed like a physical blow. I looked up sharply. "Entirely? Why?"
+His face had gone pale. "My initials."
 
-"She didn't explain in detail. She rarely did. But she said she'd learned something about Victor recently. Something that made it impossible for her to trust him with the family's future. She wanted everything to go to Julian instead, with Margot's provisions unchanged."
+I noticed his hands were trembling. "She was cutting you out too."
+
+"Look at the bottom of the page, Detective."
+
+I did. Three words, underlined twice: *He knows why.*
+
+"What did Victor do, Mr. Sterling? What did Eleanor discover?"
+
+"If I knew everything, I would tell you." But his eyes slid away from mine, and I noticed a fresh scratch on his right hand—the kind you might get from someone grabbing at you. Fighting back.
 
 "Did she sign this new will?"
 

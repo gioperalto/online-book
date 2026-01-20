@@ -40,19 +40,46 @@ I processed this. "You knew your husband was stealing from the family."
 
 "What reasons?"
 
-Diana was quiet for a long moment. When she spoke again, her voice had dropped to something barely above a whisper.
+Diana didn't answer. Instead, she reached into the pocket of her blazer—the officers had let her keep it, a small dignity—and pulled out a worn photograph. She slid it through the bars toward me.
 
-"My mother worked at the Ashworth shipping company thirty years ago. Secretary in the accounting department—a good job, steady pay, the kind of work that kept food on the table for a single mother with a young daughter." She paused. "Eleanor had her fired."
+A woman in a modest dress, standing in front of a small apartment building. She was smiling, but there was something tired in her eyes. Something familiar.
 
-"Why?"
+"She looks like you," I said.
 
-"Because my mother noticed something in the books. Discrepancies in the accounts, payments that didn't add up, money flowing to shell companies that existed only on paper." Diana's hands clenched in her lap. "She made the mistake of asking questions. The next week, she was accused of theft—ten thousand dollars supposedly missing from petty cash—and escorted out by security. No references, no severance, no chance to defend herself."
+"That was taken a month before she lost her job." Diana's voice was flat. "Before Eleanor destroyed her."
 
-"Your mother was innocent."
+I flipped the photo over. On the back, a handwritten note: *Marie Chen, Ashworth Shipping, Employee of the Month, April 1994.*
 
-"My mother spent the next five years working three jobs to keep us from losing our apartment. She never recovered from the shame—in a town like Millbrook, an accusation like that follows you forever." Diana's voice cracked. "She died when I was nineteen. Heart attack, the doctors said. But I knew better. Eleanor Ashworth killed her as surely as if she'd put a gun to her head."
+"Your mother worked for the Ashworths."
 
-I sat back, recalibrating everything I thought I knew about Diana Ashworth. Not a gold-digger. Not an opportunist. A woman who had spent twenty years inside the enemy camp, waiting for her chance to strike.
+"Look at the next item."
+
+Diana pulled out a creased document and passed it through the bars. A termination notice, official letterhead, dated May 1994. *Termination for cause: Theft of company funds ($10,000 from petty cash).* At the bottom, a single signature: Eleanor Ashworth.
+
+"She didn't steal anything."
+
+"Keep reading."
+
+I found another paper, folded inside the termination notice. A memo on Ashworth Shipping letterhead, marked *CONFIDENTIAL*:
+
+*RE: Accounting discrepancies identified by M. Chen*
+*Shell company payments flagged: Atlantic Holdings, Coastal Investments, Harbor Trust*
+*Recommend immediate termination before further investigation*
+*—D. Sterling*
+
+David Sterling's signature. Thirty years ago, recommending my mother's firing.
+
+"My mother found the shell companies Eleanor was using to hide money," Diana said quietly. "She asked questions. Within a week, she was accused of theft. The evidence was manufactured—I know because I found this memo years later, hidden in Eleanor's archives."
+
+I looked at the documents spread before me. The happy photograph. The termination letter. The memo that proved the frame-up. Diana hadn't just told me her story—she'd shown me the evidence, piece by piece.
+
+"What happened to her after?"
+
+Diana passed through one final item. A death certificate. *Marie Chen, age 47. Cause of death: Cardiac arrest.*
+
+"She worked three jobs after they fired her. Couldn't get a reference anywhere in Millbrook—Eleanor made sure of that. She died five years later, worn down to nothing." Diana's voice cracked. "The doctors called it a heart attack. But I have the hospital bills too, if you want to see them. I have everything."
+
+I sat back, recalibrating everything I thought I knew about Diana Ashworth. Not a gold-digger. Not an opportunist. A woman who had spent twenty years building a case file against the family she married into. A woman who had gathered evidence while waiting for her chance to strike.
 
 "The search you planned," I said slowly. "It wasn't just about protecting Victor. You were looking for evidence of Eleanor's crimes."
 

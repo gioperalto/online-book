@@ -30,55 +30,61 @@ Sarah nodded slowly, like she'd expected this. Like she'd been rehearsing for th
 
 "At the beginning." I pulled out the desk chair and sat across from her, keeping the distance professional. "When did you first meet Victor Ashworth?"
 
-A pause. Then: "Twenty-three years ago. I was twenty-two, fresh out of college, working as a receptionist at a law firm downtown. Victor was a client—young, handsome, heir to one of the oldest fortunes in Millbrook." Her smile was bitter, self-mocking. "I thought I'd won the lottery."
+Sarah didn't answer immediately. Instead, she reached for her laptop on the bed and turned it toward me. The screen showed a folder of scanned documents—dozens of files, organized by date.
 
-"You fell in love with him."
+"I've been carrying this for twenty-three years," she said quietly. "I kept everything. Every letter, every document, every piece of evidence that Eleanor tried to bury. Look for yourself."
 
-"I fell in love with a version of him. The version he showed me—kind, gentle, desperate to escape his mother's shadow." Sarah's eyes went distant, remembering. "We were together for eight months. He talked about marriage, about running away together, about starting over somewhere Eleanor couldn't reach us. I believed him."
+I leaned forward. The first file was a photograph—Sarah, young and radiant, standing beside Victor Ashworth outside what looked like a country club. They were holding hands. She couldn't have been older than twenty-two.
 
-"What happened?"
+"Keep scrolling."
 
-"Eleanor happened." The name came out like a curse. "She found out about us. Victor had been careful—secret meetings, borrowed phones, cash payments for everything—but Eleanor had eyes everywhere. She probably knew from the beginning and just waited until it was most convenient to strike."
+The next image was a letter on Ashworth family stationery. Eleanor's handwriting—I recognized it from the will documents.
 
-I thought about the pattern. Margot's lost love, paid off and disappeared. Marcus Webb, destroyed for daring to love Marlowe's grandmother. Eleanor wielded love like a weapon, cutting down anyone who threatened her control.
+*Miss Foster—I know what you are. I know what you want. But my son is not yours to take. You have one week to end this arrangement, or I will end everything you love.*
 
-"She threatened you."
+"She gave me a week," Sarah said flatly. "Then she started."
 
-"She destroyed me." Sarah's voice was flat, matter-of-fact. "First, she had my father fired. He'd worked at the same factory for twenty years—foreman, perfect record, beloved by his crew. One day, out of nowhere, they accused him of safety violations he never committed. They showed him falsified reports, doctored records, evidence that appeared out of thin air. He was escorted off the property by security."
+I clicked to the next document. A termination notice from Millbrook Manufacturing, addressed to Thomas Foster. *Dismissal for cause: falsification of safety records.* The date was exactly eight days after Eleanor's letter.
 
-"Eleanor manufactured the evidence."
+"My father. Twenty years at that factory, never a single complaint."
 
-"She manufactured everything. When my father's termination wasn't enough to make me leave Victor, she went after my brother. Planted drugs in his car, tipped off the police. He spent six months in county jail before they dropped the charges—not because they believed he was innocent, but because Eleanor decided she'd made her point." Sarah's hands were shaking now, her composure cracking at the edges. "And then she came to me personally."
+The next file was a police report. *Arrest of Michael Foster, possession with intent to distribute.* Sarah's brother. The charges had been dropped six months later, but I could see the mugshot—a young man's eyes, hollow with fear and confusion.
 
-"What did she offer?"
+"Eleanor planted the drugs herself. Or had someone do it. I never found out which."
 
-"One hundred thousand dollars to disappear. To never contact Victor again, never return to Millbrook, never speak about what had happened." Sarah laughed, hollow and sharp. "And she made it very clear what would happen if I refused. My father would never work again. My brother would go to prison for real next time. My mother's medical bills would somehow stop being covered by insurance. Eleanor was thorough, James. She didn't just threaten—she demonstrated."
+I kept scrolling. Medical bills, marked *COVERAGE DENIED*. A bank statement showing a wire transfer of $100,000 to an account in Detroit. And then—a series of photographs that made my blood run cold.
 
-I sat in the plastic chair, processing. This was the Sarah I'd married—the woman I'd thought I knew—carrying this weight alone for over two decades. Living with the knowledge of what she'd been forced to sacrifice, what she'd lost.
+Sarah, walking into her apartment building in Detroit. Sarah, at a grocery store. Sarah, sitting alone in a coffee shop. Each photo timestamped, spanning several months.
 
-"So you took the money."
+"She had me followed. Even after I took the money and disappeared, she kept watching. Making sure I stayed gone."
 
-"I took the money. I moved to Detroit. I changed my name—my professional name, anyway—and I started over." Sarah's eyes met mine. "I tried to forget Victor, to forget Millbrook, to forget everything Eleanor had done. And for a while, it worked."
+I sat back, processing. This wasn't a confession—it was a case file. Sarah had documented her own destruction with the precision of a detective.
 
-"Until it didn't."
+"Why keep all of this?"
 
-"Until the money ran out and I got desperate." She stood abruptly, pacing to the window and staring out at the gravel parking lot. "The hundred thousand sounds like a lot, but it doesn't last forever. My father was diagnosed with early-onset Alzheimer's. My brother needed rehab after his time in jail broke something in him. My mother needed care my paycheck couldn't cover. And every time I thought about where I was, how I'd gotten there, I thought about Victor. About the fortune he'd inherited. About the life I should have had."
+"Insurance. Evidence. Proof that I didn't imagine what happened." Sarah's voice was steady now. "And because someday, I knew someone would need to see it."
 
-"So you started blackmailing him."
+I thought about the pattern. Margot's lost love, paid off and disappeared. Marcus Webb, destroyed for daring to love my grandmother. Eleanor wielded love like a weapon.
 
-"I didn't think of it as blackmail." She turned to face me, and I saw something fierce in her eyes—defiant, unapologetic. "I thought of it as recovery. Eleanor had stolen my future. Victor had been too weak to fight for me. The least they owed me was enough money to survive."
+"The blackmail," I said. "Show me."
 
-"You've been taking payments from Victor for three years."
+Sarah clicked to a different folder. Bank statements—Victor's personal account, showing regular withdrawals. Copies of cashier's checks, all made out to cash. And a series of text messages, screenshots from a burner phone:
 
-"Small amounts at first. Enough to cover my mother's care, my brother's treatment. Victor was terrified that Diana would find out, that Eleanor would discover his weakness. He paid without question." Sarah's voice hardened. "And then, six months ago, I found out about the embezzlement. Victor wasn't paying me from his own accounts—he was stealing from the family to keep me quiet. Which meant Eleanor would eventually notice."
+*V: She's asking questions about the accounts.*
+*S: How much does she know?*
+*V: Enough. James—I don't know what to do.*
+*S: Tell the truth. Before she finds it.*
+*V: You don't understand. She'll destroy everything.*
 
-"She noticed last week."
+The final message was from three days ago:
 
-"I know. Victor called me, panicking. Said Eleanor had discovered everything, was going to cut him off entirely, was already making calls to people who could 'handle problems.'" Sarah shook her head. "I told him to come clean. To tell Diana, tell the lawyers, get ahead of it before Eleanor buried us both. But he was too scared."
+*V: She found out. Everything. She's changing the will. She's making calls. I think she's going to have you killed.*
 
-"So you came to Millbrook."
+I stared at the screen. Victor had warned Sarah that Eleanor was planning to eliminate her—the same way Eleanor had eliminated everyone else who threatened her control.
 
-"I came because I heard Eleanor was dead. I came because Victor called me in tears at six in the morning, terrified that the police would find out about our arrangement. And I came—" She paused, her eyes meeting mine. "I came because I knew you were on the case. And I thought maybe it was finally time to tell you the truth."
+"That's why you came to Millbrook."
+
+"I came because Victor was terrified. And because I knew you were on the case." Sarah closed the laptop. "I came because it was finally time to stop running and start telling the truth."
 
 I stood up from the chair, needing to move, needing to process. The motel room felt too small suddenly, the walls pressing in.
 
