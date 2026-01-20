@@ -28,4 +28,5 @@
 ## What We Leave Behind
 ## Ledger of Sins
 ## Blood Inheritance
+## The Quiet After
 ## Silence at Last
