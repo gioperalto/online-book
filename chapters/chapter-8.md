@@ -230,6 +230,6 @@ I got in my car and drove toward Route 7, toward the motel where my ex-wife was 
 
 The sun was fully up now, painting Millbrook in shades of gold and shadow. Somewhere behind me, the Ashworth mansion stood silent, holding on to its last secrets. And ahead of me, Sarah waited with the truth I'd been running from for three years.
 
-BUT the truth, I was beginning to learn, had a way of finding you whether you were ready for it or not.
+The truth, I was beginning to learn, had a way of finding you whether you were ready for it or not.
 
-THEREFORE, I kept driving.
+So I kept driving.

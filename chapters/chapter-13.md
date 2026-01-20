@@ -229,7 +229,7 @@ I followed her out of the vault, past the shell-shocked tellers and the empty se
 
 The network was crumbling. The people who had protected Eleanor for decades were being dragged into the light. And somewhere, I hoped, my grandmother was finally at peace—knowing that the truth she'd fought for was finally being told.
 
-BUT as I reached my car, my phone buzzed. An unknown number, displaying a text message that made my blood freeze:
+As I reached my car, my phone buzzed. An unknown number, displaying a text message that made my blood freeze:
 
 *You think you've won. You haven't. The network is bigger than Morrison. Bigger than Caldwell. Look closer at your own house, Detective.*
 
@@ -237,6 +237,6 @@ I stared at the message, reading it twice, three times.
 
 My own house. What did that mean?
 
-THEREFORE, even as one battle ended, another was beginning. Someone in the network was still out there—someone who knew me, knew my investigation, and wasn't finished yet.
+Even as one battle ended, another was beginning. Someone in the network was still out there—someone who knew me, knew my investigation, and wasn't finished yet.
 
 The fight wasn't over. It had barely started.

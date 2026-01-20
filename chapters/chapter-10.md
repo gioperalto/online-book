@@ -279,8 +279,8 @@ I ended the call and walked to my car, my mind spinning with questions. In the s
 
 The case was solved. Diana had poisoned Eleanor. Julian had tried to strangle her. Eleanor had ended her own life.
 
-BUT the story wasn't over. There were still threads to pull, secrets to uncover, a family history that stretched back four decades and touched every person I'd ever loved.
+Yet the story wasn't over. There were still threads to pull, secrets to uncover, a family history that stretched back four decades and touched every person I'd ever loved.
 
-THEREFORE, I drove to the cemetery, toward my father and the truth I'd been running from my entire life.
+And so I drove to the cemetery, toward my father and the truth I'd been running from my entire life.
 
 The dead were waiting. And they had so much left to tell me.

@@ -250,4 +250,4 @@ I was running before I even made the conscious decision. Throwing myself into th
 
 My father. The Adjuster. The house where Marcus Webb had grown up, before Eleanor Ashworth had stolen his life.
 
-THEREFORE the final pieces were falling into place, and the ghost I'd been chasing through decades of secrets was finally about to show its face.
+The final pieces were falling into place, and the ghost I'd been chasing through decades of secrets was finally about to show its face.

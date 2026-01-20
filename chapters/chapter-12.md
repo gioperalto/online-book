@@ -208,8 +208,8 @@ Forty-eight hours. A safety deposit box full of evidence. A network of corruptio
 
 The pieces were coming together. The trap was being laid.
 
-BUT I knew, with a certainty that settled cold in my gut, that the people I was hunting would not go quietly. They had survived this long by destroying anyone who threatened them. They would come for me the moment they realized what I was doing.
+Still, I knew, with a certainty that settled cold in my gut, that the people I was hunting would not go quietly. They had survived this long by destroying anyone who threatened them. They would come for me the moment they realized what I was doing.
 
-THEREFORE, I needed to move fast. Tomorrow morning, I would be at First National Bank when the doors opened. And whatever I found in box 1247 would determine whether Eleanor Ashworth's legacy finally burned—or whether her network swallowed me whole.
+I needed to move fast. Tomorrow morning, I would be at First National Bank when the doors opened. And whatever I found in box 1247 would determine whether Eleanor Ashworth's legacy finally burned—or whether her network swallowed me whole.
 
 The loon called again across the water, its cry echoing into the night. I walked back to my car, the key clutched tight in my fist, and drove toward whatever came next.

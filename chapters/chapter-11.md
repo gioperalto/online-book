@@ -199,8 +199,8 @@ But underneath all of that was something older. A sixty-year-old murder, covered
 
 Eleanor Ashworth was dead. Her killers—if you could call them that—were identified. The case, by any traditional measure, was closed.
 
-BUT the truth Marcus Webb had died for was still waiting to be told. And the system that had protected Eleanor, that had allowed her crimes to flourish unchecked for decades, was still in place.
+Yet the truth Marcus Webb had died for was still waiting to be told. And the system that had protected Eleanor, that had allowed her crimes to flourish unchecked for decades, was still in place.
 
-THEREFORE, as I drove toward the station to file my reports and close out the official investigation, I found myself thinking not about the end—but about what came next.
+As I drove toward the station to file my reports and close out the official investigation, I found myself thinking not about the end—instead about what came next.
 
 The dead were finally speaking. And I owed it to all of them to make sure the living heard.
