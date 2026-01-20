@@ -134,11 +134,11 @@ I saw it before the adjuster did—my father's hand moving to his pocket, pullin
 
 The adjuster reacted instantly, bringing his weapon around—
 
-I launched myself at him. The .22 went off, the suppressed shot like a loud cough, and something burned along my ribs. But I was already crashing into him, driving him backward into the hallway. We hit the wall hard, his gun spinning away, and then we were grappling, my hands around his throat, his fingers clawing at my face.
+I launched myself at him. The .22 went off, the suppressed shot like a loud cough, and something more than a graze tore through my side. The bullet punched through flesh and muscle just below my ribs, a searing agony that stole my breath. But I was already crashing into him, driving him backward into the hallway. We hit the wall hard, his gun spinning away, and then we were grappling, my hands around his throat, his fingers clawing at my face.
 
 He was stronger than he looked. Wiry, compact, every muscle trained for this kind of close-quarters violence. An elbow caught me in the solar plexus and I gasped, loosening my grip just enough for him to slip free. A knee came up toward my groin—I twisted, took it on my thigh instead, and threw a punch that connected with his jaw.
 
-He staggered but didn't go down. Blood was running down my side now, the bullet graze burning like fire, but I couldn't stop. Couldn't let him get to his weapon, couldn't give him room to operate.
+He staggered but didn't go down. Blood was pouring from my side now, hot and thick, each heartbeat sending fresh waves of agony through my body. I could feel my strength draining, my movements becoming sluggish, but I couldn't stop. Couldn't let him get to his weapon, couldn't give him room to operate.
 
 "James!"
 
@@ -148,71 +148,67 @@ The adjuster stood over me, breathing hard, blood on his lip. He reached for his
 
 The flare gun went off.
 
-A brilliant red light filled the hallway, and the adjuster screamed as the burning phosphorus caught him in the chest. He stumbled backward, flames spreading across his jacket, and crashed through the railing of the staircase.
+A brilliant red light filled the hallway, and the adjuster screamed as the burning phosphorus caught him in the chest. He stumbled backward, flames spreading across his jacket, clawing at the fire that consumed him. His foot caught the broken railing of the staircase and he pitched backward into the darkness below.
 
-I heard him fall. Heard the impact below. And then, for a long moment, I heard nothing at all.
+I heard him fall. Heard the impacts as his body struck the stairs, tumbling, crashing. And then silence.
 
----
-
-My father helped me to the window. The adjuster lay at the bottom of the stairs, motionless, his chest still smoldering. I couldn't tell if he was dead or unconscious, but either way, he wasn't getting up anytime soon.
-
-"We need to call for backup." My voice came out as a croak. "And an ambulance."
-
-"The bullet—"
-
-"Just grazed me. I'll live." I pressed my hand against my ribs, feeling the warm wetness seeping through my shirt. "But we need to secure him before he wakes up."
-
-My father was already on his phone, dialing 911. I leaned against the wall, my head spinning, and watched the morning light filter through the dusty windows of Marcus Webb's childhood home.
-
-Sixty years ago, a young man had walked out of this house and never come back. He'd fallen in love, been betrayed, and died in a shipping yard three thousand miles away. His only crime had been loving the wrong woman—or rather, being loved by the right one, in a world where Eleanor Ashworth decided what was right and wrong.
-
-But the secrets he'd left behind had survived. His sister. His letters. His children and grandchildren, carrying his blood through the decades without even knowing it. And now, finally, the man who'd helped kill him was lying at the bottom of Marcus Webb's stairs, brought down in Marcus Webb's house.
-
-There was a poetry to it that I couldn't quite articulate.
-
-"James." My father's hand on my shoulder, steadying me. "Help is on the way. Just stay awake."
-
-"I'm awake." I looked at him—really looked at him, for the first time in years. "Dad. The box you came here for. What's in it?"
-
-He was quiet for a moment. Then he walked back into the bedroom and returned with the cardboard box, setting it on the floor beside me.
-
-"Catherine told me where to find it. Marcus hid it here before he left for Seattle—insurance, in case anything happened to him." My father opened the box carefully. "He knew, James. Even then, he knew Eleanor might come for him. So he left proof."
-
-Inside were documents. Old, yellowed, fragile—but legible. Employment records from Ashworth Shipping. Financial documents showing payments to shell companies. Photographs of meetings between Eleanor and men in expensive suits. And at the bottom, a leather journal with Marcus Webb's name embossed on the cover.
-
-"His diary," my father said. "Everything he saw, everything he suspected. Names, dates, amounts. Fifty years of corruption, all written down by a shipping clerk who knew he might not survive."
-
-I picked up the journal carefully. The pages were filled with neat, careful handwriting—the penmanship of a man who understood that words mattered, that what was written down could outlast the person who wrote it.
-
-"This is what Sterling was afraid of," I said. "This is why Eleanor had Marcus killed. Not just because he loved grandmother—because he knew too much."
-
-"He was going to expose her. That's what Catherine told me. Marcus was gathering evidence, building a case. He was going to take it to the authorities." My father's voice was thick. "But Eleanor found out before he could finish. She had him transferred to Seattle, and then—"
-
-"And then she had him killed." I closed my eyes. "Sixty years ago. And the evidence he gathered has been sitting in this house ever since."
-
-"Waiting for someone to find it."
-
-Sirens in the distance. Help was coming. But I couldn't move yet, couldn't stop looking at the journal in my hands. Marcus Webb's journal. My great-grandfather's journal.
-
-The man Eleanor Ashworth had erased from history had left behind everything they needed to destroy her legacy.
+Not the silence of a body coming to rest. Something else. Something wrong.
 
 ---
 
-The paramedics arrived first, followed by state troopers and eventually Agent Torres herself. Margaret rushed in like a woman possessed, her professional composure cracking when she saw me sitting against the wall, blood soaking through my shirt.
+My father helped me crawl to the top of the stairs. Below us, the staircase was empty.
+
+No body. No blood. No scorch marks from the burning phosphorus. Nothing but dust and shadows.
+
+"Where—" My voice came out weak, barely a whisper. Blood was pooling beneath me, my shirt soaked through. "Where did he go?"
+
+My father stared at the empty stairwell, his face ashen. "He was there. I saw him fall. He was on fire, James. He was burning."
+
+But there was nothing. Not even a trace.
+
+I tried to stand, but my legs wouldn't cooperate. The wound in my side was worse than I'd thought—the bullet had done real damage, not just a graze. I could feel my consciousness beginning to slip, the edges of my vision going dark.
+
+"Dad... call for help..."
+
+"James. James, stay with me." My father was pressing something against my wound—his jacket, I realized—applying pressure. "Stay awake. You're going to be okay."
+
+But I wasn't sure I believed him. The adjuster had vanished. Disappeared without a trace, like a ghost, like smoke, like all the victims he'd made disappear over the decades. And now his bullet was inside me, a piece of him I would carry forever.
+
+"The box," I managed. "Get the box..."
+
+My father was already on his phone, dialing 911. I lay on the dusty floor of Marcus Webb's childhood home, bleeding, and stared at the empty staircase where a man had been burning just moments before.
+
+Sixty years ago, Marcus Webb had walked out of this house and never come back. He'd fallen in love, been betrayed, and died in a shipping yard three thousand miles away. His only crime had been loving the wrong woman—or rather, being loved by the right one, in a world where Eleanor Ashworth decided what was right and wrong.
+
+And now the man who had helped kill him had vanished like he'd never existed at all.
+
+The morning light filtered through the dusty windows, and I felt the cold seeping into my bones. Whether from blood loss or something else, I couldn't tell.
+
+---
+
+The paramedics arrived first, followed by state troopers and eventually Agent Torres herself. Margaret rushed in like a woman possessed, her professional composure cracking when she saw me on the stretcher, pale as death, an IV already in my arm.
 
 "James—"
 
-"I'm fine. The adjuster is downstairs. He might still be alive."
+"He's gone." My voice was a thread. "The adjuster. He fell down the stairs and just... vanished."
 
-She turned to her team, barking orders, and I watched as they secured the scene. The adjuster was indeed alive—barely. Third-degree burns across his chest and a possible spinal injury from the fall. They loaded him onto a stretcher and took him away, and I felt something release in my chest. A tension I hadn't even known I was carrying.
+Margaret's face went still. "What do you mean, vanished?"
 
-"The warehouse operation," I said, when Margaret returned to my side. "Sterling talked. They know you're coming."
+"I mean he's not there. No body. No blood. Nothing." I grabbed her wrist with what little strength I had left. "He was on fire, Margaret. My father shot him with a flare gun. He went down the stairs and disappeared."
+
+She turned to one of her agents. "Sweep the entire property. Every room, every closet, the basement, the grounds. I want forensics on that staircase."
+
+But I already knew they wouldn't find anything. The adjuster had been doing this for sixty years—making people disappear, erasing evidence, becoming invisible. Why should his own departure be any different?
+
+"The warehouse operation," I said. "Sterling talked. They know you're coming."
 
 "I know. The bomb threat at the field office was designed to pull me away from you." Her jaw was tight with anger. "I should have anticipated—"
 
-"You can't anticipate everything." I gestured toward the cardboard box. "But look what we found."
+"You can't anticipate everything." I gestured weakly toward where my father stood, clutching the cardboard box. "But look what we found."
 
-Margaret opened the box. I watched her face as she paged through Marcus's journal, saw the emotions flicker across her features—anger, grief, vindication. She was reading her father's words for the first time. The father she'd never known, the man who'd been killed before she was even born.
+Margaret opened the box while the paramedics worked on stabilizing me. The bullet had done more damage than anyone wanted to admit—it had nicked an artery, they said, and I'd lost too much blood. They were talking about surgery, about transfusions, about the long road to recovery.
+
+I watched Margaret's face as she paged through Marcus's journal, saw the emotions flicker across her features—anger, grief, vindication. She was reading her father's words for the first time. The father she'd never known, the man who'd been killed before she was even born.
 
 "This changes everything," she said quietly. "This isn't just testimony. This isn't just documents we recovered from Sterling or Eleanor's files. This is primary source evidence, written in real-time by a witness who was murdered to keep him quiet."
 
@@ -222,40 +218,72 @@ Margaret opened the box. I watched her face as she paged through Marcus's journa
 
 "He was. And so was grandmother. She kept his letter. She kept the locket. She made sure the truth would survive, even if she didn't."
 
-My father appeared in the doorway, a blanket wrapped around his shoulders. The paramedics had wanted to check him out, but he'd refused to leave until I was stable.
+My father appeared at my side, his face drawn with worry. "James. They need to take you now. The helicopter is waiting."
 
-"James. They're ready to take you to the hospital."
+Helicopter. That's how serious it was.
 
-"In a minute." I looked at Margaret—at the aunt I'd just met, the sister my father had never known. "The warehouse operation. What's the plan now?"
+"Dad." I reached for his hand, and he took it. "The adjuster is still out there. He's not done."
 
-"We adapt." Margaret's voice was steel. "The network knows we're coming. Fine. Let them know. Because now we have Marcus's journal. We have Sterling's testimony. We have Eleanor's files, Morrison's records, the kill list, the payment trails. We have sixty years of evidence, and none of their remaining operatives can change that."
+"I know."
 
-"They'll try to run."
+"He'll come back. Maybe not today, maybe not tomorrow. But he'll come back."
 
-"Some will. We'll catch them. And the ones who try to fight—" Margaret smiled, and there was something fierce in it, something that reminded me of the fire in my father's eyes when he'd faced down the adjuster. "—they'll learn that the Webb family doesn't go down easy."
+My father squeezed my hand. "Then we'll be ready for him."
 
-The paramedics were getting impatient. I let them help me onto the stretcher, wincing as they stabilized my ribs. But before they carried me out, I reached for my father's hand.
+The paramedics were lifting my stretcher now, carrying me toward the waiting helicopter. The morning sun was fully up, burning away the mist, revealing the old Webb property in all its decayed glory. A house of secrets. A house of ghosts.
 
-"Dad. Come with me to the hospital."
-
-He looked surprised. In all the years of distance between us, I'd never asked him for anything. Never reached out, never opened the door.
-
-"The case—"
-
-"Can wait a few hours." I held his hand, feeling the roughness of his palm, the strength still in his grip. "We have a lot to talk about. About grandmother. About Marcus. About Margaret." I paused. "About everything we should have talked about years ago."
-
-My father's eyes were bright with tears. He nodded, once, and didn't let go of my hand.
-
-"Okay, James. Okay."
+And somewhere out there, a man who should have been dead was walking away from it all. Again.
 
 ---
 
-THEREFORE the adjuster was captured, but the war wasn't over. As the ambulance carried me away from Marcus Webb's house, I knew that the network was still out there—wounded, exposed, but dangerous. And somewhere in Millbrook, the remaining members were deciding whether to run, fight, or surrender.
+The surgery took four hours. The bullet had done significant damage—torn through muscle, nicked the hepatic artery, lodged itself against my lower rib. The doctors removed it, piece by piece, and stitched me back together as best they could.
 
-But for the first time in this investigation, I felt something other than dread. I felt hope. Not for myself, not even for the case—but for the family I was finally starting to understand.
+But they warned me that some things couldn't be fixed. Nerve damage. Scar tissue. The bullet's path had carved a permanent channel through my body, a reminder that would ache every time the weather changed, every time I moved wrong, every time I remembered the adjuster's empty eyes staring down at me in Marcus Webb's hallway.
 
-Sixty years ago, Marcus Webb had written in his journal that the truth never dies. It waits. It finds a way.
+I would carry that bullet wound for the rest of my life. A souvenir from my brush with death, from facing a man who made people disappear and then disappeared himself.
+
+When I woke in the recovery room, my father was there. So was Margaret. They sat on opposite sides of my bed like mismatched bookends—the brother and sister who had only just discovered each other existed.
+
+"The forensics team found nothing," Margaret said quietly. "No body. No blood. No evidence that anyone fell down those stairs except some disturbed dust."
+
+I nodded. I'd expected as much.
+
+"We've issued an alert for the adjuster, but without a name, a face, anything concrete..." She trailed off. "He could be anywhere."
+
+"He's still out there." I touched my bandaged side, feeling the layers of gauze and tape, the dull throb of pain beneath the morphine. "And he knows we have Marcus's journal now. He knows we're getting close."
+
+"Then we use that." Margaret's voice was steel. "The network knows we're coming. Fine. Let them know. Because now we have everything—Sterling's testimony, Eleanor's files, Marcus's journal. We have sixty years of evidence, and the adjuster can't change that."
+
+"He'll try to stop the operation."
+
+"Let him try." Margaret smiled, and there was something fierce in it. "The Webb family doesn't go down easy."
+
+My father was quiet, his hand still holding mine. Finally, he spoke.
+
+"James. When you're recovered... there's a lot we need to talk about."
+
+I looked at him—really looked at him, for the first time in years. "Yeah. There is."
+
+"About your grandmother. About Marcus. About Margaret." He paused. "About everything we should have talked about years ago."
+
+"I'd like that." I squeezed his hand, feeling the roughness of his palm, the strength still in his grip. "But first... I need to sleep."
+
+They let me sleep. And when I closed my eyes, I saw the adjuster falling, burning, disappearing into nothing. A man who had killed without consequence for sixty years, finally facing a reckoning—and slipping away from it like smoke through fingers.
+
+He was still out there. I knew it in my bones, in the wound that would scar, in the ache that would never fully fade. The adjuster was still out there, and someday, he would come back.
+
+But so would I.
+
+---
+
+The truth never dies. That's what Marcus Webb wrote in his journal, sixty years ago. It waits. It finds a way.
 
 He was right.
 
-The truth had been waiting in that old house, patient and quiet, for someone to finally come looking. And now that we'd found it, nothing could bury it again.
+The truth had been waiting in that old house, patient and quiet, for someone to finally come looking. And now that we'd found it, nothing could bury it again. Not the network. Not the remaining conspirators. Not even a ghost who walked away from his own death.
+
+I touched the bandage on my side, feeling the promise of the scar beneath. A reminder. A warning. A debt that remained unpaid.
+
+The adjuster had vanished. But I would find him. Someday, somehow, I would find him.
+
+And next time, he wouldn't walk away.
