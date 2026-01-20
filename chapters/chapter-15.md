@@ -1,5 +1,7 @@
 # A Fourth Hand Revealed
 
+TODO: Review this chapter
+
 Margot Ashworth looked different than she had at the estate. Gone was the fragile demeanor, the nervous energy that had made her seem like a bird ready to take flight at any sudden movement. In the dim light of my kitchen, she appeared solid, present—a woman who had finally stopped pretending.
 
 "You're not supposed to leave the estate." I kept my weapon at my side but didn't holster it. "The police—"
@@ -166,9 +168,9 @@ I heard sirens in the distance—Reyes must have dispatched backup. Sterling hea
 
 "The FBI operation tomorrow night," I said. "You were supposed to testify. To help bring down the network."
 
-"I still can. I have evidence, Detective. Thirty-seven years of evidence—documents, recordings, photographs. Enough to put a dozen people in prison for the rest of their lives." Sterling leaned forward. "Including the adjuster."
+"I still can. I have evidence, Detective. Thirty-seven years of evidence—documents, recordings, photographs. Enough to put a dozen people in prison for the rest of their lives." Sterling leaned forward. "Including the Adjuster."
 
-The name sent a chill through me. "You know who the adjuster is?"
+The name sent a chill through me. "You know who the Adjuster is?"
 
 "I know everything. I was Eleanor's right hand for almost four decades. I attended meetings, facilitated payments, drafted contracts." Sterling's eyes were bright now, feverish. "Let me testify tomorrow. Let me help you bring them all down. And in exchange—"
 
@@ -216,7 +218,7 @@ I stared at the screen, my blood running cold. If the network knew about the ope
 
 Another message appeared.
 
-*The adjuster is already in Millbrook. He's been here since yesterday. And he's not coming to the warehouse.*
+*The Adjuster is already in Millbrook. He's been here since yesterday. And he's not coming to the warehouse.*
 
 My hands were shaking as I typed: *Where is he?*
 
@@ -230,15 +232,15 @@ I thought about Catherine Webb, frail and dying. About Rosa Martinez in her hosp
 
 The phone rang. I answered without thinking.
 
-"Detective Marlowe." The voice was distorted, mechanical—the same voice from the chapel attack. But this time, there was something different in it. Something urgent. "Listen very carefully. The adjuster's first target is your father. He's at the old Webb property on the outskirts of town—the house where Marcus grew up. He went there this morning to retrieve something Catherine told him about."
+"Detective Marlowe." The voice was distorted, mechanical—the same voice from the chapel attack. But this time, there was something different in it. Something urgent. "Listen very carefully. The Adjuster's first target is your father. He's at the old Webb property on the outskirts of town—the house where Marcus grew up. He went there this morning to retrieve something Catherine told him about."
 
 "How do you know this?"
 
-"Because I've been tracking the adjuster for fifteen years. He's the one loose end I could never tie up. The one piece of Eleanor's network I could never identify." The voice paused. "But I know his methods. And I know he's going to eliminate everyone connected to the Webb family before disappearing forever."
+"Because I've been tracking the Adjuster for fifteen years. He's the one loose end I could never tie up. The one piece of Eleanor's network I could never identify." The voice paused. "But I know his methods. And I know he's going to eliminate everyone connected to the Webb family before disappearing forever."
 
 "Who are you?"
 
-"You already know." The mechanical distortion faded, and I heard Margaret's voice—Agent Torres, my aunt. "I've been protecting this family my whole life, James. But I can't be everywhere. I need you to get to your father before the adjuster does. Can you do that?"
+"You already know." The mechanical distortion faded, and I heard Margaret's voice—Agent Torres, my aunt. "I've been protecting this family my whole life, James. But I can't be everywhere. I need you to get to your father before the Adjuster does. Can you do that?"
 
 "Yes."
 
@@ -246,6 +248,6 @@ The phone rang. I answered without thinking.
 
 I was running before I even made the conscious decision. Throwing myself into the car, gunning the engine, tearing through the quiet streets of Millbrook toward the edge of town.
 
-My father. The adjuster. The house where Marcus Webb had grown up, before Eleanor Ashworth had stolen his life.
+My father. The Adjuster. The house where Marcus Webb had grown up, before Eleanor Ashworth had stolen his life.
 
 THEREFORE the final pieces were falling into place, and the ghost I'd been chasing through decades of secrets was finally about to show its face.
