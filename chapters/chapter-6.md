@@ -198,8 +198,6 @@ The line went dead.
 
 I stood there in the hospital parking lot, the phone cold against my ear, my heart pounding. They knew about the photograph. The one I hadn't looked at in three years. The one I couldn't bring myself to throw away.
 
-*How did they know?*
-
 The answer came to me with sickening clarity: because whoever was behind this knew me. Knew my history. Knew the secrets I'd been carrying since long before Eleanor Ashworth's murder.
 
 This wasn't just about Eleanor anymore. This was about my family. My grandmother. The past I'd spent twenty years trying to bury.
@@ -225,8 +223,6 @@ In the background, half-hidden by shadows, stood another figure. A woman, watchi
 Eleanor Ashworth. Watching my grandmother. Watching my father.
 
 And on her face, an expression I recognized all too well: the look of someone planning their next move.
-
-*What did you do?* I thought, staring at that long-ago face. *What did you do to my family?*
 
 The photograph offered no answers. But tonight, at the boathouse, someone was going to give them to me.
 

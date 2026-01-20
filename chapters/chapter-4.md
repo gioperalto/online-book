@@ -6,9 +6,7 @@ I arrived at the old Ashworth chapel at eleven-forty, twenty minutes early becau
 
 The chapel sat at the far edge of the Ashworth property, separated from the main estate by a quarter mile of overgrown forest and a rusted iron gate that hadn't been locked in decades. It was a Gothic relic, all pointed arches and crumbling stone, its stained glass windows long since shattered by time and teenage vandals. The Ashworths had built it in the 1890s, back when the family still believed in something beyond money and power. Now it was just another monument to their decay.
 
-I parked my car on the access road and walked the last hundred yards on foot, my flashlight cutting a weak beam through the darkness. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning. Like it wanted to know what a fool like me was doing out here in the dark.
-
-*Good question*, I thought. *Wish I had a good answer.*
+I parked my car on the access road and walked the last hundred yards on foot, my flashlight cutting a weak beam through the darkness. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning.
 
 The chapel door hung askew on rusted hinges. I pushed it open, wincing at the groan of tortured metal, and stepped inside.
 
@@ -17,8 +15,6 @@ The interior was exactly what you'd expect from a building abandoned for half a 
 I checked my watch. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
 
 I found a pew that still had four legs and sat down to wait. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
-
-*What happened to you, Grandma?* I wondered. *What did Eleanor do?*
 
 The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway.
 
@@ -122,8 +118,6 @@ I didn't see it. Didn't hear it. Just felt an explosion of pain at the base of m
 
 I hit the ground hard, my vision swimming with stars and shadows. Somewhere nearby, Rosa was screaming. A high, terrified sound that cut off abruptly. Replaced by the sickening thud of a body hitting the floor.
 
-*Get up,* I told myself. *Get up, get up, get up.*
-
 But my body wouldn't obey. The darkness was closing in, thick and suffocating, and the last thing I heard before unconsciousness claimed me was a voice. Familiar, yet somehow wrong. Whispering words I couldn't quite understand.
 
 ---
@@ -141,8 +135,6 @@ No answer.
 I twisted against my bonds, testing their strength, and was rewarded with a fresh spike of pain through my skull that made my vision white out. When it cleared. Assuming my vision had cleared. It was impossible to tell in the darkness. I forced myself to take stock.
 
 I was still in the chapel. I could smell the mold and decay, feel the grit of centuries-old dust beneath my cheek. My weapon was gone, along with my phone and flashlight. Whoever had attacked us was thorough.
-
-*Think,* I commanded myself. *Think like a detective, not a victim.*
 
 The attack had come from inside the chapel, not outside. That meant our attacker had been waiting for us, had known we were coming. But how? I hadn't told anyone about Rosa's invitation. Had she?
 

@@ -16,10 +16,6 @@ The drive through the empty streets of Millbrook gave me time I didn't want. Tim
 
 The estate appeared through the fog like something out of a Gothic novel, all sharp angles and darkened windows. A dozen police cars already cluttered the circular driveway, their lights painting the stone facade in alternating washes of red and blue. I parked behind the coroner's van and took a moment to straighten my tie in the rearview mirror. The face looking back at me was tired, creased with the kind of lines that come from too many late nights and not enough reasons to see the morning.
 
-*Get it together, James,* I told myself. *It's just another case.*
-
-But even as I thought it, I knew it was a lie.
-
 Captain Maria Reyes met me at the front door, her silver-streaked hair pulled back in a severe bun, her expression grim. We'd worked together for fifteen years, and I'd seen that look only a handful of times. Never for anything good.
 
 "It's bad, Marlowe."
@@ -70,8 +66,6 @@ I knew that locket. I'd seen it a thousand times, always hanging around a differ
 
 "Marlowe?" Reyes's voice seemed to come from very far away. "You okay? You look like you've seen a ghost."
 
-*Maybe I have,* I thought. *Maybe I have.*
-
 "I'm fine," I said, straightening up. "I need to interview everyone in the house. Starting with the son."
 
 "Victor's in the drawing room. Fair warning. He's already called his lawyer and is threatening to sue the department for harassment." Reyes snorted. "His mother's body is still warm, and he's already playing politics."
@@ -79,8 +73,6 @@ I knew that locket. I'd seen it a thousand times, always hanging around a differ
 "That's the Ashworths for you."
 
 I took one last look at Eleanor, at the locket clutched in her dead hand, at the three distinct methods someone had used to end her life. Three methods, seven suspects, and a family whose secrets ran deeper than the foundations of this house.
-
-*What did you know, Eleanor?* I wondered. *What did you know, and who did you tell?*
 
 The dawn was beginning to break through the library windows, painting the room in shades of pink and gold. It should have been beautiful. Instead, it just illuminated the horror more clearly. The blood, the bruises, the utter stillness of death.
 
