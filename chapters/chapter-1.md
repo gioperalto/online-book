@@ -1,6 +1,26 @@
 # Some ghosts you have to face
 
-The phone call came at 3:47 in the morning, that ungodly hour when the world holds its breath between night and dawn. I know the exact time because I was already awake, sitting in my kitchen with a glass of bourbon I had no intention of drinking, staring at a photograph I had no business keeping.
+Millbrook sits in a cradle of low hills where the Thorne River bends south toward the coast. It's the kind of town that looks picturesque from a distance—church steeples rising above autumn maples, Victorian storefronts lining a cobblestone Main Street, the silver thread of water catching the light as it winds past the old shipping docks. Postcards and tourist brochures love Millbrook. They don't mention the rust eating at the warehouse district or the way the river fog settles into the streets like something hiding. They don't talk about the names that matter here, the families whose money built those steeples and whose influence decides which businesses thrive and which quietly close their doors.
+
+I've lived here my whole life, excepting four years of college and a brief stint with the state police that ended when my grandmother got sick. Came back to take care of her, joined the Millbrook PD, never left. Fifty-two years, and I still can't decide if this town is home or a trap I never figured out how to escape.
+
+My house is a narrow Victorian on Elm Street, three blocks from the river. The kind of place that was beautiful once, before decades of deferred maintenance turned character into decay. The porch lists slightly to the left. The paint is peeling in places I keep meaning to address. The heating system makes sounds that a younger man would investigate, but I've learned to live with the groans and clanks. It's just the house settling, I tell myself. Just the bones complaining about the cold.
+
+Tonight the cold had settled into those bones with a particular persistence. November in Millbrook means frost on the windows by midnight, means pulling the wool blanket from the closet and still waking up with stiff joints. I'd given up on sleep around two in the morning, padding downstairs to the kitchen in bare feet that complained about the cold floorboards.
+
+The bourbon was a habit I couldn't seem to break. Not the drinking—I'd poured myself a glass and set it on the table, where it sat untouched, the amber liquid catching the light from the single bulb over the stove. It was the ritual that mattered. The weight of the glass in my hand. The sharp smell of it cutting through the stillness of the house. Sometimes you need something to hold onto at three in the morning when the silence presses in and the memories won't stay buried.
+
+The photograph lay face-down on the table in front of me. I'd taken it out of the drawer an hour ago, turned it over just once, then set it face-down again. A reflex, like touching a hot stove. Some things you can't look at for too long.
+
+Outside, a car passed on the empty street, its headlights sweeping across the ceiling before disappearing. The refrigerator hummed its steady drone. The house creaked. Somewhere in the neighborhood, a dog barked once and fell silent. Millbrook at three in the morning, holding its breath.
+
+The kitchen still smelled faintly of the coffee I'd made earlier, when I'd first given up on sleep. The mug sat in the sink, next to dishes I'd wash tomorrow. Or the next day. Living alone has a way of lowering your standards. My ex-wife used to keep this place spotless, or as spotless as a hundred-year-old house can be. After she left, the dust started accumulating in the corners, the dishes piled up a little longer, the yard went from neat to tolerable to what the neighbors probably called an eyesore. I'd stopped caring around the same time I stopped sleeping through the night.
+
+Three years now. Three years since Sarah walked out, three years since I'd spoken to her, three years of silence that had calcified into something neither of us knew how to break. The bourbon in my glass caught the light. I didn't drink it. I just sat there in the dark of my kitchen, in the cold of my old house, in the quiet of a town that had never felt like it belonged to me.
+
+The phone rang at 3:47 in the morning.
+
+I know the exact time because my eyes had drifted to the clock on the stove just before the shrill sound shattered the silence. I let it ring twice before reaching for it, some part of me already knowing that whatever waited on the other end wasn't going to be good. Phones don't ring at this hour with happy news.
 
 "Detective Marlowe?" The voice on the other end was young, trembling slightly. Probably a rookie working the overnight shift at the precinct.
 
@@ -12,9 +32,11 @@ I felt something cold settle in my chest, a familiar weight I hadn't felt in thr
 
 "I'll be there in twenty minutes."
 
-I hung up and sat motionless for a long moment, listening to the silence of my kitchen. The refrigerator hummed its steady drone. A car passed on the street outside, its headlights sweeping briefly across the ceiling before disappearing. I finished the bourbon in one swallow—waste not, want not—and reached for my jacket.
+I hung up and sat motionless for a long moment, listening to the silence of my kitchen. The refrigerator hummed its steady drone. Another car passed on the street outside, its headlights sweeping briefly across the ceiling before disappearing. I finished the bourbon in one swallow—waste not, want not—and reached for my jacket.
 
-The drive through the empty streets of Millbrook gave me time I didn't want. The traffic lights cycled through their colors for an audience of no one, and I stopped at each red like the good citizen I pretended to be. The radio muttered something about overnight temperatures and weekend forecasts. I turned it off. Time to think, to remember. The Ashworth family had ruled this town for four generations, their money built on shipping and their influence built on secrets. Everyone in Millbrook owed them something: a favor, a debt, a grudge. I owed them more than most.
+The drive through the empty streets of Millbrook gave me time I didn't want. Down Elm to River Road, past the shuttered storefronts of the old downtown, across the iron bridge that had been promising to collapse for as long as I could remember. The traffic lights cycled through their colors for an audience of no one, and I stopped at each red like the good citizen I pretended to be. The radio muttered something about overnight temperatures and weekend forecasts. I turned it off.
+
+Time to think, to remember. The Ashworth family had ruled this town for four generations, their money built on shipping and their influence built on secrets. The shipping docks bore their name. So did the library, the hospital wing, the park by the river where kids played on swings bought with Ashworth money. Everyone in Millbrook owed them something: a favor, a debt, a grudge. I owed them more than most.
 
 At the iron gates of the estate, a uniformed officer waved me through after checking my badge. The driveway wound through ancient oaks for nearly a quarter mile before the house itself appeared through the fog like something out of a Gothic novel, all sharp angles and darkened windows. A dozen police cars already cluttered the circular driveway, their lights painting the stone facade in alternating washes of red and blue. I found a spot behind the coroner's van, killed the engine, and sat for a moment listening to it tick as it cooled. Then I straightened my tie in the rearview mirror. The face looking back at me was tired, creased with the kind of lines that come from too many late nights and not enough reasons to see the morning.
 
