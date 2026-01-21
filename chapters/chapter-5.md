@@ -1,14 +1,14 @@
 # Three Hands, One Death
 
-The drive back to the Ashworth estate felt longer than it should have. My head throbbed where the attacker had struck me, a constant drumbeat of pain that matched the rhythm of my thoughts. Three methods of death. Three different time frames. Three possible killers.
+The drive back to the Ashworth estate took forty minutes—longer than it should have, thanks to a wrong turn I blamed on exhaustion and a detour around a fender-bender on Main Street. My head throbbed where the attacker had struck me, a constant drumbeat of pain that matched the rhythm of my thoughts. Three methods of death. Three different time frames. Three possible killers.
 
 Or one very clever murderer who wanted it to look that way.
 
-I pulled through the wrought-iron gates at seven-fifteen, the morning light painting the Gothic mansion in shades of pale gold that did nothing to soften its severity. Two patrol cars were already parked in the circular drive. Reyes had made good on her promise of backup. I could see officers stationed at the main entrance, their breath misting in the cold air.
+I pulled through the wrought-iron gates at seven-fifteen, showing my badge to the officer stationed there—a young woman whose name tag read Chen, possibly related to the groundskeeper. The half-mile driveway stretched ahead, the morning light painting the Gothic mansion in shades of pale gold that did nothing to soften its severity. Two patrol cars were already parked in the circular drive. Reyes had made good on her promise of backup. I could see officers stationed at the main entrance, their breath misting in the cold air.
 
 The dawn had come and gone. The masked figure's deadline had passed. Whatever consequences they'd promised, I would face them with my eyes open.
 
-I parked and sat for a moment, studying the house. Seven suspects, if you counted Sterling and Rosa. Six, if you believed Rosa's story about Eleanor destroying my grandmother. But now, with the medical examiner's findings, the calculus had changed. I wasn't looking for one killer anymore. I was potentially looking for three.
+I parked behind a coroner's van that was still there from yesterday—or perhaps had returned for a second examination—and sat for a moment, studying the house. Seven suspects, if you counted Sterling and Rosa. Six, if you believed Rosa's story about Eleanor destroying my grandmother. But now, with the medical examiner's findings, the calculus had changed. I wasn't looking for one killer anymore. I was potentially looking for three.
 
 *Poison. Strangulation. Stabbing.*
 

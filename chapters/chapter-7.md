@@ -1,10 +1,10 @@
 # Reckoning at the Boathouse
 
-The Ashworth marina sat at the edge of Millbrook, where the town's pretensions of normalcy gave way to the cold, honest brutality of the water. I parked my car a quarter-mile away and walked the rest of the distance in darkness. The photograph was tucked inside my jacket like a wound pressed against my heart.
+The Ashworth marina sat at the edge of Millbrook, a twenty-minute drive from my apartment if you knew the back roads, which I did. The town's pretensions of normalcy gave way here to the cold, honest brutality of the water. I parked my car a quarter-mile away at a closed bait shop and walked the rest of the distance in darkness, my footsteps crunching on the gravel shoulder, then the wooden planks of the access road. The photograph was tucked inside my jacket like a wound pressed against my heart.
 
-Nine o'clock. The appointed hour.
+Nine o'clock. The appointed hour. I checked my watch twice to be sure, the luminous dial confirming what I already knew.
 
-The boathouse loomed at the end of a weathered dock, its wooden frame silver-gray with age and salt. No lights showed through the windows, but I could feel someone waiting inside. A presence that made the air itself seem heavy with expectation.
+The boathouse loomed at the end of a weathered dock that stretched perhaps fifty yards over the dark water, its wooden frame silver-gray with age and salt. No lights showed through the windows, but I could feel someone waiting inside. A presence that made the air itself seem heavy with expectation.
 
 I'd told Reyes where I was going. She'd argued, threatened, nearly ordered me not to come. But in the end, she'd understood. This wasn't just about Eleanor Ashworth anymore. This was about my family, my past, the questions I'd been too afraid to ask for twenty years.
 

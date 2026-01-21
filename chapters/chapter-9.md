@@ -1,6 +1,6 @@
 # Sarah's Secrets
 
-The Route 7 Motel sat at the edge of Millbrook like an afterthought—a strip of faded stucco rooms with a gravel parking lot and a neon sign that buzzed VACANCY in letters the color of dried blood. I pulled into the lot and sat in my car for a long moment, watching the door marked 14.
+The Route 7 Motel sat at the edge of Millbrook like an afterthought—a twenty-minute drive from the Ashworth estate through increasingly shabby neighborhoods until the town gave way to strip malls and discount furniture stores. A strip of faded stucco rooms with a gravel parking lot and a neon sign that buzzed VACANCY in letters the color of dried blood. I pulled into the lot, past a couple of semis parked for the night, and sat in my car for a long moment, watching the door marked 14.
 
 Sixteen hours. Sarah had been in this town for sixteen hours, waiting to see if I would call. Waiting to see if the truth would finally catch up with both of us.
 
@@ -8,7 +8,7 @@ I thought about the last time I'd seen her. The divorce papers spread across our
 
 Neither of us had blamed the real culprit: the secrets she'd been carrying since before we'd ever met.
 
-I got out of the car and walked to Room 14. My knuckles hovered over the door for three heartbeats before I knocked.
+I checked my watch. 8:47 PM. I'd told her I'd be here by nine, but some conversations you can't afford to delay. I got out of the car, the gravel crunching under my shoes, and walked to Room 14. My knuckles hovered over the door for three heartbeats before I knocked.
 
 The door opened immediately. Sarah had been waiting on the other side.
 

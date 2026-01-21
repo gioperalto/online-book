@@ -1,6 +1,6 @@
 # Final Words
 
-David Sterling had the practiced calm of a man who made his living navigating other people's disasters. He sat in the formal dining room where the Ashworth family had shared their final meal together just hours before, his silver hair perfectly combed, his charcoal suit immaculate despite the chaos of the morning. A leather briefcase rested on the table beside him. His hands were folded neatly in front of him. Steady. Uncallused. The hands of someone who'd never done physical labor.
+David Sterling had the practiced calm of a man who made his living navigating other people's disasters. I found him in the formal dining room—it took me a few wrong turns through the labyrinthine corridors before a uniformed officer pointed me in the right direction. The room where the Ashworth family had shared their final meal together just hours before still bore traces of the evening: a wine stain on the white tablecloth, a crystal saltshaker slightly out of place. Sterling sat at the head of the table, his silver hair perfectly combed, his charcoal suit immaculate despite the chaos of the morning. A leather briefcase rested on the table beside him. His hands were folded neatly in front of him. Steady. Uncallused. The hands of someone who'd never done physical labor.
 
 "Detective Marlowe." He rose when I entered, extending one of those manicured hands. "David Sterling. I assumed you'd want to speak with me."
 
@@ -22,7 +22,7 @@ I let the silence stretch between us, watching his composure. David Sterling was
 
 "Tell me about last night."
 
-Sterling reached for the cup of coffee that had appeared at his elbow. The housekeeper's doing, probably. He took a measured sip before answering. "I arrived around five in the afternoon. Eleanor had asked me to come for dinner and to stay overnight. She said she had business to discuss that couldn't wait."
+Sterling reached for the cup of coffee that had appeared at his elbow. The housekeeper's doing, probably. He took a measured sip before answering. "I arrived around five in the afternoon. The drive from my office takes about forty minutes without traffic—there was some construction on Route 9 that added another fifteen. Eleanor had asked me to come for dinner and to stay overnight. She said she had business to discuss that couldn't wait."
 
 "What kind of business?"
 
@@ -145,7 +145,7 @@ I waited.
 
 ---
 
-I found Julian Ashworth in the kitchen, of all places. The grandson of the family sat hunched over the marble island, a cup of coffee growing cold beside him, his head in his hands. He was younger than I'd expected. Twenty-two, maybe twenty-three. He had the soft, unfinished look of someone who hadn't yet been fully tempered by life's harder edges.
+I found Julian Ashworth in the kitchen, of all places. It took me another five minutes of navigating the house's maze-like layout—past the butler's pantry, through a service corridor, around a corner I'd already passed twice. The grandson of the family sat hunched over the marble island, a cup of coffee growing cold beside him, steam no longer rising from its surface. His head was in his hands. He was younger than I'd expected. Twenty-two, maybe twenty-three. He had the soft, unfinished look of someone who hadn't yet been fully tempered by life's harder edges.
 
 "Mr. Ashworth?"
 
@@ -287,7 +287,7 @@ But Rosa shook her head. "Not here. Not now. Too many ears in this house, too ma
 
 Before I could respond, she turned and disappeared back into the house, leaving me standing on the terrace with a piece of paper burning in my palm and twenty years of questions screaming for answers.
 
-I unfolded the paper. A single address, written in careful, precise handwriting.
+I unfolded the paper with hands that weren't quite steady. A single address, written in careful, precise handwriting, along with simple directions: *Past the garden gate, follow the old cart path for a quarter mile. You'll see the steeple through the trees.*
 
 The old Ashworth chapel. The one that had been abandoned since before I was born. The one where, according to family legend, the first Ashworth had buried his secrets along with his sins.
 

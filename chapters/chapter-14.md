@@ -2,7 +2,7 @@
 
 #### "You don't close a wound by pretending it never happened. You close it by letting it heal." - Rosa Martinez
 
-The text message burned in my mind as I drove through the quiet streets of Millbrook. *Look closer at your own house, Detective.*
+The text message burned in my mind as I drove through the quiet streets of Millbrook. The drive from the station took twenty minutes, longer than usual because I found myself taking turns I didn't need to take, circling blocks twice, checking my rearview mirror for tails. *Look closer at your own house, Detective.*
 
 My own house. The words could mean a dozen things—my home, my family, my department. Someone still inside the network, watching me, waiting. Someone who knew that Morrison and Caldwell were only the beginning.
 
@@ -40,7 +40,7 @@ I stepped aside to let her pass. She moved slowly, carefully, like someone who k
 
 "I don't understand," I said. "What haven't you told me?"
 
-Catherine was quiet for a long moment. The clock on my wall ticked, marking seconds that seemed to stretch into hours.
+Catherine was quiet for a long moment. The clock on my wall ticked, marking seconds that seemed to stretch into hours. Outside, a car drove past, its headlights briefly illuminating the curtains before fading away. I waited, knowing some revelations couldn't be rushed.
 
 "When I first met your grandmother—really met her, years after everything that happened with Marcus—she gave me something. A document she'd hidden for decades. Something she made me promise to keep safe until the right person came along." Catherine reached into her coat and produced a yellowed envelope. "She said I would know when the time was right. I think this is it."
 

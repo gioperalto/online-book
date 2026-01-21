@@ -1,6 +1,6 @@
 # Standing Among Stones
 
-The cemetery sat on a hill overlooking Millbrook, ancient oaks casting long shadows across rows of weathered headstones. I'd been here before—for my grandmother's funeral, for the handful of times I'd forced myself to visit afterward. But the drive had never felt this heavy. Each mile was a weight settling into my chest.
+The cemetery sat on a hill overlooking Millbrook, a fifteen-minute drive from the station if you took the scenic route past the old mill. Ancient oaks cast long shadows across rows of weathered headstones. I'd been here before—for my grandmother's funeral, for the handful of times I'd forced myself to visit afterward. But today the drive had never felt this heavy. Each mile was a weight settling into my chest, and I found myself taking the long way, delaying the inevitable.
 
 My father's pickup truck was parked near the old section, rusted at the wheel wells and faded to a color that had once been blue. I pulled in beside it and sat for a moment, watching the solitary figure standing among the graves.
 
@@ -14,7 +14,7 @@ BELOVED MOTHER AND GRANDMOTHER
 
 "Still do." He nodded toward a small bouquet leaning against the headstone, the petals already wilting in the afternoon heat. "Some things you don't stop doing just because they don't make sense anymore."
 
-We stood in silence. The wind moved through the oaks, carrying the smell of cut grass and turned earth. Somewhere in the distance, a lawn mower droned.
+We stood in silence for what felt like minutes, though it was probably only seconds. The wind moved through the oaks, carrying the smell of cut grass and turned earth. Somewhere in the distance, a lawn mower droned its monotonous song. A crow called from a nearby headstone and flew off when neither of us moved.
 
 "You called Eleanor Ashworth the day she died."
 

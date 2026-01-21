@@ -12,9 +12,11 @@ I felt something cold settle in my chest, a familiar weight I hadn't felt in thr
 
 "I'll be there in twenty minutes."
 
-The drive through the empty streets of Millbrook gave me time I didn't want. Time to think, to remember. The Ashworth family had ruled this town for four generations, their money built on shipping and their influence built on secrets. Everyone in Millbrook owed them something: a favor, a debt, a grudge. I owed them more than most.
+I hung up and sat motionless for a long moment, listening to the silence of my kitchen. The refrigerator hummed its steady drone. A car passed on the street outside, its headlights sweeping briefly across the ceiling before disappearing. I finished the bourbon in one swallow—waste not, want not—and reached for my jacket.
 
-The estate appeared through the fog like something out of a Gothic novel, all sharp angles and darkened windows. A dozen police cars already cluttered the circular driveway, their lights painting the stone facade in alternating washes of red and blue. I parked behind the coroner's van and took a moment to straighten my tie in the rearview mirror. The face looking back at me was tired, creased with the kind of lines that come from too many late nights and not enough reasons to see the morning.
+The drive through the empty streets of Millbrook gave me time I didn't want. The traffic lights cycled through their colors for an audience of no one, and I stopped at each red like the good citizen I pretended to be. The radio muttered something about overnight temperatures and weekend forecasts. I turned it off. Time to think, to remember. The Ashworth family had ruled this town for four generations, their money built on shipping and their influence built on secrets. Everyone in Millbrook owed them something: a favor, a debt, a grudge. I owed them more than most.
+
+At the iron gates of the estate, a uniformed officer waved me through after checking my badge. The driveway wound through ancient oaks for nearly a quarter mile before the house itself appeared through the fog like something out of a Gothic novel, all sharp angles and darkened windows. A dozen police cars already cluttered the circular driveway, their lights painting the stone facade in alternating washes of red and blue. I found a spot behind the coroner's van, killed the engine, and sat for a moment listening to it tick as it cooled. Then I straightened my tie in the rearview mirror. The face looking back at me was tired, creased with the kind of lines that come from too many late nights and not enough reasons to see the morning.
 
 Captain Maria Reyes met me at the front door, her silver-streaked hair pulled back in a severe bun, her expression grim. We'd worked together for fifteen years, and I'd seen that look only a handful of times. Never for anything good.
 
@@ -24,7 +26,7 @@ Captain Maria Reyes met me at the front door, her silver-streaked hair pulled ba
 
 She didn't smile at the weak attempt at humor. Instead, she handed me a pair of latex gloves and led me through the marble foyer, past the sweeping staircase where old portraits of dead Ashworths watched our passage with oil-painted disapproval.
 
-"The victim is Eleanor Ashworth," Reyes said, her voice low. "The matriarch. Seventy-three years old, found in the library by her housekeeper around three this morning."
+"The victim is Eleanor Ashworth," Reyes said, her voice low. We walked as she talked, our footsteps echoing in the cavernous foyer. "The matriarch. Seventy-three years old, found in the library by her housekeeper around three this morning."
 
 Eleanor. I felt the cold weight in my chest grow heavier. Eleanor, with her silver hair and sharp tongue and secrets that could topple dynasties.
 
@@ -32,7 +34,7 @@ Eleanor. I felt the cold weight in my chest grow heavier. Eleanor, with her silv
 
 "That's where it gets complicated." Reyes stopped outside a set of ornate double doors, their dark wood carved with images of ships at sea. "She was poisoned. But someone also strangled her. And there's a letter opener embedded in her chest."
 
-I stared at her. "Someone really wanted her dead."
+I let that sink in for a moment, the sheer improbability of it. "Someone really wanted her dead."
 
 "Or multiple someones." Reyes pushed open the doors. "Welcome to the circus, Detective."
 
@@ -44,11 +46,11 @@ Eleanor Ashworth had been a formidable woman in life. In death, she looked small
 
 "Or we've got multiple killers," Reyes finished. "Each with their own reason to want her dead."
 
-I knelt beside the chair, studying Eleanor's face. Her eyes were closed. Someone had done that, maybe the housekeeper. But her expression was almost peaceful, at odds with the violence done to her body.
+I knelt beside the chair, my knees protesting even that simple motion, and studied Eleanor's face. Her eyes were closed. Someone had done that, maybe the housekeeper—a small mercy in a room full of horrors. A grandfather clock in the corner ticked steadily, marking time that no longer mattered to the woman in the chair. Her expression was almost peaceful, at odds with the violence done to her body.
 
 "Who was in the house tonight?"
 
-Reyes flipped open her notepad. "The full roster. Her son, Victor, and his wife, Diana. Her daughter, Margot. Her grandson, Julian, home from law school for the weekend. The housekeeper, Rosa Martinez. She's the one who found the body. The groundskeeper, Thomas Chen, lives in the cottage out back. And get this. Eleanor's personal attorney, David Sterling, was here for dinner and stayed the night in one of the guest rooms. Apparently they had business to discuss."
+Reyes flipped open her notepad, the pages rustling softly in the otherwise silent room. "The full roster. Her son, Victor, and his wife, Diana. Her daughter, Margot. Her grandson, Julian, home from law school for the weekend. The housekeeper, Rosa Martinez—she's the one who found the body. Been with the family thirty-five years. The groundskeeper, Thomas Chen, lives in the cottage out back, maybe two hundred yards from the main house. And get this—Eleanor's personal attorney, David Sterling, was here for dinner and stayed the night in one of the guest rooms. East wing. Apparently they had business to discuss."
 
 "At her age, 'business to discuss' usually means one thing."
 
@@ -72,7 +74,7 @@ I knew that locket. I'd seen it a thousand times, always hanging around a differ
 
 "That's the Ashworths for you."
 
-I took one last look at Eleanor, at the locket clutched in her dead hand, at the three distinct methods someone had used to end her life. Three methods, seven suspects, and a family whose secrets ran deeper than the foundations of this house.
+I took one last look at Eleanor, at the locket clutched in her dead hand, at the three distinct methods someone had used to end her life. A crime scene photographer's flash went off somewhere behind me, freezing the moment in harsh white light. Three methods, seven suspects, and a family whose secrets ran deeper than the foundations of this house.
 
 The dawn was beginning to break through the library windows, painting the room in shades of pink and gold. It should have been beautiful. Instead, it just illuminated the horror more clearly. The blood, the bruises, the utter stillness of death.
 

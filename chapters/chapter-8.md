@@ -1,8 +1,8 @@
 # Julian's Confession
 
-I found Julian Ashworth exactly where I expected to find him: in the library, sitting in the same leather chair where his grandmother had died.
+I found Julian Ashworth exactly where I expected to find him: in the library, sitting in the same leather chair where his grandmother had died. Getting there had required navigating the house's maze-like corridors—left at the grand staircase, through the music room, past the second-floor gallery—but by now I was learning the layout.
 
-The room had been processed by forensics, the body removed, the bloodstains marked and photographed. But Julian sat there anyway, in the predawn darkness, staring at the empty space behind Eleanor's desk as if he could still see her ghost. His hands were wrapped around a glass of whiskey that looked like it hadn't been touched in hours.
+The room had been processed by forensics, the body removed, the bloodstains marked and photographed. Yellow evidence markers still dotted the Persian rug, each one a silent accusation. But Julian sat there anyway, in the predawn darkness, staring at the empty space behind Eleanor's desk as if he could still see her ghost. His hands were wrapped around a glass of whiskey that looked like it hadn't been touched in hours.
 
 "Detective." He didn't look up when I entered. "I was wondering when you'd come for me."
 
@@ -34,7 +34,7 @@ Julian was quiet for a long moment. When he spoke again, his voice was barely ab
 
 "Like she was saying goodbye. Like she knew she deserved what was happening and she was accepting it." Julian's voice cracked. "I couldn't do it. I couldn't be the one to end her, not like that. So I ran. I went through the garden door and I ran back to my room and I told myself I would pretend it never happened."
 
-I pulled a chair across from him and sat down, studying his face in the dim light. The morning was starting to gray the windows now, the first hints of dawn bleeding through the curtains.
+I pulled a chair across from him—the leather creaking in protest at the movement—and sat down, studying his face in the dim light. The grandfather clock in the corner read 5:47. The morning was starting to gray the windows now, the first hints of dawn bleeding through the heavy curtains.
 
 "You need to understand something, Julian. The medical examiner determined that strangulation wasn't what killed Eleanor. She was poisoned first. A slow-acting toxin that was already shutting down her systems by the time you got to her. And the actual cause of death was the letter opener wound to her chest."
 

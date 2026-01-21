@@ -10,7 +10,7 @@ Margot Ashworth looked different than she had at the estate. Gone was the fragil
 
 "Your back door has a broken latch. You should have it fixed." She nodded toward the chair across from her. "Please, Detective. I'm not here to cause trouble. I'm here because I finally remembered something—something I should have told you days ago."
 
-I hesitated, then holstered my weapon and sat. The kitchen table between us felt like a gulf, years of secrets and lies piled up like rubble.
+I hesitated, then holstered my weapon and sat. My kitchen clock showed 11:47 PM. The kitchen table between us felt like a gulf, years of secrets and lies piled up like rubble.
 
 "You said Eleanor didn't kill herself."
 
@@ -46,7 +46,7 @@ Margot looked at me, and in her eyes I saw something that went beyond fear. It w
 
 ---
 
-The drive to Sterling's office took fifteen minutes. Margot sat in the passenger seat, her hands folded tightly in her lap, staring out at the dark streets of Millbrook. The town looked peaceful at this hour—quiet houses, sleeping families, ordinary lives untouched by the rot that had been growing at its center for decades.
+The drive to Sterling's office took fifteen minutes—through the residential district, past the darkened storefronts of Main Street, and into the professional quarter where lawyers and accountants kept their offices. Margot sat in the passenger seat, her hands folded tightly in her lap, staring out at the dark streets of Millbrook. The town looked peaceful at this hour—quiet houses, sleeping families, ordinary lives untouched by the rot that had been growing at its center for decades.
 
 I called Captain Reyes on the way, keeping my voice level as I explained what Margot had revealed.
 

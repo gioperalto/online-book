@@ -1,6 +1,6 @@
 # Behind Locked Doors
 
-First National Bank opened its doors at nine o'clock sharp. I was there at eight forty-five, parked across the street in my unmarked sedan, watching the morning routine of Millbrook unfold around me.
+First National Bank opened its doors at nine o'clock sharp. I'd left my apartment at seven-thirty, stopped for gas and a bad cup of coffee at the station on Pine Street, and still arrived early. By eight forty-five I was parked across the street in my unmarked sedan, watching the morning routine of Millbrook unfold around me.
 
 Coffee shops releasing steam into the cold air. Office workers hurrying past with their briefcases and their Styrofoam cups. A crossing guard shepherding children toward the elementary school two blocks down. Normal people living normal lives, unaware that the woman who had quietly controlled their town for sixty years was dead, and that the empire she'd built was teetering on the edge of collapse.
 
@@ -30,7 +30,7 @@ Patricia retreated to her office, closing the door behind her. Through the glass
 
 The security guard was watching me too. I felt the weight of his attention like a pressure between my shoulder blades.
 
-Eight minutes passed. Nine. Ten.
+Eight minutes passed. I studied the oil painting on the wall—some pastoral scene that had probably cost more than my annual salary. Nine minutes. The security guard shifted his weight from one foot to the other. Ten.
 
 When Patricia finally emerged, her smile had changed. It was wider now, more accommodating—but there was something brittle beneath it.
 

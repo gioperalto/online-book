@@ -1,6 +1,6 @@
 # Web of Complicity
 
-Captain Maria Reyes was waiting for me in her office when I returned to the station. The afternoon sun slanted through the blinds, striping her desk with bars of gold and shadow. She didn't look up from the paperwork in front of her as I entered, just gestured at the chair across from her.
+Captain Maria Reyes was waiting for me in her office when I returned to the station. The drive from the cemetery had taken longer than expected—road construction on Main Street forced a detour through the warehouse district—and by the time I walked into the building, my coffee had gone cold and my patience thin. The afternoon sun slanted through the blinds of her corner office, striping her desk with bars of gold and shadow. She didn't look up from the paperwork in front of her as I entered, just gestured at the chair across from her.
 
 "Sit."
 
@@ -34,7 +34,7 @@ I took a breath. "Eleanor Ashworth didn't operate alone. For decades, she had he
 
 "It involves everyone's family. That's the point." I leaned forward. "Eleanor Ashworth built a system. A network of favors and threats and buried secrets that let her do whatever she wanted to whoever she wanted. And when she died, that network didn't die with her. It's still out there. Still functioning. Still protecting the people who helped her."
 
-Reyes was quiet for a long moment. The clock on her wall ticked. Outside, someone laughed—a normal sound from a normal day, utterly disconnected from what we were discussing.
+Reyes was quiet for a long moment. The clock on her wall ticked—one of those old railway station clocks, a gift from her father, she'd once told me. Outside, someone laughed—a normal sound from a normal day, utterly disconnected from what we were discussing. Through the window, I could see patrol officers heading out to their cruisers, the mundane rhythm of police work continuing regardless of what secrets we unearthed.
 
 "You know who you're describing." Her voice was careful. "You know what happens if you start pulling on those threads."
 

@@ -2,21 +2,21 @@
 
 #### "Closure is something they put in books. Real life doesn't work that way." - Rosa Martinez
 
-The hours between dusk and midnight crawled like wounded things. I drove back to my apartment to shower, change, and pretend I was the kind of man who could eat dinner when his world was tilting on its axis. The bourbon on my kitchen table remained untouched. The photograph remained face-down. Some routines are just habits; others are armor.
+The hours between dusk and midnight crawled like wounded things. I drove back to my apartment—a twenty-five minute journey through streets that were starting to fill with the evening commute—to shower, change, and pretend I was the kind of man who could eat dinner when his world was tilting on its axis. I managed half a sandwich before giving up. The bourbon on my kitchen table remained untouched. The photograph remained face-down. Some routines are just habits; others are armor.
 
-I arrived at the old Ashworth chapel at eleven-forty, twenty minutes early because that's how you survive in this business. You get there first. You watch. You wait.
+At eleven-fifteen, I left my apartment and began the drive back toward the Ashworth property. The roads were empty now, the good citizens of Millbrook tucked into their beds, and I made good time. I arrived at the old Ashworth chapel at eleven-forty, twenty minutes early because that's how you survive in this business. You get there first. You watch. You wait.
 
 The chapel sat at the far edge of the Ashworth property, separated from the main estate by a quarter mile of overgrown forest and a rusted iron gate that hadn't been locked in decades. It was a Gothic relic, all pointed arches and crumbling stone, its stained glass windows long since shattered by time and teenage vandals. The Ashworths had built it in the 1890s, back when the family still believed in something beyond money and power. Now it was just another monument to their decay.
 
-I parked my car on the access road and walked the last hundred yards on foot, my flashlight cutting a weak beam through the darkness. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning.
+I parked my car on the access road, killed the engine, and sat listening to the tick of cooling metal for a full minute before stepping out. The walk to the chapel was about a hundred yards, and I took it slow, my flashlight cutting a weak beam through the darkness, my other hand resting on my service weapon. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning.
 
 The chapel door hung askew on rusted hinges. I pushed it open, wincing at the groan of tortured metal, and stepped inside.
 
 The interior was exactly what you'd expect from a building abandoned for half a century. Pews overturned and rotting. Hymnals scattered across the floor, their pages swollen with moisture and mold. At the far end, a stone altar stood beneath what remained of a massive crucifix, Christ's face worn smooth by time until it was just a suggestion of features, a ghost of divinity.
 
-I checked my watch. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
+I checked my watch, the luminous dial glowing faintly in the darkness. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
 
-I found a pew that still had four legs and sat down to wait. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
+I found a pew that still had four legs and sat down to wait, my back to the wall where I could see both the entrance and the vestry door at the rear. An old habit. A good one. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
 
 The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway.
 

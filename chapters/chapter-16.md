@@ -2,7 +2,7 @@
 
 #### "The truth never dies. It waits. It finds a way." - Marcus Webb
 
-The old Webb property sat at the end of a gravel road that hadn't seen maintenance in decades. Weeds had consumed the ditches on either side, and the morning mist hung low over the fields, turning the world into something gauzy and uncertain. I killed my headlights a quarter mile out and let the car coast to a stop behind a stand of overgrown honeysuckle.
+The old Webb property sat at the end of a gravel road that hadn't seen maintenance in decades—a forty-minute drive from my apartment, longer because I'd taken two wrong turns before finding the unmarked road that led out here. Weeds had consumed the ditches on either side, and the morning mist hung low over the fields, turning the world into something gauzy and uncertain. I checked my watch: 6:23 AM. I killed my headlights a quarter mile out and let the car coast to a stop behind a stand of overgrown honeysuckle, the engine ticking as it cooled.
 
 The house emerged from the fog like a memory refusing to fade. Two stories of weathered clapboard, the white paint long since surrendered to gray. A wraparound porch that sagged in the middle. Windows that stared out at the world like empty eye sockets. This was where Marcus Webb had grown up, before Eleanor Ashworth had noticed him, desired him, and ultimately destroyed him.
 
@@ -22,9 +22,9 @@ No answer. I moved through the parlor into a narrow hallway. Photographs still h
 
 And there, near the end of the hall, a photograph I did recognize. Marcus Webb, young and handsome, standing in front of a shipping yard with a lunchbox in his hand. The same face I'd seen in Catherine's photographs. The same face that had been erased from history by Eleanor Ashworth.
 
-A sound from above. Footsteps, slow and deliberate.
+A sound from above. Footsteps, slow and deliberate. I counted them—one, two, three—trying to gauge the direction, the weight.
 
-I took the stairs two at a time, my weapon leading the way. At the top, a narrow landing split into two corridors. The footsteps had come from the left—from what looked like a bedroom at the end of the hall.
+I took the stairs two at a time, my weapon leading the way, each step groaning under my weight. At the top, a narrow landing split into two corridors. The footsteps had come from the left—from what looked like a bedroom at the end of the hall.
 
 The door was closed. I pressed my back against the wall beside it, steadied my breathing.
 

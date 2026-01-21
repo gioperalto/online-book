@@ -2,7 +2,7 @@
 
 The phone records told a story no one in the Ashworth house had wanted me to hear.
 
-I sat in the back of Reyes's unmarked cruiser, parked just outside the estate gates. I studied the printout she'd handed me while the morning sun climbed higher. The shadows retreated from the Gothic mansion like guilty secrets fleeing the light.
+I sat in the back of Reyes's unmarked cruiser, parked just outside the estate gates where we could talk without being overheard. The engine idled quietly, pumping warmth into the cabin against the morning chill. I studied the printout she'd handed me—three pages of phone records, timestamps precise to the second—while the morning sun climbed higher. The shadows retreated from the Gothic mansion like guilty secrets fleeing the light.
 
 "Look at the call at 8:47 PM," Reyes said, tapping the paper with a manicured nail. "Incoming, duration three minutes and twelve seconds."
 
@@ -34,7 +34,7 @@ One word. Just one word, typed in reply to decades of buried truth:
 
 *Come.*
 
-"Catherine Webb caught a red-eye flight from Seattle that same night," Reyes said. "She landed at the regional airport at 6:15 this morning. We've got officers picking her up now."
+"Catherine Webb caught a red-eye flight from Seattle that same night," Reyes said. "Departed Sea-Tac at 11:45 PM Pacific, connection through Minneapolis, landed at the regional airport at 6:15 this morning. She's been traveling all night. We've got officers picking her up now—should be at the station within the hour."
 
 I sat back, letting the implications wash over me. Eleanor had received proof of her crimes. Or at least the threat of proof. And she had responded by inviting the accuser to her home. Why? To negotiate? To threaten? To confess?
 
@@ -60,7 +60,7 @@ I hesitated. I thought about the masked figure at the chapel. The voice that had
 
 ---
 
-Millbrook General Hospital smelled like disinfectant and despair. I walked the fluorescent-lit corridors with my badge clipped to my belt and my mind churning through possibilities, each one darker than the last.
+Millbrook General Hospital was a fifteen-minute drive from the Ashworth estate, though it felt longer with my head still throbbing from last night's attack. I found a spot in the visitor lot on the third try—the hospital was busier than I'd expected for a weekday morning—and walked the fluorescent-lit corridors with my badge clipped to my belt and my mind churning through possibilities, each one darker than the last.
 
 Rosa was in a private room on the third floor, courtesy of a department budget that didn't exist and Captain Reyes's creative accounting. An officer was stationed outside her door. Young. Alert. Hand resting near his service weapon. He nodded when I showed my credentials and stepped aside.
 

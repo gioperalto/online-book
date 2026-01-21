@@ -1,14 +1,14 @@
 # Sparks and Tinder
 
-The holding cells at Millbrook station were a study in institutional gray. Concrete walls, fluorescent lights that buzzed like dying insects, benches bolted to the floor. I stood on the free side of the bars, watching Diana Ashworth sit with her hands folded in her lap, composed as ever despite the circumstances.
+The holding cells at Millbrook station were a study in institutional gray, located in the basement of a building that had seen better decades. I'd walked past the booking desk, down two flights of stairs, and through a security checkpoint before reaching this corridor. Concrete walls, fluorescent lights that buzzed like dying insects, benches bolted to the floor. I stood on the free side of the bars, watching Diana Ashworth sit with her hands folded in her lap, composed as ever despite the circumstances.
 
-She looked up when I approached. "Detective Marlowe. I didn't expect to see you again so soon."
+She looked up when I approached, her posture straightening almost imperceptibly. "Detective Marlowe. I didn't expect to see you again so soon."
 
 "I have more questions."
 
 "I thought my confession was thorough." A ghost of her old smile crossed her face. "Did I leave something out?"
 
-I pulled a metal chair from the corridor and sat facing her through the bars. The clock on the wall read 11:47 AM. Three hours since I'd arrested her. Three hours since I'd thought the case was closed.
+I pulled a metal chair from the corridor—its legs scraping against the concrete floor with a sound that echoed off the walls—and sat facing her through the bars. The clock on the wall read 11:47 AM. Three hours since I'd arrested her at the estate, the drive to the station having taken nearly half an hour with Diana sitting silent in the back of the patrol car. Three hours since I'd thought the case was closed.
 
 "You said you poisoned Eleanor to incapacitate her. That you and Victor planned to search her office while she was disoriented."
 
