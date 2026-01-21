@@ -56,7 +56,7 @@ I spun, reaching for my weapon, but I was too slow. Something hard cracked again
 
 A figure stood in the doorway. Average height, average build, wearing nondescript clothing—jeans, a dark jacket, work boots. His face was unremarkable, the kind of face you'd forget the moment you looked away. But his eyes were different. His eyes were empty, like holes punched in a mask.
 
-"Detective Marlowe." His voice was flat, colorless. "Looks like our paths have crossed again."
+"Detective Marlowe." His voice was flat, colorless. "Looks like this is our final encounter."
 
 ---
 
@@ -86,7 +86,7 @@ I shifted slightly, trying to gauge the distance to my weapon. The Adjuster noti
 
 "Then why are we still talking?"
 
-The question seemed to genuinely interest him. He tilted his head, considering. "Because I like to uplay with my food. And you—" he gestured with the gun, "—you're interesting. You've done more in days than the rest have in decades. I was even rooting for you. A shame it had to come to this."
+The question seemed to genuinely interest him. He tilted his head, considering. "Because I like to play with my food. And you—" he gestured with the gun, "—you're interesting. You've accomplished more in days than the rest of your family has in decades. I was even rooting for you. A shame it had to come to this."
 
 "You killed Marcus Webb. In Seattle." my father chimed in on the conversation.
 
@@ -94,7 +94,7 @@ The question seemed to genuinely interest him. He tilted his head, considering. 
 
 "Is that what you're going to do to us? Make us disappear?"
 
-"Your father, yes. A tragic accident that happens while exploring an abandoned property." His eyes flickered to me, pensive in thought. You. You're more complicated."
+"Your father, yes. A tragic accident that happens while exploring an abandoned property." His eyes flickered to me, pensive in thought. "You. You're more complicated."
 
 "The FBI knows where I am. Agent Torres—"
 
@@ -120,7 +120,7 @@ I saw it before the Adjuster did—my father's hand moving to his pocket, pullin
 
 The Adjuster reacted instantly, bringing his weapon up—
 
-I launched myself at him, wedging myself between my dad and the threat. The .22 went off, the suppressed shot like a loud cough, and something more than a graze tore through my side. The bullet punched through flesh and muscle just below my ribs, a searing agony that stole my breath. But I was already crashing into him, driving him backward into the hallway. We hit the wall hard, his gun spinning away, and then we were grappling, my hands around his throat, his fingers clawing at my face.
+I lunged at him, wedging myself between my dad and the threat. The .22 went off, the suppressed shot like a loud cough, and something more than a graze tore through my side. The bullet punched through flesh and muscle just below my ribs, a searing agony that stole my breath. But I was already crashing into him, driving him backward into the hallway. We hit the wall hard, his gun spinning away, and then we were grappling, my hands around his throat, his fingers clawing at my face.
 
 He was stronger than he looked. Wiry, compact, every muscle trained for this kind of close-quarters violence. An elbow caught me in the solar plexus and I gasped, loosening my grip just enough for him to slip free. A knee came up toward my groin—I twisted, took it on my thigh instead, and threw a punch that connected with his jaw.
 
@@ -138,15 +138,9 @@ A brilliant red light filled the hallway, and the Adjuster screamed as the burni
 
 I heard him fall. Heard the impacts as his body struck the stairs, tumbling, crashing.
 
----
-
 My father helped me crawl to the top of the stairs. The Adjuster lay at the bottom of the stairs, motionless, his chest still smoldering.
 
 Robert was already on his phone, dialing 911. I leaned against the wall, my head spinning, and watched the morning light filter through the dusty windows of Marcus Webb's childhood home.
-
-Sixty years ago, a young man had walked out of this house and never come back. He'd fallen in love, been betrayed, and died in a shipping yard three thousand miles away. His only crime had been loving the wrong woman—or rather, being loved by the right one, in a world where Eleanor Ashworth decided what was right and wrong.
-
-But the secrets he'd left behind had survived. His sister. His letters. His children and grandchildren, carrying his blood through the decades without even knowing it. And now, finally, the man who'd helped kill him was lying at the bottom of Marcus Webb's stairs, brought down in Marcus Webb's house.
 
 I tried to stand, but my legs wouldn't cooperate. The wound in my side was worse than I'd thought—the bullet had done real damage, not just a graze. I could feel my consciousness beginning to slip, the edges of my vision going dark.
 
@@ -158,7 +152,9 @@ But I wasn't sure I believed him. We put a stop to the Adjuster. But now his bul
 
 My father reluctantly left me after remembering the original reason he was in this house. I lay on the dusty floor of Marcus Webb's childhood home, bleeding, staring up into nothing, lost in thought.
 
-Sixty years ago, Marcus Webb had walked out of this house and never come back. He'd fallen in love, been betrayed, and died in a shipping yard three thousand miles away. His only crime had been loving the wrong woman—or rather, being loved by the right one, in a world where Eleanor Ashworth decided what was right and wrong.
+Sixty years ago, a young man had walked out of this house and never come back. He'd fallen in love, been betrayed, and died in a shipping yard three thousand miles away. His only crime had been loving the wrong woman—or rather, being loved by the right one, in a world where Eleanor Ashworth decided what was right and wrong.
+
+But the secrets he'd left behind had survived. His sister. His letters. His children and grandchildren, carrying his blood through the decades without even knowing it. And now, finally, the man who'd helped kill him was lying at the bottom of Marcus Webb's stairs, brought down in Marcus Webb's house.
 
 The morning light filtered through the dusty windows, and I felt the cold seeping into my bones. Whether from blood loss or something else, I couldn't tell.
 
@@ -212,11 +208,11 @@ I nodded. I'd expected as much.
 
 "He's still out there." I touched my bandaged side, feeling the layers of gauze and tape, the dull throb of pain beneath the morphine. "And he won't stop until he finishes what he started."
 
-"Then we use that." Maria's voice was steel. "They know we're coming. Fine. Let them know. Because now we have everything, including Sterling's testimony."
+"Fine by me." Rebecca's voice was steel. "Because now we have everything, including Sterling's testimony."
 
-A memory jumped to the front of my mind. The Adjuster saying something vital. That David Sterling was next.
+Things began to click together in my head. Sterling was the informant. A memory jumped to the front of my mind. The Adjuster saying something vital. That David Sterling was next on his list.
 
-"Maria," I interrupted. "About Sterling. We need to bring him somewhere safe. The Adjuster said he would be next." 
+"Rebecca," I interrupted. "About Sterling. We need to bring him somewhere safe. The Adjuster said he would be next." 
 
 The mask of Agent Torres, usually calm and tempered, cracked for a brief moment. She rushed out the room, presumibly to make important calls that placed a certain attorney under the appropriate protections. Time was of essence and had unintentionally held back a key piece of information. I hoped it didn't cost David Sterling his life. 
 
@@ -226,15 +222,13 @@ The whole time my father watched as I processed a slew of emotions. At first he 
 
 I looked at him—really looked at him, for the first time in years. "Yeah. There is."
 
-"About your grandmother. About Marcus." He paused. "About everything we should have talked about years ago."
+"About your grandmother. About Marcus." He paused. "There was something important in that box. Something you should know about."
 
-"I'd like that." I squeezed his hand, feeling the roughness of his palm, the strength still in his grip. "But first... I need to sleep."
+"We will." I squeezed his hand, feeling the roughness of his palm, the strength still in his grip. "But first think I need sleep."
 
 They let me sleep. And when I closed my eyes, I saw the Adjuster falling, burning, disappearing into nothing. A man who had killed without consequence for sixty years, finally facing a reckoning—and slipping away from it like smoke through fingers.
 
-He was still out there. I knew it in my bones, in the wound that would scar, in the ache that would never fully fade. The Adjuster was still out there, and someday, he would come back.
-
-But so would I.
+He was still out there. I knew it in my bones, in the wound that would scar, in the ache that would never fully fade. The Adjuster was still out there, and someday, he would return to finish the job.
 
 ---
 
