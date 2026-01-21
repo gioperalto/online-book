@@ -6,7 +6,7 @@
 ## Midnight Confessions
 ## Three Hands, One Death
 ## A Fatal Message
-## Reckoning at the Boathouse
+## Boathouse Reckoning
 ## Julian's Confession
 ## Sarah's Secrets
 ## Sparks and Tinder
@@ -14,19 +14,5 @@
 ## Web of Complicity
 ## Behind Locked Doors
 ## Shadows in the Windows
-## A Fourth Hand Revealed
+## The Fourth Hand
 ## Marcus Webb's Legacy
-## Gathering Storm
-## Confession
-## Breaking Storm
-## Last of the Webbs
-## Trial Begins
-## Sins of Our Fathers
-## Foundation of Lies
-## Final Reckoning
-## Truth Goes to Print
-## What We Leave Behind
-## Ledger of Sins
-## Blood Inheritance
-## The Quiet After
-## Silence at Last

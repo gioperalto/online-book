@@ -682,14 +682,14 @@
 
 - **Confrontation at the Webb House**:
   - Marlowe arrives at Marcus Webb's childhood home and finds his father's truck
-  - Robert Marlowe was there to retrieve evidence Catherine Webb told him about
+  - Robert Marlowe was there to retrieve a box from Marcus Webb
   - The adjuster was waiting in ambush, having anticipated Marlowe would come
 
 - **The Adjuster's Methods and Motives**:
   - Described as average in appearance—unremarkable face, the kind easily forgotten
   - Carries a suppressed .22, professional assassin's weapon
   - Claims he "arranged" Marcus Webb's death in Seattle (the crane accident)
-  - Reveals he was hired to kill Marlowe's grandmother but she died of a heart attack first
+  - Reveals he was hired to kill Marlowe's grandmother
   - Current mission: eliminate all Webb family connections before the network collapses
   - Targets include: Marlowe, Robert Marlowe, Catherine Webb, Rosa Martinez
 
@@ -704,7 +704,6 @@
   - During the struggle, Marlowe is shot (bullet graze to the ribs)
   - Robert fires the flare gun, hitting the adjuster in the chest
   - The adjuster crashes through the stair railing and falls
-  - The adjuster survives but suffers third-degree burns and possible spinal injury
 
 - **Marcus Webb's Hidden Evidence**:
   - Marcus hid a cardboard box in his childhood home before leaving for Seattle
@@ -721,7 +720,6 @@
   - **The Network**: Aware the operation is compromised
 
 - **Key Questions for Future Chapters**:
-  - How will the network respond now that the adjuster is captured?
   - Will the remaining network members run, fight, or surrender?
   - What will Marcus's journal reveal about the full extent of Eleanor's crimes?
   - Will the warehouse operation proceed in modified form?

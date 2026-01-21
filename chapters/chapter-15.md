@@ -1,4 +1,4 @@
-# A Fourth Hand Revealed
+# The Fourth Hand
 
 Margot Ashworth looked different than she had at the estate. Gone was the fragile demeanor, the nervous energy that had made her seem like a bird ready to take flight at any sudden movement. In the dim light of my kitchen, she appeared solid, present—a woman who had finally stopped pretending.
 

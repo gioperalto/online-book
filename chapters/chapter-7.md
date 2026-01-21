@@ -1,4 +1,4 @@
-# Reckoning at the Boathouse
+# Boathouse Reckoning
 
 The Ashworth marina sat at the edge of Millbrook, a twenty-minute drive from my apartment if you knew the back roads, which I did. The town's pretensions of normalcy gave way here to the cold, honest brutality of the water. I parked my car a quarter-mile away at a closed bait shop and walked the rest of the distance in darkness, my footsteps crunching on the gravel shoulder, then the wooden planks of the access road. The photograph was tucked inside my jacket like a wound pressed against my heart.
 
