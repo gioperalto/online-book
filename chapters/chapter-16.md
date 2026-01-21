@@ -232,4 +232,26 @@ He was still out there. I knew it in my bones, in the wound that would scar, in 
 
 ---
 
-TODO: David Sterling is found dead and Marcus Webb's inheritence is revealed
+I awoke to a chaotic scene. My father and great-aunt were gesticulating to Agent Torres in what seemed like an argument. Their voices adjusting from a distant muzzled sound to clear, crisp words. They were talking about David Sterling.
+
+"Is David Sterling alive?" I interrupted their spat.
+
+The three shared dejected looks, confirming my answer. This was a huge blow to the case. David was Rebecca's informant, and without him everything else would begin to fall apart. It had to be the adjuster. When would he come for me? I wasn't ready. I needed time to recover. To prepare. But I was still nervous knowing that no amount of time would bring me back to one-hundred percent. I didn't know if I had it in me to face him again.
+
+"James!" my dad shook me, snapping me out of a trance. I was spiraling.
+
+"He didn't just get away," I announced, overtaken by a sense of dread. "he crippled our case. Crippled me."
+
+It was Agent Torres who spoke this time. "As much as I feel for you, James, this is no time for a pity party."
+
+She was right. That was just the kick in the behind that I needed to properly wake up. My mind went back into detective mode.
+
+"How do we pick the case back up?" I asked.
+
+"David Sterling wasn't the only one acting from the shadows." Agent Torres answered, ready for my question. "It's time we pulled down all the branches of this wrotten tree."
+
+"With what resources?" My skepticism still wasn't fully addressed. "The FBI isn't going to fund a witch hunt, and we've got powerful forces working against us."
+
+"About that–" my dad interjected. "I think it's time I told you about what your grandfather left in the box."
+
+Catherine smiled as Robert presented a thick stack of papers to me, crease marks on each side like they were folded to fit in an envelope. As I sifted through these documents I came to an abrupt conclusion. This was a will. No. It was an inheritance.
