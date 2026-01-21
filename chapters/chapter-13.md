@@ -71,7 +71,9 @@ Inside were personnel files, evaluation reports, and a list of names organized b
 
 At the bottom of the list, circled in red ink: *James Marlowe, hired 1998. Watch.*
 
-Eleanor had been tracking me since the day I joined the force. Twenty-six years of surveillance, noted in her precise handwriting. Promotions, commendations, case assignments—she'd monitored every step of my career.
+Eleanor had been tracking me since the day I joined the force. Twenty-six years of surveillance, noted in her precise handwriting. Promotions, commendations, case assignments—she'd monitored every step of my career. Every "uncrackable" case the brass had assigned me, hoping I'd fail. The Kellerman kidnapping. The dockside murders. The Patterson disappearance. She'd noted them all, with annotations like *Persistent* and *Dangerous if pointed in wrong direction* and, most chillingly, *Reminds me of his grandmother.*
+
+She'd known. All those years when the top brass kept handing me impossible cases, when I kept solving them anyway and building a reputation that still followed me around this small town like a shadow—Eleanor had been watching. Noting. Deciding whether I was a threat worth eliminating.
 
 But she hadn't acted. Hadn't destroyed me the way she'd destroyed so many others. Why?
 

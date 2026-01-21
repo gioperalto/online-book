@@ -10,6 +10,8 @@ My father's truck was parked in the circular drive. No other vehicles that I cou
 
 I drew my weapon and moved through the tall grass, staying low, watching the windows for any sign of movement. The morning was silent except for the distant call of crows and the soft crunch of my footsteps. Every shadow could be a threat. Every rustle of wind through the dead leaves sounded like someone breathing.
 
+This was the part of the job I'd been good at, once. The stakeouts and approaches, the tactical precision that had earned me my reputation in the early years. The top brass used to assign me cases they thought were unwinnable—cold trails and protected suspects and situations where failure seemed guaranteed. But I'd learned to see what others missed, to wait longer than anyone thought reasonable, to move when the moment was right. The Kellerman kidnapping. The dockside murders. The string of pharmacy robberies that had stumped three agencies. I'd solved them all by being more patient, more stubborn, more willing to put myself in harm's way than anyone expected. Now my knees ached with every step and my reflexes weren't what they'd been, but the instincts remained. They'd have to be enough.
+
 The front door hung open. Not broken—just open, as if someone had walked through and not bothered to close it behind them.
 
 I stepped onto the porch, wincing at the creak of the boards. Inside, the house smelled like dust and decay, old wallpaper and older secrets. A staircase led up to the second floor, its banister thick with grime. To my right, what had once been a parlor sat empty except for a single chair, positioned to face the window that looked out over the road.

@@ -20,6 +20,8 @@ Sterling's lips thinned. "Eleanor was particular about loyalty. She surrounded h
 
 I let the silence stretch between us, watching his composure. David Sterling was good. Polished in a way that came from decades of boardrooms and courtrooms. But everyone had cracks. Everyone.
 
+I'd learned that lesson early in my career, back when the brass was still testing me with impossible cases. The Harrison embezzlement case in 2001—the suspect was a former federal prosecutor with connections all the way to the state capital. Everyone said I'd never crack him. But three days of interviews later, I'd found his tell: he touched his wedding ring whenever he lied. By the end of the week, he was confessing to crimes we hadn't even known about. Sterling had his own tells. The way his fingers tightened around his coffee cup. The slight pause before answering certain questions. After twenty-six years of interrogating Millbrook's finest liars, I could read the signs.
+
 "Tell me about last night."
 
 Sterling reached for the cup of coffee that had appeared at his elbow. The housekeeper's doing, probably. He took a measured sip before answering. "I arrived around five in the afternoon. The drive from my office takes about forty minutes without traffic—there was some construction on Route 9 that added another fifteen. Eleanor had asked me to come for dinner and to stay overnight. She said she had business to discuss that couldn't wait."

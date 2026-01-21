@@ -16,7 +16,9 @@ The interior was exactly what you'd expect from a building abandoned for half a 
 
 I checked my watch, the luminous dial glowing faintly in the darkness. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
 
-I found a pew that still had four legs and sat down to wait, my back to the wall where I could see both the entrance and the vestry door at the rear. An old habit. A good one. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
+I found a pew that still had four legs and sat down to wait, my back to the wall where I could see both the entrance and the vestry door at the rear. An old habit. A good one. The kind of instinct that had kept me alive through the glory days when the department brass kept assigning me cases designed to end careers. The Thornwood arsons—seven buildings, two deaths, no witnesses. They'd given me that one expecting me to drown in the paperwork. Instead, I'd found the connection between the properties and the insurance adjustor who owned them all through shell companies. The department commended me publicly and quietly resented me for making them look bad. That was the pattern in those days: assign Marlowe the impossible case, watch him solve it anyway, then find another impossible case to assign.
+
+The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
 
 The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway.
 

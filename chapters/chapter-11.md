@@ -46,6 +46,8 @@ I thought about the photograph I kept face-down on my kitchen table. My grandmot
 
 I sat beside him, maintaining the distance I'd kept my whole adult life. The space between us felt like a canyon.
 
+I understood walls now, understood what my father had been carrying all these years. When I was coming up through the ranks, the other detectives used to wonder why I took every impossible case the brass threw at me. Why I slept in my car during the dockside stakeouts, why I worked the Patterson cold case on my own time for three years before the break came. They thought I was ambitious, hungry for the promotions and commendations. But it wasn't ambition that drove me. It was the same thing that had driven my father for forty years—the need to prove that persistence could overcome power, that one stubborn person could unravel what the mighty had stitched together. I just hadn't known we were fighting the same battle.
+
 "Then I found Catherine. Marcus's sister. She'd been doing the same thing I was—collecting evidence, building a case, waiting for the right moment." He smiled grimly. "Turns out I wasn't the only one who'd spent decades nursing a grudge against Eleanor Ashworth."
 
 "Catherine mentioned an informant inside the Ashworth house. Someone feeding her information."

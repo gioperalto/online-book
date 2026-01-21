@@ -10,7 +10,7 @@ I'd told Reyes where I was going. She'd argued, threatened, nearly ordered me no
 
 "Some ghosts you have to face alone," she'd said, pressing a backup weapon into my hand. "But you call me the second something goes wrong. And Marlowe? Don't be a hero."
 
-I hadn't promised anything.
+I hadn't promised anything. Reyes knew me well enough not to expect promises I wouldn't keep. She'd been there in '04 when I went after the Harbor Street killer alone because backup was forty minutes away and I'd heard screaming from inside the warehouse. She'd been there in '09 when I walked into the Vincenzo compound with nothing but my badge and a bluff, and walked out with three hostages and a confession. "Marlowe's luck," they called it at the station. But it wasn't luck—it was the particular stubbornness of a man who'd spent his early career being handed cases designed to fail and had developed a pathological need to prove the doubters wrong. The glory days were behind me now, but the stubbornness remained.
 
 The dock creaked under my weight as I approached, each step announcing my arrival to whoever waited inside. My hand rested on my service weapon, but I didn't draw it. Not yet. Something told me that guns weren't the currency being exchanged tonight.
 

@@ -14,6 +14,8 @@ I parked behind a coroner's van that was still there from yesterday—or perhaps
 
 Who had done what? And why?
 
+In my glory days, a case like this would have been the kind of puzzle I lived for. Back when Chief Harrison used to drop impossible files on my desk with that particular smirk—the one that said he was betting against me. The dockside murders in 2003, where three longshoremen turned up dead over six weeks and everyone assumed it was gang-related. I'd slept in my car for three weeks watching the shipping manifests until I noticed the pattern: every death coincided with a specific container ship's arrival. The cargo was cocaine, and the men had seen too much. The department gave me a commendation and a week's vacation I never took. Those were the days when my reputation was built on what I could do, not what I'd done decades ago. Now the rookies at the station traded stories about "Marlowe's cases" like they were legends, and I was just the tired old detective those legends were attached to.
+
 The front door opened before I could knock, and Diana Ashworth stood framed in the doorway, looking like she hadn't slept. Her makeup was smudged, her hair loose around her shoulders, and there was a fragility to her that hadn't been present during our first encounter.
 
 "Detective." Her voice was flat, exhausted. "We've been waiting for you."

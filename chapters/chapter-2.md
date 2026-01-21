@@ -4,6 +4,8 @@ Victor Ashworth looked exactly like what old money produces after four generatio
 
 "Detective Marlowe." He didn't rise when I entered, just gestured vaguely toward a chair across from him with a hand that held a crystal tumbler of what looked like scotch. At this hour. "I remember you. You used to come around when I was a boy. Something to do with my father's shipping company, wasn't it?"
 
+He was testing me, I realized. Trying to establish that he knew things about me, that the power dynamic here wasn't as simple as detective and suspect. It was a tactic I'd seen before—usually from people with something to hide. But Victor didn't know the half of it. He didn't know that twenty years ago, when I was still the department's rising star fresh off solving the Kellerman kidnapping, I'd investigated a string of embezzlement cases that led right to the edge of Ashworth holdings before the chief at the time told me to back off. "Insufficient evidence," he'd said, though we both knew the real reason. Back then, the brass kept handing me cases they expected me to fail—political hot potatoes, cold cases gone frigid, investigations that had broken better detectives. The Ashworth connection was supposed to be another one of those. But I'd gotten too close, and they'd yanked me off before I could finish the job.
+
 I didn't sit. I never did, in the first interview—it put suspects at ease, and I didn't want Victor Ashworth at ease. Instead, I positioned myself near the fireplace, where I could watch his face in the morning light streaming through the bay windows. The rain had started again, drops sliding down the glass like tears the family hadn't bothered to shed.
 
 "I'm sorry for your loss, Mr. Ashworth."

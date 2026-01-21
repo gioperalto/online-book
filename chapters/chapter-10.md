@@ -10,6 +10,8 @@ She looked up when I approached, her posture straightening almost imperceptibly.
 
 I pulled a metal chair from the corridor—its legs scraping against the concrete floor with a sound that echoed off the walls—and sat facing her through the bars. The clock on the wall read 11:47 AM. Three hours since I'd arrested her at the estate, the drive to the station having taken nearly half an hour with Diana sitting silent in the back of the patrol car. Three hours since I'd thought the case was closed.
 
+But cases are never closed until they're closed. That was something old Sergeant Miller used to say back when I was breaking into homicide, back when the brass assigned me every cold case and political landmine they could find. "Marlowe," he'd tell me, "the brass thinks they're setting you up to fail. They don't know you yet." He was right. By the time they figured out I wasn't going to fail, I'd solved the Patterson disappearance—a case that had sat cold for eight years—and the department had to either promote me or explain why they weren't. They promoted me. And kept handing me impossible cases, only now because they expected me to solve them. My reputation in this small town had become a self-fulfilling prophecy.
+
 "You said you poisoned Eleanor to incapacitate her. That you and Victor planned to search her office while she was disoriented."
 
 "Yes."
