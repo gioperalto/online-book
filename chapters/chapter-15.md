@@ -1,12 +1,10 @@
 # A Fourth Hand Revealed
 
-TODO: Review this chapter
-
 Margot Ashworth looked different than she had at the estate. Gone was the fragile demeanor, the nervous energy that had made her seem like a bird ready to take flight at any sudden movement. In the dim light of my kitchen, she appeared solid, present—a woman who had finally stopped pretending.
 
 "You're not supposed to leave the estate." I kept my weapon at my side but didn't holster it. "The police—"
 
-"The police have bigger problems tonight than keeping track of me." Margot set the photograph down carefully. "I heard about Morrison and Caldwell. About the FBI. Your Captain Reyes called to inform my brother that the investigation was expanding." A thin smile crossed her face. "Victor was not pleased."
+"The police have bigger problems tonight than keeping track of me." Margot set the photograph down carefully. "I heard about Morrison and Caldwell. About the FBI. Your captain called to inform my brother that the investigation was expanding." A thin smile crossed her face. "Victor was not pleased."
 
 "How did you get in here?"
 
@@ -48,52 +46,6 @@ Margot looked at me, and in her eyes I saw something that went beyond fear. It w
 
 ---
 
-The name landed with the weight of a verdict. David Sterling—Eleanor's attorney of thirty-seven years. The man who had helped cover up Marcus Webb's murder, who had drafted the documents that kept Eleanor's network hidden, who had cooperated so willingly when I'd questioned him about the night of Eleanor's death.
-
-"You're certain?"
-
-"I'd know his face anywhere." Margot wiped her tears with the back of her hand. "He was my godfather, Detective. He held me when I was baptized. He came to every birthday party, every graduation. He sat across from me at countless family dinners while my mother poisoned everything good in our lives." Her voice hardened. "And he was the one who drove the letter opener into her chest."
-
-"Why didn't you tell me this before?"
-
-"Because I didn't remember. I didn't want to remember." Margot's laugh was bitter, hollow. "Do you have any idea what it's like to watch someone you've known your entire life commit murder? My mind just—shut down. Blocked it out. Replaced it with a story that made more sense: Eleanor killed herself, a final act of control. That's what everyone wanted to believe anyway."
-
-I thought about Sterling's confession—how willingly he'd admitted to decades of complicity in Eleanor's crimes. How cooperative he'd been, offering information about the network, about Eleanor's operations. It had seemed like the unburdening of a guilty conscience.
-
-But what if it had been something else entirely? What if Sterling had been confessing to the smaller crimes to distract from the larger one?
-
-"He's been playing me." The words tasted like ash. "This whole time, he's been feeding me information, acting like a reluctant witness finally telling the truth. And all along—"
-
-"All along, he was the one who finished it." Margot leaned forward. "But here's what I don't understand, Detective. Why? My mother trusted Sterling completely. He was one of the only people in the world she actually trusted. What could possibly make him turn on her like that?"
-
-The question hung in the air between us. I thought about everything Sterling had told me—about the phone call from Robert Marlowe that had terrified Eleanor, about the changes to the will, about the network's operations.
-
-And then I remembered something else. Something Sterling had said during our last conversation.
-
-*Eleanor asked me to prepare a new will. One that would cut out everyone—Victor, Julian, even the charities. She wanted to burn the family to the ground.*
-
-"The will." I stood up, the pieces suddenly clicking into place. "Sterling said Eleanor was going to change her will again—to disinherit everyone. But he also said she died before signing it."
-
-"That's right. The old will is still in effect. Victor gets sixty percent, Julian gets his trust—"
-
-"And Sterling?" I interrupted. "What does Sterling get?"
-
-Margot's face went pale. "I—I don't know. I never thought to ask. Mother's will has been revised so many times over the years, I stopped keeping track."
-
-"I need to see the current will. The one that's actually in effect."
-
-"It's at Sterling's office. He has all the originals."
-
-I grabbed my jacket from the back of the chair. "Come with me. You're going to give a formal statement about what you saw."
-
-"Detective—" Margot hesitated. "There's something else. Something Sterling said to my mother before he—before it happened."
-
-"What?"
-
-"He said: 'I've given you thirty-seven years, Eleanor. Thirty-seven years of my life, my conscience, my soul. And this is how you repay me? This is my reward?'" Margot's voice shook. "And my mother—dying, poisoned, just strangled by her own grandson—she laughed at him. She actually laughed and said, 'You were never anything but a tool, David. Tools don't get rewarded. They get replaced.'"
-
----
-
 The drive to Sterling's office took fifteen minutes. Margot sat in the passenger seat, her hands folded tightly in her lap, staring out at the dark streets of Millbrook. The town looked peaceful at this hour—quiet houses, sleeping families, ordinary lives untouched by the rot that had been growing at its center for decades.
 
 I called Captain Reyes on the way, keeping my voice level as I explained what Margot had revealed.
@@ -124,7 +76,7 @@ Inside, the building smelled like old paper and leather. Sterling's office was o
 
 The door to Sterling's office was ajar. Light spilled out into the hallway, accompanied by the soft clink of ice against glass.
 
-"Come in, Detective Marlowe." Sterling's voice was calm, almost friendly. "I've been expecting you."
+"Come in, Detective Marlowe." Sterling's voice was calm, almost friendly.
 
 I pushed the door open. Sterling sat behind his massive oak desk, a crystal tumbler of whiskey in his hand. He looked composed, relaxed—a man who had made peace with something.
 
@@ -132,122 +84,178 @@ I pushed the door open. Sterling sat behind his massive oak desk, a crystal tumb
 
 "You killed Eleanor Ashworth."
 
-"I finished what the others started." Sterling took a sip of his whiskey. "Diana poisoned her. Julian strangled her. All I did was end her suffering." He smiled thinly. "Call it a mercy killing."
+Sterling set down his glass. The ice clinked once, then settled. His expression didn't change, but something behind his eyes shifted—not guilt, not fear, but something closer to exhaustion.
 
-"That's not how the law sees it."
+"No, Detective. I did not."
 
-"The law." Sterling laughed, the sound hollow and bitter. "I spent thirty-seven years helping Eleanor Ashworth circumvent the law. I drafted documents that made murders look like accidents. I filed papers that buried evidence. I sat in this very office and watched her destroy lives, families, entire communities—and I did nothing. Less than nothing. I helped." He set the glass down on his desk. "So please, Detective, don't lecture me about the law."
+"I have an eyewitness."
 
-"Why?" I kept my weapon trained on him. "Why did you do it? After all those years, after everything you helped her do—why kill her that night?"
+"Your eye witness doesn't have the full story." Sterling's voice remained measured, as though he were explaining a particularly tedious legal precedent.
 
-Sterling was quiet for a long moment. The clock on his wall—an antique grandfather clock that had probably cost more than my car—ticked away the seconds.
+I kept my weapon trained on him. "Explain."
 
-"Because she was going to destroy me too." He reached slowly into his desk drawer—I tensed, but he withdrew only a folded document. "Do you know what this is?"
+Sterling rose slowly, hands visible, and moved to the window. The amber streetlight cast deep shadows across his face, making him look older than his sixty-two years. He had the look of a man who had been carrying something heavy for a very long time.
 
-"The will."
+"I heard the commotion from my room. Footsteps, a door slamming, then silence—the kind of silence that isn't natural at that hour. I went to the library." He paused, staring at something beyond the glass. "Eleanor was slumped in her chair. The poison had already done its work—she was barely conscious, gasping. The marks on her throat were fresh. Whoever had strangled her had fled, but they'd done the job thoroughly enough."
 
-"Not just any will. This is the will Eleanor intended to sign the night she died. The one that would have cut out her entire family." Sterling unfolded it and held it up. "Would you like to know what it says about me?"
+"And you just happened to find her."
 
-"Tell me."
+"I found her dying, Detective. There's a difference." Sterling turned to face me. "She recognized me. Despite everything—the poison clouding her mind, the damage to her throat—she knew who I was. And she spoke."
 
-"For thirty-seven years, I had an arrangement with Eleanor. In exchange for my services, I would receive a bequest upon her death. Not the largest share, but substantial—three million dollars and the deed to a property in Maine where I'd hoped to retire." Sterling's jaw tightened. "This new will—the one she was going to sign—eliminated that arrangement entirely. Zero dollars. Zero property. And a clause explicitly stating that I was being removed for 'services no longer meeting expectations.'"
+"What did she say?"
 
-"So you killed her for money."
+Sterling's jaw tightened. "She said: 'Don't the new will. Promise me, David. Promise me.'"
 
-"I killed her because she used me up and threw me away like garbage." Sterling's voice rose, the first crack in his composure. "Thirty-seven years. I gave her thirty-seven years of my life, my career, my morality. I could have been anything—a judge, a partner at a major firm, a respected member of this community. Instead, I became Eleanor Ashworth's errand boy. Her fixer. Her accomplice." He picked up his glass again, hand trembling. "And when I was no longer useful, she discarded me. No gratitude. No loyalty. Just cold calculation, the way she treated everyone."
+The words hung in the air between us. I thought about the unsigned document, the one that would have disinherited Victor entirely and given everything to Julian.
 
-"So you waited until she was dying—poisoned and strangled—and you finished the job."
+"She changed her mind."
 
-"I made a decision. If Eleanor died before signing the new will, the old one would remain in effect. I would get my bequest. I would have something to show for those thirty-seven wasted years." Sterling drained his glass. "Call it survival instinct. Call it revenge. Call it whatever you want. But don't pretend you wouldn't have done the same."
+"In the end, yes." Sterling returned to his chair, lowering himself into it as though his bones ached. "Thirty-seven years I served that woman. Thirty-seven years of watching her control, manipulate, destroy anyone who stood in her way. And in her final moments, with death closing in, she chose to protect the very children she'd spent her life tormenting."
 
-"I'm not like you."
+"That doesn't explain the letter opener."
 
-"No?" Sterling smiled, and there was something knowing in it, something that made my skin crawl. "You're investigating the murder of a woman who destroyed your grandmother, killed your great-grandfather, and controlled this town for sixty years. And you've been doing it by the book, playing by the rules, pretending that justice actually exists." He shook his head. "Deep down, Detective, you're glad she's dead. We all are. The only difference is that I had the courage to do something about it."
+Sterling closed his eyes. When he opened them again, they were wet.
 
-I heard sirens in the distance—Reyes must have dispatched backup. Sterling heard them too, and something shifted in his expression.
+"She asked me to end it. The poison was slow—she would have suffered for hours. The strangulation had crushed her windpipe but hadn't finished the job. She was drowning in her own blood, Detective, and she grabbed my hand and put the letter opener in it and she begged me." His voice cracked. "Eleanor Ashworth never begged for anything in her life. But she begged me to end her suffering."
 
-"The FBI operation tomorrow night," I said. "You were supposed to testify. To help bring down the network."
+"So you did."
 
-"I still can. I have evidence, Detective. Thirty-seven years of evidence—documents, recordings, photographs. Enough to put a dozen people in prison for the rest of their lives." Sterling leaned forward. "Including the Adjuster."
+"I helped her guide the blade. Her hand on mine, choosing the angle, choosing the moment." Sterling wiped his eyes with the back of his hand—an oddly vulnerable gesture from a man who had seemed so composed moments before. "She wanted to control even her own death. Even at the very end."
 
-The name sent a chill through me. "You know who the Adjuster is?"
+I didn't lower my weapon, but something in my certainty had begun to erode. Margot had seen what she'd seen, but darkness and fear and distance could twist perception. And Sterling's account matched the medical examiner's findings—the angle consistent with self-infliction.
 
-"I know everything. I was Eleanor's right hand for almost four decades. I attended meetings, facilitated payments, drafted contracts." Sterling's eyes were bright now, feverish. "Let me testify tomorrow. Let me help you bring them all down. And in exchange—"
+"Why should I believe you?"
 
-"In exchange, what? You walk free?"
+Sterling laughed, but there was no humor in it. "You shouldn't. I'm a lawyer, Detective. Lying is what we do." He picked up his glass again, swirling the remaining whiskey. "But I'll tell you something I've never told anyone. Eleanor Ashworth was the closest thing to a mother I ever had."
 
-"I accept responsibility for what I did to Eleanor. I'll plead guilty to whatever charge you want. But let me finish what I started. Let me help you destroy the network that Eleanor built." Sterling spread his hands. "It's the only good thing I've done in thirty-seven years. Don't take it away from me now."
+The confession caught me off guard. I said nothing, waiting.
 
-The sirens were closer now, red and blue lights painting the windows.
+"My own mother died when I was seven. Father drank himself to death by the time I was fourteen. I put myself through law school working nights at a warehouse, and when I graduated, I had nothing—no connections, no family name, no future." Sterling's voice had gone distant, lost in memory. "Eleanor found me. Saw something in me. She paid off my student loans, set me up in this practice, introduced me to every person who mattered in this town. She made me."
 
-"That's not my decision to make," I said. "That's for the FBI and the district attorney."
+"She also made you complicit in decades of criminal activity."
 
-Sterling nodded slowly. "Then I suppose we'll find out together what kind of justice this system actually delivers."
+"Yes. And I went along willingly, because I owed her everything and because—" He stopped, struggling with something. "Because she needed me. Her own children were weak. Victor was just like his father. Margot, so fragile she shattered every time Eleanor looked at her wrong. Julian, smart enough but soft, more interested in sea creatures than in protecting his family's legacy."
+
+Sterling's lip curled with something close to contempt.
+
+"Eleanor needed instruments, Detective. People who could execute her vision, protect her interests, keep the wolves from the door. Her children couldn't be those instruments. They didn't have the steel for it. So she turned to me." He drained the last of his whiskey. "In this business, you have to be tough. Sharks are always circling—competitors, prosecutors, journalists, anyone who smells blood in the water. Eleanor kept them at bay for sixty years. She protected this family from threats they never even knew existed. And now she's gone, and those sharks are going to tear the Ashworths apart."
+
+I heard the admiration in his voice, even now. Even after everything.
+
+"You loved her."
+
+"I respected her. I served her. Maybe even feared her." Sterling set the empty glass down. "Love is too simple a word for what Eleanor Ashworth inspired in me."
+
+Sterling was quiet for a long moment. The grandfather clock ticked its steady rhythm. When he spoke again, his voice had changed—harder, more focused.
+
+"Who told her I was there that night?"
+
+I kept my expression neutral, but my mind was racing. Margot had been so certain, so composed when she'd arrived at my kitchen. Gone was the fragile demeanor. She'd known exactly what to say and how to say it.
+
+"I'm not going to reveal my sources."
+
+"Detective." Sterling leaned forward, and for the first time I saw something like fear in his eyes. "If someone is feeding you information and pointing you toward me as the killer—that someone has an agenda. And if that agenda involves framing me for Eleanor's murder while the real orchestrators escape justice, then you need to tell me who it is."
+
+"I can't do that."
+
+"Can't, or won't?"
+
+I thought about Margot sitting in my car outside, her hands folded in her lap, waiting. If Sterling was telling the truth. If he hadn't murdered Eleanor, but instead helped end her suffering, then my assumptions were wrong. And if Sterling truly hated Eleanor's children for their weakness, what would he do if he learned it was Margot who had come forward?
+
+"Won't."
+
+Sterling studied me for a long moment. Then he nodded slowly, as though he'd confirmed something he'd already suspected.
+
+"You're protecting someone. One of Eleanor's children, I assume. Margot, most likely." His jaw tightened. "I understand loyalty, Detective. But understand this: there's a chance you're being manipulated."
+
+I holstered my weapon. Sterling wasn't a flight risk, and if his story was true, he wasn't a murderer—at least not in the way Margot had claimed.
+
+"Stay in Millbrook," I said. "Don't leave town."
+
+"I've been in Millbrook for thirty-seven years, Detective. I'm not going anywhere."
 
 ---
 
-They took Sterling into custody just before 3 AM. Agent Torres—Margaret—arrived with a team of FBI agents, her face unreadable as she watched him being led out in handcuffs. When she caught my eye, she nodded once—a silent acknowledgment that the case had just gotten more complicated.
+I stepped outside to find Margot still in the passenger seat, her face pale in the streetlight. She searched my expression as I approached the car.
 
-Margot gave her formal statement at the station, her voice steady as she recounted what she'd witnessed. Diana's poisoning. Julian's strangulation. And Sterling's final, fatal thrust of the letter opener.
+"Well?"
 
-Three hands had touched Eleanor Ashworth's death. Four, if you counted Eleanor herself—because the medical examiner had been right about one thing. The angle of the wound was consistent with self-infliction. Sterling had positioned the letter opener, but Eleanor, in her final moment of consciousness, had grabbed his hand and helped drive it home.
+"He tells a different story." I didn't elaborate. "I'm taking you back to the estate."
 
-Even dying, she had wanted to control the ending.
+The drive was silent. I dropped Margot at the gates, where a uniformed officer was still stationed, and watched her walk up the long driveway toward the dark mansion. She didn't look back.
 
-"She chose it," Margot said quietly, after the formal interview was over. "Even with Diana's poison in her veins and Julian's fingerprints on her throat and Sterling's hand on the weapon—she still found a way to make it her decision."
+I called Reyes from the car.
 
-"Some people can't let go of control. Even at the end."
+"Sterling's story doesn't match Margot's," I said. "He claims Eleanor asked him to end her suffering. Says she changed her mind about the new will at the last moment, told him not to file it."
 
-"No." Margot looked at me with those haunted eyes. "Some people are so afraid of anyone else having power over them that they'd rather die by their own hand than let someone else take credit."
+"You believe him?"
 
-I thought about my grandmother, who had lived her whole life under Eleanor's shadow. About Marcus Webb, murdered because he dared to love the wrong woman. About Catherine Webb, spending decades gathering evidence while cancer ate her from the inside. About Margaret—Agent Torres—sacrificing thirty years of her life to infiltrate and destroy the network from within.
+"I don't know what I believe. But I want him detained until we can verify his account. He's not a flight risk, but if he's involved in this—either as a killer or as a witness to who really was—I don't want him talking to the wrong people."
 
-So many lives, twisted and broken by one woman's need for control.
+"I'll send someone to pick him up. Marlowe—" Reyes hesitated. "You sound like hell. When's the last time you slept?"
 
-And now, finally, it was ending.
+"I'll sleep when this is over."
 
----
+I was still parked outside the Ashworth estate gates when my phone buzzed. Unknown number. The screen glowed in the darkness:
 
-Dawn was breaking when I finally left the station. The sky over Millbrook was turning pink and gold, the first light of a new day touching the sleeping town. In a few hours, everything would be different. The arrests of Morrison and Caldwell had already made the morning news. By tonight, if the warehouse operation succeeded, the entire network would be exposed.
+*The Adjuster is in town. He's here to tie up loose ends. Be careful who you trust.*
 
-But as I walked to my car, my phone buzzed with a new message. Unknown number.
+My hands tightened on the wheel. I typed back: *Who is this?*
 
-*The meeting tonight is a trap. Sterling talked before you arrested him. They know you're coming.*
+No response.
 
-I stared at the screen, my blood running cold. If the network knew about the operation—if they were expecting us—
+I stared at the message, reading it again. The Adjuster. The ghost who had haunted this case from the beginning, the professional cleaner who made murders look like accidents.
 
-Another message appeared.
+Loose ends.
 
-*The Adjuster is already in Millbrook. He's been here since yesterday. And he's not coming to the warehouse.*
+My mind went first to myself. To Rosa, unconscious in a hospital bed after the attack at the chapel. Someone had already tried to silence her once.
 
-My hands were shaking as I typed: *Where is he?*
+Then to my family.
 
-The response came immediately.
+Catherine. My father.
 
-*Where do you think? He's tying up loose ends. The witnesses. The evidence. Everyone who can testify.*
+The thought unsettleed me. Catherine was dying of cancer, barely mobile, spending her final days gathering evidence against Eleanor. And my father—
 
-I thought about Catherine Webb, frail and dying. About Rosa Martinez in her hospital bed. About my father at the cemetery.
+I called Reyes again. "I need you to double the security on Rosa Martinez's room at Millbrook General. Now."
 
-*Who's the target?*
+"Marlowe, what's going on?"
 
-The phone rang. I answered without thinking.
+"Just do it. I'll explain later."
 
-"Detective Marlowe." The voice was distorted, mechanical—the same voice from the chapel attack. But this time, there was something different in it. Something urgent. "Listen very carefully. The Adjuster's first target is your father. He's at the old Webb property on the outskirts of town—the house where Marcus grew up. He went there this morning to retrieve something Catherine told him about."
+I hung up before she could argue and dialed Catherine's number. She answered on the third ring, her voice thin but alert.
 
-"How do you know this?"
+"James. It's late."
 
-"Because I've been tracking the Adjuster for fifteen years. He's the one loose end I could never tie up. The one piece of Eleanor's network I could never identify." The voice paused. "But I know his methods. And I know he's going to eliminate everyone connected to the Webb family before disappearing forever."
+"Where are you?"
 
-"Who are you?"
+"At my hotel. Why?"
 
-"You already know." The mechanical distortion faded, and I heard Margaret's voice—Agent Torres, my aunt. "I've been protecting this family my whole life, James. But I can't be everywhere. I need you to get to your father before the Adjuster does. Can you do that?"
+"And my father? Where is he?"
 
-"Yes."
+A pause. When Catherine spoke again, her voice had gone careful. "I sent him to collect something for me. Documents I couldn't transport myself. They're at Marcus's old residence—the house where he grew up, before Eleanor had him transferred to Seattle."
 
-"Then go. Now." The line went dead.
+My blood went cold. Marcus Webb's childhood home. The place where the whole tragedy had started, sixty years ago.
 
-I was running before I even made the conscious decision. Throwing myself into the car, gunning the engine, tearing through the quiet streets of Millbrook toward the edge of town.
+"Catherine, how long ago did he leave?"
 
-My father. The Adjuster. The house where Marcus Webb had grown up, before Eleanor Ashworth had stolen his life.
+"About an hour. James, what's wrong?"
 
-The final pieces were falling into place, and the ghost I'd been chasing through decades of secrets was finally about to show its face.
+I was already turning the key in the ignition, the engine roaring to life.
+
+"Stay at the hotel. Lock your door. Don't open it for anyone."
+
+"James—"
+
+"Promise me."
+
+"I promise. But tell me what's happening."
+
+I couldn't. I didn't have words for the fear that was clawing up my throat, the certainty that I was already too late. The Adjuster was in Millbrook, tying up loose ends. And my father, the biological son of Marcus Webb, was alone in the very place this all started.
+
+"I'll call you when it's over."
+
+I hung up and gunned the engine, tearing through the empty streets of Millbrook toward the eastern edge of town. The old Webb place sat on three acres of overgrown property, a Victorian farmhouse that had been empty for decades. I'd never been there. I knew of Marcus Webb and the tragedy that befell him. Not as my grandfather who lost his life far too early.
+
+But now my father was there, alone, and somewhere in the darkness, the Adjuster was hunting.
+
+The final pieces were falling into place, and the ghost I'd been chasing through decades of secrets was finally about to show its face. History wasn't going to repeat itself if I could help it.

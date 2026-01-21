@@ -1,5 +1,7 @@
 # Midnight Confessions
 
+#### "Closure is something they put in books. Real life doesn't work that way." - Rosa Martinez
+
 The hours between dusk and midnight crawled like wounded things. I drove back to my apartment to shower, change, and pretend I was the kind of man who could eat dinner when his world was tilting on its axis. The bourbon on my kitchen table remained untouched. The photograph remained face-down. Some routines are just habits; others are armor.
 
 I arrived at the old Ashworth chapel at eleven-forty, twenty minutes early because that's how you survive in this business. You get there first. You watch. You wait.

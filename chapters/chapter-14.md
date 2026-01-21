@@ -1,5 +1,7 @@
 # Shadows in the Windows
 
+#### "You don't close a wound by pretending it never happened. You close it by letting it heal." - Rosa Martinez
+
 The text message burned in my mind as I drove through the quiet streets of Millbrook. *Look closer at your own house, Detective.*
 
 My own house. The words could mean a dozen things—my home, my family, my department. Someone still inside the network, watching me, waiting. Someone who knew that Morrison and Caldwell were only the beginning.
