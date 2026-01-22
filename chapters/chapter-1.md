@@ -36,7 +36,7 @@ I felt something cold settle in my chest, a familiar weight I hadn't felt in thr
 
 "I'll be there in twenty minutes."
 
-I hung up and sat motionless for a long moment, listening to the silence of my kitchen. The refrigerator hummed its steady drone. Another car passed on the street outside, its headlights sweeping briefly across the ceiling before disappearing. I finished the bourbon in one swallow—waste not, want not—and reached for my jacket.
+I hung up and sat motionless for a long moment, listening to the silence of my kitchen. The refrigerator hummed its steady drone. I finished the bourbon in one swallow—waste not, want not—and reached for my jacket.
 
 The drive through the empty streets of Millbrook gave me time I didn't want. Down Elm to River Road, past the shuttered storefronts of the old downtown, across the iron bridge that had been promising to collapse for as long as I could remember. The traffic lights cycled through their colors for an audience of no one, and I stopped at each red like the good citizen I pretended to be. The radio muttered something about overnight temperatures and weekend forecasts. I turned it off.
 
