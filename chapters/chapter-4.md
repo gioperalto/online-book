@@ -96,21 +96,19 @@ Rosa nodded slowly. "Your grandmother was poisoned, Detective. The first time, s
 
 "I don't give you answers. I give you questions." Rosa picked up the brass key from the box. "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there." She pressed the key into my palm. "The path is yours to walk now. The truth is yours to find."
 
-I sat in the darkness, turning the key over in my fingers. My grandmother hadn't just left me evidence—she'd left me a trail of breadcrumbs, a detective's treasure hunt spanning decades.
+I sat in the darkness, turning the key over in my fingers.
 
 "Why didn't she go to the police? Why didn't she expose Eleanor while she was still alive?"
 
-Rosa's laugh was bitter. "Ask yourself who owned the police in this town for the last sixty years. Then ask yourself why your grandmother chose to leave her evidence to a detective she trusted—her own grandson—instead of anyone else."
+Rosa's laugh was bitter. "Ask yourself who owned the police in this town for the last sixty years."
 
-I looked at the key, the clipping, the handwritten list of things she couldn't say aloud. My grandmother had known she was being hunted. She'd prepared for it. And she'd waited, patiently, for someone who would finally be able to follow the trail.
+I looked at the key. My grandmother had known she was being hunted. And she'd waited, patiently, all those years, knowing there was nothing she could do to Eleanor.
 
 "The locket," I said slowly. "She was wearing it when she confronted Eleanor. It disappeared. And now Eleanor dies clutching it. Why?"
 
-"That's the right question." Rosa's eyes glittered. "Now find the right answer."
+"I don't know." Rosa's eyes wavered.
 
-A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open.
-
-Rosa went rigid. "Someone followed us."
+A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open. Rosa went rigid. Someone had followed us.
 
 I was on my feet in an instant, my weapon drawn, my flashlight sweeping toward the entrance. "Who's there?"
 
