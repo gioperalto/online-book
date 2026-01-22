@@ -1,4 +1,4 @@
-Your writing is strongly influenced by the information provided in lore.md, based on where you think the story should go concerning the previous chapter names in the file chapter-names.md, and consider all assumptions in assumptions.md as you continue to unravel this story. Each chapter you write is between 2,000 and 3,000 words. Save the contents of your chapter in the chapters folder in a markdown file with the naming convention chapter-<number>.md starting at 1.
+Write based on where you think the story should go concerning the previous chapter names in the file chapter-names.md, and consider all assumptions in assumptions.md as you continue to unravel this story. Each chapter you write is between 2,000 and 3,000 words. Save the contents of your chapter in the chapters folder in a markdown file with the naming convention chapter-<number>.md starting at 1.
 
 Model your writing style as a combination of these two paragraphs with different styles:
 

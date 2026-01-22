@@ -30,11 +30,11 @@ Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of 
 
 She nodded slowly, picking her way through the debris toward the altar. I followed, my flashlight beam tracking her movements.
 
-"I have worked for the Ashworths for thirty-five years," she said, not looking at me. "I started when I was twenty-eight. A young woman from Guadalajara, barely speaking English, desperate for work. Mrs. Ashworth. The old Mrs. Ashworth, Eleanor's mother-in-law. She hired me as a kitchen maid. Said she liked the way I didn't chatter."
+"I have worked for the Ashworths for longer than I wish to remember," she said, not looking at me. "I started when I was a teenager. A young woman from Guadalajara, barely speaking English, desperate for work. Mrs. Ashworth. The old Mrs. Ashworth, Eleanor's mother-in-law. She hired me as a kitchen maid. Said she liked the way I didn't chatter."
 
 She reached the altar and turned to face me, her dark eyes glittering in the combined light of our flashlights.
 
-"In thirty-five years, I have seen many things. Things that would make a priest weep. Things that would make a judge vomit." Her voice was flat, matter-of-fact. "I have kept silent because that is what you do in this family. You see nothing. You hear nothing. You remember nothing."
+"I have seen many things in my lifetime. Things that would make a priest weep. Things that would make a judge vomit." Her voice was flat, matter-of-fact. "I have kept silent because that is what you do in this family. You see nothing. You hear nothing. You remember nothing."
 
 "But now?"
 
@@ -50,7 +50,7 @@ My grandmother. Young, beautiful, standing beside a man I didn't recognize in fr
 
 Rosa didn't answer. Instead, she reached into her coat and pulled out a small wooden box, weathered with age. She set it on the altar between us.
 
-"Your grandmother gave me this. The day before she died." Rosa's eyes met mine in the flickering light. "She said: 'When James is ready, show him the path. Don't give him the answers—give him the questions.'"
+"Your grandmother gave me this. The day before she died." Rosa's eyes met mine in the flickering light.
 
 I stared at the box. "What's inside?"
 
@@ -58,13 +58,13 @@ I stared at the box. "What's inside?"
 
 My hands trembled as I lifted the lid. Inside, nestled in faded velvet, were three items: a newspaper clipping yellowed with age, a small brass key, and a folded piece of paper covered in my grandmother's handwriting.
 
-I picked up the newspaper clipping first. The headline read: *SHIPPING YARD ACCIDENT CLAIMS WORKER'S LIFE - Seattle, 1964*. The photograph beneath showed a crane, collapsed, and in the background, barely visible, a young man's face circled in pencil.
+I picked up the newspaper clipping first. The headline read: SHIPPING YARD ACCIDENT CLAIMS WORKER'S LIFE - Seattle, 1964. The photograph beneath showed a crane, collapsed, and in the background, barely visible, a young man's face circled in pencil.
 
 "Who circled this?"
 
 "Read the name in the article."
 
-I scanned the faded text. *Marcus Webb, 34, a transfer from the Millbrook shipping office...*
+I scanned the faded text. Marcus Webb, 34, a transfer from the Millbrook shipping office...
 
 My blood ran cold. I looked at the photograph Rosa had shown me—the man standing with my grandmother, the same strong jaw, the same eyes.
 
@@ -72,15 +72,9 @@ My blood ran cold. I looked at the photograph Rosa had shown me—the man standi
 
 Rosa said nothing. She simply pointed at the folded paper.
 
-I opened it. My grandmother's handwriting—I'd recognize it anywhere—but the words made no sense at first:
+I opened it. My grandmother's handwriting. I'd recognize it anywhere, but the words made no sense at first:
 
-*Things I Cannot Say:*
-*- E. wanted what she could not have*
-*- M. chose me instead*
-*- Three days after I confronted her, they found me*
-*- The locket was GONE when I woke in the hospital*
-*- Natural causes. That is what money buys.*
-*- If you're reading this, I did not survive the second attempt*
+Things I Cannot Say: - E. wanted what she could not have - M. chose me instead - Three days after I confronted her, they found me - The locket was GONE when I woke in the hospital - Natural causes. That is what money buys. - If you're reading this, I did not survive the second attempt
 
 "Second attempt?" The words came out strangled.
 
@@ -90,19 +84,13 @@ I did the math in my head. Thirty years. My grandmother had lived thirty years a
 
 "She woke in the hospital. After the first 'heart attack.' But she wrote 'if you're reading this, I did not survive the second attempt.'"
 
-Rosa nodded slowly. "Your grandmother was poisoned, Detective. The first time, she survived. The second time..." Her voice trailed off.
+Rosa nodded slowly. "Your grandmother was murdered, Detective. The first attempt, she survived. The second time..." Her voice trailed off.
 
-"Eleanor killed her."
+Eleanor had her killed.
 
-"I don't give you answers. I give you questions." Rosa picked up the brass key from the box. "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there." She pressed the key into my palm. "The path is yours to walk now. The truth is yours to find."
+"This opens a safe deposit box at First National Bank. Your grandmother's secrets are there." Rosa picked up the brass key from the box and pressed it into my palm. "The path is yours to walk now. The truth is yours to find."
 
-I sat in the darkness, turning the key over in my fingers.
-
-"Why didn't she go to the police? Why didn't she expose Eleanor while she was still alive?"
-
-Rosa's laugh was bitter. "Ask yourself who owned the police in this town for the last sixty years."
-
-I looked at the key. My grandmother had known she was being hunted. And she'd waited, patiently, all those years, knowing there was nothing she could do to Eleanor.
+I sat in the darkness, turning the key over in my finger. My grandmother had known she was being hunted. And she'd waited, patiently, all those years, knowing there was nothing she could do to Eleanor.
 
 "The locket," I said slowly. "She was wearing it when she confronted Eleanor. It disappeared. And now Eleanor dies clutching it. Why?"
 
@@ -170,7 +158,7 @@ I heard the scrape of a match, and suddenly there was light. A candle, held in a
 
 "That's not the right question." The figure set the candle on a nearby surface. The altar, I realized. Then crouched down to my level. "The right question is: what do you know?"
 
-"I know Eleanor Ashworth was murdered. I know someone in that house killed her. And I know."
+"I know Eleanor Ashworth was murdered. I know someone in that house killed her. And I know—"
 
 "You know about the locket." The masked figure leaned closer. "Rosa told you the story. The tragic romance, the jealous matriarch, the convenient accidents. She told you your grandmother was murdered."
 
@@ -184,7 +172,7 @@ Something in the voice shifted. A crack in the artificial distortion. A hint of 
 
 "So you killed her." It wasn't a question. "You poisoned her, strangled her, stabbed her. Made sure she was dead three times over."
 
-"Justice," the figure said. "Thirty years overdue, but justice nonetheless."
+"Justice," the figure said. "Long overdue, but justice nonetheless."
 
 "There's no justice in murder."
 
@@ -192,7 +180,7 @@ Something in the voice shifted. A crack in the artificial distortion. A hint of 
 
 I struggled against my bonds, feeling the zip ties bite into my wrists. "So what now? You kill me too? Add another body to your count?"
 
-"That depends." The figure stood, their shadow stretching across the stone floor like a specter. "I didn't intend for you to become involved, Detective. Your assignment to this case was unfortunate. But now that you know the truth—or part of it—we find ourselves at an impasse."
+"That depends." The figure stood, their shadow stretching across the stone floor like a specter. "I didn't intend for you to become involved, Detective. Captain Reyes should take you off this case when she realizes it's too close to home. But in the even that she doesn't... We find ourselves at an impasse."
 
 "An impasse."
 
@@ -200,17 +188,13 @@ I struggled against my bonds, feeling the zip ties bite into my wrists. "So what
 
 "You're asking me to let a murderer go free."
 
-"I'm asking you to understand that sometimes justice doesn't look like handcuffs and courtrooms. Sometimes it looks like a monster getting what she deserved."
+"You and I know that this wouldn't be your first time."
 
-I thought about my grandmother. About the locket. About thirty years of lies and convenient accidents and a family that had destroyed everyone who got too close.
+I was stunned at the revelation. How much did this person know about me? I thought about my grandmother. About the locket. About thirty years of lies and convenient accidents and a family that had destroyed everyone who got too close. Then I thought about Rosa, unconscious somewhere in this darkness. About the oath I'd taken when I pinned on my badge. About the kind of man I'd promised myself I would be, even when the world made it hard.
 
-Then I thought about Rosa, unconscious somewhere in this darkness. About the oath I'd taken when I pinned on my badge. About the kind of man I'd promised myself I would be, even when the world made it hard.
+"No. I can't. Not again." I was a mess, but I was done being a bystander. I would see this through.
 
-"No."
-
-The word hung in the air between us, heavy with consequence.
-
-"I won't walk away," I continued. "I can't. Whatever Eleanor was, whatever she did, she deserved to face justice in a courtroom—not be executed in her own home. That's not how this works. That's not how any of this works."
+"I won't walk away," I continued. "Whatever Eleanor was, whatever she did, she deserved to face justice in a courtroom—not be executed in her own home. That's not how this works. That's not how any of this works."
 
 The figure was silent for a long moment. When they spoke again, their voice had changed—colder, harder, stripped of whatever humanity had briefly surfaced.
 

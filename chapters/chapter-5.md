@@ -18,11 +18,11 @@ In my glory days, a case like this would have been the kind of puzzle I lived fo
 
 The front door opened before I could knock, and Diana Ashworth stood framed in the doorway, looking like she hadn't slept. Her makeup was smudged, her hair loose around her shoulders, and there was a fragility to her that hadn't been present during our first encounter.
 
-"Detective." Her voice was flat, exhausted. "We've been waiting for you."
+"Detective." Her voice was flat, exhausted. "You sure took your sweet time."
 
-"All of you?"
+He realized they had all been waiting for his arrival.
 
-"Captain Reyes insisted. No one has been allowed to leave. We've been up all night, trapped in this mausoleum with." She broke off, pressing a hand to her mouth. "I'm sorry. I'm not usually this undone."
+"No one has been allowed to leave. Captain Reyes' orders. We've been up all night, trapped in this mausoleum with." She broke off, pressing a hand to her mouth. "I'm sorry. I'm not usually this undone."
 
 I followed her inside, noting the way her hands trembled slightly as she smoothed her hair. Fear? Guilt? Exhaustion? With this family, it could be any or all of those.
 
@@ -38,15 +38,15 @@ I didn't answer. I couldn't. Not yet. Not until I'd looked each of them in the f
 
 ---
 
-The drawing room had the atmosphere of a prison waiting room. Victor sat in the same chair he'd occupied yesterday, but the arrogance had been stripped away, leaving something smaller and more afraid. Margot was curled in the corner of a settee, still in her nightgown, her thin arms wrapped around herself like she was trying to hold her pieces together. Julian stood by the window, staring out at nothing, his young face aged by a night of terror. And David Sterling sat apart from the family, his briefcase on his lap like a shield, his expression carefully blank.
+The drawing room had the atmosphere of a prison waiting room. Victor sat in the same chair he'd occupied yesterday, but the arrogance had been stripped away, leaving something smaller and more afraid. Margot was curled in the corner of a settee, still in her nightgown, her thin arms wrapped around herself like she was trying to hold her pieces together. Julian stood by the window, staring out at nothing, his young face aged by a night of terror. David Sterling was seated apart from the family. His briefcase lay on his lap like a shield, wearing a blank expression on his face.
 
 Captain Reyes met me at the door, pulling me aside before I could enter fully.
 
 "Rosa Martinez is in stable condition at Millbrook General," she said quietly. "Concussion, some bruising, but she'll recover. She's refusing to talk about what happened at the chapel, says she'll only speak to you."
 
-"And the evidence she mentioned? The documents?"
+"Did you find anything there?"
 
-Reyes's expression was grim. "We found them hidden beneath the altar. Decades of records. Payments. Photographs. Names and dates going back thirty years. If even half of it is legitimate, Eleanor Ashworth was involved in things that make murder look like jaywalking."
+Reyes's expression was grim. "We found some documents hidden beneath the altar. Decades of records. Payments. Photographs. Names and dates going back thirty years. If even half of it is legitimate, Eleanor Ashworth was involved in things that make murder look like jaywalking."
 
 "Does the family know?"
 
@@ -56,15 +56,17 @@ I nodded and stepped fully into the room. Every head turned toward me. Every pai
 
 "Good morning." I kept my voice neutral, professional, though my head was pounding and every muscle ached from my ordeal at the chapel. "Thank you for your patience. I know this has been a difficult night."
 
-"Difficult?" Victor's voice was sharp, brittle. "We've been treated like criminals. Held prisoner in our own home. My mother is dead, and instead of finding her killer, you're."
+"I'd say so." Victor's voice was humorous, full of himself. "You look pretty banged up. Who'd you pick a fight with?"
 
-"Mr. Ashworth." I cut him off, and something in my tone made him fall silent. "I spent last night being attacked, bound, and threatened by someone who knows more about your mother's death than they should. So I'm not really in the mood for complaints about inconvenience."
+"I figured one of you would know." I riposted, and something in my tone made him fall silent. "Last night I was attacked. Someone in this room, possibly. Maybe I was getting too close to finding answers."
 
 The room went very still.
 
-"What happened?" Margot's voice was barely a whisper.
+"What exactly happened?" Margot's voice was barely a whisper.
 
-"I was meeting with Rosa Martinez at the old chapel on your property. Someone was waiting for us. Someone who wanted to make sure certain secrets stayed buried." I paused, letting that sink in. "Someone in this room, possibly. Someone who was willing to kill to protect themselves."
+I observed her and the others carefully before answering.
+
+"I was meeting with Rosa Martinez at the old chapel on your property. Someone was waiting for us. Someone who wanted to make sure certain secrets stayed buried." I paused, letting that sink in. "Someone who was willing to kill to protect themselves."
 
 Diana's face went pale. "You can't think we."
 
@@ -74,7 +76,7 @@ The silence that followed was deafening.
 
 Then Victor laughed. A harsh, desperate sound. "You're saying three different people tried to kill my mother?"
 
-"I'm saying three different methods were used at three different times. Whether that means three killers or one very theatrical murderer, I don't know yet." I pulled out my notebook, though I already knew what I was going to ask. "I need each of you to account for your movements last night. Not just where you were between midnight and three. I need to know everything. Every moment from the end of dinner until Rosa found the body."
+"Three different methods were used at three different times. Whether that means three killers or one very theatrical murderer, I don't know yet." I pulled out my notebook, though I already knew what I was going to ask. "I need each of you to account for your movements last night. Not just where you were between midnight and three. I need to know everything. Every moment from the end of dinner until Rosa found the body."
 
 Julian was the first to speak. His voice was steady, but I could see his hands shaking. "After dinner, I went to my room to study. Around ten, I came down to the kitchen for coffee. Rosa was there, cleaning up. We talked for a few minutes. Nothing important, just small talk. Then I went back upstairs."
 
@@ -106,7 +108,7 @@ Diana's head snapped toward him. "What?"
 
 "I couldn't sleep. I knew Mother was still awake. I could see the light in the library from the garden." Victor's voice was flat, toneless. "I went to talk to her. To try to make things right."
 
-"About what, Mr. Ashworth?"
+"About what, Victor?"
 
 He was silent for a long moment. Then, quietly: "She knew about the money."
 
@@ -136,7 +138,7 @@ Julian's face went white. "I didn't know. I swear I didn't."
 
 "Save it." I turned back to Victor. "You went to the library at eleven-thirty. What happened?"
 
-"We argued. She accused me of betraying the family, of being a disappointment, of." His voice broke. "She said she wished I had died instead of my father. She said the only decent thing I'd ever done was produce Julian."
+"We argued. She accused me of betraying the family, of being a disappointment, of." His voice broke. "She said she wished I had kicked the bucket like my useless father. Said the only decent thing I'd ever done was produce Julian."
 
 "And then?"
 
@@ -148,7 +150,7 @@ Diana gasped. Victor ignored her.
 
 I studied him for a long moment, measuring his claims against the tension in his jaw, the tremor in his hands, against everything I knew about this family. He was telling the truth about the argument. That much I believed. But whether he was telling the truth about what came after remained to be seen.
 
-"Miss Ashworth?" I turned to Margot. "Your turn."
+"Margot?" I turned to Margot. "Your turn."
 
 She looked at me with those haunted eyes, and for a moment, I thought she wouldn't answer. Then, slowly, she began to speak.
 
@@ -208,28 +210,14 @@ At the mention of Rosa's name, something shifted in the room. A flicker of panic
 
 I left them there, suspended in their silence, and made my way to the library. The crime scene tape was still up, the room still frozen in the moment of death, but I wasn't here to examine the body. I was here to think.
 
-Three methods. Three time frames. Three possible killers.
-
-But the masked figure at the chapel had implied something more. Had asked me to consider what it meant that someone would need to kill Eleanor three different ways. The answer seemed obvious now. Multiple people wanted her dead. Multiple people had tried to make it happen. And in the end, Eleanor herself had finished what they'd started.
-
-But why? Why would Eleanor choose to kill herself? Pride? Pain? Or something else. Some final act of control. Some last manipulation from beyond the grave.
-
-I thought about the locket. About my grandmother. About thirty years of lies and cruelty and destroyed lives.
+Three methods. Three time frames. Three possible killers. Multiple people wanted her dead. Multiple people had tried to make it happen. And in the end, Eleanor herself had finished what they'd started. But why? Why would Eleanor choose to kill herself? Pride? Pain? Or something else. Some final act of control. Some last manipulation from beyond the grave. I thought about the locket. About my grandmother. About thirty years of lies and cruelty and destroyed lives.
 
 *Sometimes justice doesn't look like handcuffs and courtrooms.*
 
-The masked figure's words echoed in my head. They'd known about Eleanor's crimes. About the accidents that weren't accidents. The disappearances. The ruined lives. They'd called it justice.
-
-And part of me wanted to agree. The part that still saw my grandmother's face every time I closed my eyes.
-
-But I was a cop. I'd sworn an oath. And whatever Eleanor Ashworth had done, whatever she'd deserved, someone had taken the law into their own hands. Multiple someones, apparently. And I couldn't let that stand, no matter how much I understood it.
+The masked figure's words echoed in my head. They'd known about Eleanor's crimes. About the accidents that weren't accidents. The disappearances. The ruined lives. They'd called it justice. And part of me wanted to agree. The part that still saw my grandmother's face every time I closed my eyes. But I was a cop. I'd sworn an oath. And whatever Eleanor Ashworth had done, whatever she'd deserved, someone had taken the law into their own hands. Multiple someones, apparently. And I couldn't let that stand, no matter how much I understood it. 
 
 My phone buzzed. A message from Reyes.
 
 *Phone records came in. You need to see this.*
 
-I pocketed the phone and headed for the door. The truth was out there, buried under decades of Ashworth secrets. And I was running out of time to find it.
-
-Behind me, the library sat silent, still holding its dead. But somewhere in this house, a killer was planning their next move. Or killers.
-
-And I had a feeling it was going to involve me.
+I pocketed the phone and headed for the door. The truth was out there, buried under decades of Ashworth secrets. And I was running out of time to find it. Behind me, the library sat silent, still holding its dead. But somewhere in this house, a killer was planning their next move. Or killers. And I had a feeling it was going to involve me.

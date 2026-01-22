@@ -36,9 +36,7 @@ One word. Just one word, typed in reply to decades of buried truth:
 
 "Catherine Webb caught a red-eye flight from Seattle that same night," Reyes said. "Departed Sea-Tac at 11:45 PM Pacific, connection through Minneapolis, landed at the regional airport at 6:15 this morning. She's been traveling all night. We've got officers picking her up now—should be at the station within the hour."
 
-I sat back, letting the implications wash over me. Eleanor had received proof of her crimes. Or at least the threat of proof. And she had responded by inviting the accuser to her home. Why? To negotiate? To threaten? To confess?
-
-Or to silence one more person who knew too much?
+I sat back, letting the implications wash over me. Eleanor had received proof of her crimes. Or at least the threat of proof. And she had responded by inviting the accuser to her home. Why? To negotiate? To threaten? To confess? Or to silence one more person who knew too much?
 
 "The timeline," I said slowly. "Eleanor received the text during dinner at 7:23. According to Julian, that's when she went pale. She went to the library. Made a phone call to someone. Sterling heard her say 'you should have told me years ago.' And then at 11:08, she responded to Catherine with that single word. Come."
 
@@ -66,13 +64,13 @@ Rosa was in a private room on the third floor, courtesy of a department budget t
 
 The room was dim, the blinds drawn against the morning sun. Rosa lay in the hospital bed, looking smaller than I remembered, fragile in a way that had nothing to do with age. Her eyes were open, watching me as I entered.
 
-"Detective Marlowe." Her voice was thin, strained. "I was wondering when you would come."
+"Detective Marlowe?" Her voice was thin, strained.
 
 "How are you feeling?"
 
-"Like someone tried to crack my skull open." She touched the bandage on her temple, wincing. "But I have survived worse. The Ashworths have been trying to break me for thirty-five years."
+"Like someone tried to crack my skull open." She touched the bandage on her temple, wincing. "But I have survived worse."
 
-I pulled a chair close to her bed and sat down, leaning forward with my elbows on my knees. "Rosa, I need to know everything. Not just about my grandmother. About all of it. The documents you collected, the evidence, the secrets. Someone tried to kill us to keep them buried. I need to understand why."
+I pulled a chair close to her bed and sat down, leaning forward with my elbows on my knees. "Rosa, I need to know everything. Everything you know."
 
 She was quiet for a long moment, her dark eyes searching my face. Then, slowly, she began to speak.
 
@@ -82,39 +80,41 @@ She was quiet for a long moment, her dark eyes searching my face. Then, slowly, 
 
 "A monster." The word came out flat, factual. "Not the kind you see in movies. No fangs. No claws. The kind that smiles at you while destroying everything you love. The kind that believes the world exists to serve her whims."
 
-"Tell me about the documents."
+I waited for her continue.
 
-Rosa closed her eyes, gathering strength. "Over the years, I saw things. Heard things. Eleanor was not careful around the help. She considered us furniture. Invisible. So I watched, and I listened, and when I could, I collected proof."
+Rosa closed her eyes, gathering strength. "Over the years, I saw things. Heard things. Eleanor was not careful around the help. She considered us furniture. Invisible. So I watched, and I listened."
 
-"Proof of what?"
+"Do you have any proof?"
 
-"Everything." Rosa's eyes opened, and there was fire in them now. "The bribes she paid to make problems disappear. The accidents she arranged when people got in her way. The lies she told to destroy marriages, careers, lives. Your grandmother was just one of many, Detective. Eleanor Ashworth left a trail of bodies. Some literal. Some figurative. Spanning five decades."
+"No." Rosa's eyes opened, and there was fire in them now. "But I'm sure someone does. She did so many evil things over the years."
 
 "Why didn't you come forward sooner? Take it to the police?"
 
-"With what?" She laughed again, hollow and tired. "Eleanor owned this town. The mayor. The police chief. The judges. All of them owed her something. Who would believe a housekeeper from Mexico over the great Eleanor Ashworth?" She shook her head. "I kept the evidence as protection. Insurance. If she ever turned on me, I would have something to bargain with."
+"With what?" She laughed again, hollow and tired. "Eleanor owned this town. The mayor. The police chief. The judges. All of them owed her something. Who would believe a housekeeper from Mexico over the great Eleanor Ashworth?"
 
-"But you never used it."
+"Sounds like an excuse." I felt the hypocrisy of my statement. Every time one of my previous cases led me to the Ashworths, the upper brass redirected my focus. And rather than fight them, I stood down. Perhaps their goal of breaking me worked.
 
-"No. Because I was afraid." Her voice dropped to a whisper. "I saw what happened to people who crossed Eleanor. Your grandmother. Marcus Webb. A city councilman named Patterson who tried to investigate the shipping company in 1985. Found dead in his car. Carbon monoxide poisoning. Ruled a suicide. A reporter who was asking questions about missing union funds in 1991. Car accident on a wet road. No witnesses. The pattern was always the same. Anyone who threatened Eleanor ended up dead, and it always looked like an accident or a choice."
+"I was afraid." Her voice dropped to a whisper. "I saw what happened to people who crossed Eleanor. Your grandmother. Marcus Webb. A city councilman named Patterson who tried to investigate the shipping company four decades ago. Found dead in his car. Carbon monoxide poisoning. Ruled a suicide. A reporter who was asking questions about missing union funds ten years after that. Car accident on a wet road. No witnesses. The pattern was always the same. Anyone who threatened Eleanor ended up dead, and it always looked like an accident or a choice."
 
-Her revelations sank into my bones like ice water. I'd known Eleanor was ruthless. The evidence had been piling up since I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades, was overwhelming.
+Her revelations sank into my bones like ice water. I'd known Eleanor was ruthless. Evidence had been piling up as soon I'd arrived at the estate yesterday morning. But hearing it laid out like this, a catalog of destruction spanning decades, was overwhelming.
 
 "The person who attacked us at the chapel," I said. "They knew things. Things about the case, about the three methods of death. Do you have any idea who it might have been?"
 
-Rosa hesitated. "The voice was wrong. Distorted. Disguised. But something about the way they moved, the way they spoke—it felt familiar. Like someone I've seen before, wearing a different face."
+Rosa hesitated. "The voice was wrong. Distorted. Disguised. But they felt familiar. Like someone I've seen before, wearing a different face."
 
 "Someone from the house?"
 
-"I cannot say for certain. But whoever it was, they knew Eleanor's secrets. They knew what she had done." Rosa's hand reached out, gripping my arm with surprising strength. "They also knew about your grandmother, Detective. About what Eleanor did to her. That is not common knowledge. Only a few people in this world know that story."
+"I don't know. But whoever it was, they knew Eleanor's secrets. They knew what she had done." Rosa's hand reached out, gripping my arm with surprising strength. "They also knew about your grandmother, Detective. About what Eleanor did to her. That is not common knowledge. Only a few people in this world know that story."
 
 "Who?"
 
 "Eleanor, obviously. David Sterling. He has been her confidant for thirty-seven years. He knows where all the bodies are buried. Victor and Margot grew up in that house. They may have overheard things over the years." She paused, her brow furrowing. "And there is one other."
 
-"Who?"
+I hung in suspense while she paused dramatically.
 
-"Catherine Webb." Rosa met my eyes. "Marcus's sister. She came to the estate once, many years ago. I was there when she confronted Eleanor, demanded to know the truth about her brother's death. Eleanor had her thrown out, threatened to destroy her if she ever came back." Rosa's grip tightened. "But Catherine never stopped searching. Never stopped digging. If anyone has enough information to piece together what Eleanor did, it's her."
+"Catherine Webb." Rosa met my eyes. "Marcus's sister. She came to the estate once, many years ago. I was there when she confronted Eleanor, demanded to know the truth about her brother's death. Eleanor had her thrown out, threatened to destroy her if she ever came back." Rosa's grip tightened. "But Catherine was like a dog with a bone. The kind of person who would never stop until they finished what they started. If anyone has enough information to piece together what Eleanor did, it's her."
+
+The description sounded like me. In some parallel universe Catherine would have made a great detective.
 
 "She's on her way here," I said. "Caught a flight last night after Eleanor responded to her text message."
 

@@ -64,7 +64,7 @@ He slid the folder across the table. I opened it to find page after page of dens
 
 Sterling's composure cracked. "Eleanor happened. Last night, after our meeting, she went through everything herself. Tore out the pages she didn't want anyone to see."
 
-I flipped through what remained. Partial sentences jumped out at me: *...beneficiary to be changed upon...* and *...previous arrangement with V. Ashworth hereby terminated...* and most damning of all, a single phrase circled in red ink: *DISINHERIT ENTIRELY.*
+I flipped through what remained. Partial sentences jumped out at me: ...beneficiary to be changed upon... and ...previous arrangement with V. Ashworth hereby terminated... and most damning of all, a single phrase circled in red ink: DISINHERIT ENTIRELY.
 
 "Who was she planning to cut out?"
 
@@ -72,10 +72,7 @@ Sterling didn't answer. Instead, he reached into his briefcase and produced a cr
 
 I smoothed it out on the table. A handwritten list in Eleanor's spidery script:
 
-*Victor - NOTHING. He knows why.*
-*Julian - everything, held in trust*
-*Margot - unchanged*
-*D.S. - see attached (VOID)*
+Victor - NOTHING. He knows why. Julian - everything, held in trust Margot - unchanged D.S. - see attached (VOID)
 
 "D.S.?" I looked up at Sterling.
 
@@ -85,7 +82,7 @@ I noticed his hands were trembling. "She was cutting you out too."
 
 "Look at the bottom of the page, Detective."
 
-I did. Three words, underlined twice: *He knows why.*
+I did. Three words, underlined twice: He knows why.
 
 "What did Victor do, Mr. Sterling? What did Eleanor discover?"
 
@@ -289,7 +286,7 @@ But Rosa shook her head. "Not here. Not now. Too many ears in this house, too ma
 
 Before I could respond, she turned and disappeared back into the house, leaving me standing on the terrace with a piece of paper burning in my palm and twenty years of questions screaming for answers.
 
-I unfolded the paper with hands that weren't quite steady. A single address, written in careful, precise handwriting, along with simple directions: *Past the garden gate, follow the old cart path for a quarter mile. You'll see the steeple through the trees.*
+I unfolded the paper with hands that weren't quite steady. A single address, written in careful, precise handwriting, along with simple directions: Past the garden gate, follow the old cart path for a quarter mile. You'll see the steeple through the trees.
 
 The old Ashworth chapel. The one that had been abandoned since before I was born. The one where, according to family legend, the first Ashworth had buried his secrets along with his sins.
 

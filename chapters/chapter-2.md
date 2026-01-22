@@ -226,8 +226,6 @@ The locket. Someone else knew about the locket.
 
 I lit a cigarette—a habit I'd quit and restarted half a dozen times over the years—and smoked it down to the filter before pulling out my phone. The number I dialed was one I knew by heart but hadn't called in three years. Each ring felt like a small eternity. It rang four times before a familiar voice answered.
 
-"Hello?"
-
 "Sarah." Her name felt strange in my mouth, like a word in a dead language. "It's James. I need to talk to you about–"
 
 She finished my sentence. "The Ashworths?"
@@ -238,13 +236,9 @@ She finished my sentence. "The Ashworths?"
 
 I thought about the question. About the weight of the past pressing down on me. About the locket in Eleanor's dead hand. My grandmother's locket, the one that had disappeared twenty years ago along with every chance I'd had at a normal life.
 
-"No," I said finally, the admission costing me more than I wanted to acknowledge. "I don't think I am."
+No, I admitted finally. The admission cost me more than I wanted to acknowledge. I wasn't okay.
 
-A long pause. I could hear her breathing on the other end, could almost picture her standing in whatever kitchen or living room she occupied now, processing the weight behind my words.
-
-"James."
-
-"I'll come see you tonight. After I finish here. It might be late—nine, maybe ten, depending on how the interviews go. There are things I need to tell you. Things I should have told you three years ago."
+I told her I would come see her tonight, after I finished at the estate. It might be late—nine, maybe ten, depending on how the interviews went. There were things I needed to tell her. Things I should have told her three years ago.
 
 I hung up before she could respond, before I could lose my nerve. The rain continued to fall, washing the world clean while the Ashworth house loomed behind me, full of secrets and lies and at least one murderer who thought they could get away with their crime.
 
