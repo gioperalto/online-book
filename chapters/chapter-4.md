@@ -218,11 +218,7 @@ The figure was silent for a long moment. When they spoke again, their voice had 
 
 "Wait—" I struggled to sit up, to see anything useful. "At least tell me—the three methods. Poison, strangulation, stabbing. Was that you? All three?"
 
-The figure paused at the threshold.
-
-"Ask yourself why someone would need to kill Eleanor Ashworth three different ways," they said quietly. "Ask yourself what that says about the people who wanted her dead."
-
-And then they were gone, taking the candle with them, leaving me alone in the darkness with more questions than answers and a clock ticking toward dawn.
+The figure paused at the threshold. And then they were gone, taking the candle with them, leaving me alone in the darkness with more questions than answers and a clock ticking toward dawn.
 
 ---
 
