@@ -228,13 +228,13 @@ I lit a cigarette—a habit I'd quit and restarted half a dozen times over the y
 
 "Hello?"
 
-"Sarah." Her name felt strange in my mouth, like a word in a dead language. "It's James. I need to talk to you about the Ashworth case."
+"Sarah." Her name felt strange in my mouth, like a word in a dead language. "It's James. I need to talk to you about–"
 
-A long pause. Then: "I wondered when you'd call."
+She finished my sentence. "The Ashworths?"
 
 "You've heard."
 
-"It's all over the news. Eleanor Ashworth, dead." Another pause, heavy with things unsaid. "Are you okay?"
+"It's all over the news. Eleanor, dead." Another pause, heavy with things unsaid. "Are you okay?"
 
 I thought about the question. About the weight of the past pressing down on me. About the locket in Eleanor's dead hand. My grandmother's locket, the one that had disappeared twenty years ago along with every chance I'd had at a normal life.
 
