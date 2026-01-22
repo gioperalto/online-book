@@ -94,7 +94,7 @@ Rosa nodded slowly. "Your grandmother was poisoned, Detective. The first time, s
 
 "Eleanor killed her."
 
-"I don't give you answers. I give you questions." Rosa picked up the brass key from the box. "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there—letters, documents, things she gathered over sixty years of watching and waiting." She pressed the key into my palm. "The path is yours to walk now. The truth is yours to find."
+"I don't give you answers. I give you questions." Rosa picked up the brass key from the box. "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there." She pressed the key into my palm. "The path is yours to walk now. The truth is yours to find."
 
 I sat in the darkness, turning the key over in my fingers. My grandmother hadn't just left me evidence—she'd left me a trail of breadcrumbs, a detective's treasure hunt spanning decades.
 
