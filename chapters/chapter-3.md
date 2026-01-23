@@ -18,11 +18,9 @@ Sterling's lips thinned. "Eleanor was particular about loyalty. She surrounded h
 
 "People who chose not to." He held my gaze without flinching. "There's a difference, Detective, though I don't expect you to understand it."
 
-I let the silence stretch between us, watching his composure. David Sterling was good. Polished in a way that came from decades of boardrooms and courtrooms. But everyone had cracks. Everyone.
+I let the silence stretch between us, watching his composure. David Sterling was good. Polished in a way that came from decades of boardrooms and courtrooms. But everyone had cracks. Everyone. I'd learned that lesson early in my career, back when the brass was still testing me with impossible cases. The Harrison embezzlement case. The suspect was a former federal prosecutor with connections all the way to the state capital. Everyone said I'd never crack him. But three days of interviews later, I'd found his tell: he touched his wedding ring whenever he lied. By the end of the week, he was confessing to crimes we hadn't even known about. Sterling had his own tells. The way his fingers tightened around his coffee cup. The slight pause before answering certain questions. After twenty-six years of interrogating Millbrook's finest liars, I could read the signs.
 
-I'd learned that lesson early in my career, back when the brass was still testing me with impossible cases. The Harrison embezzlement case in 2001—the suspect was a former federal prosecutor with connections all the way to the state capital. Everyone said I'd never crack him. But three days of interviews later, I'd found his tell: he touched his wedding ring whenever he lied. By the end of the week, he was confessing to crimes we hadn't even known about. Sterling had his own tells. The way his fingers tightened around his coffee cup. The slight pause before answering certain questions. After twenty-six years of interrogating Millbrook's finest liars, I could read the signs.
-
-"Tell me about last night."
+"Tell me about last night." I demanded.
 
 Sterling reached for the cup of coffee that had appeared at his elbow. The housekeeper's doing, probably. He took a measured sip before answering. "I arrived around five in the afternoon. The drive from my office takes about forty minutes without traffic—there was some construction on Route 9 that added another fifteen. Eleanor had asked me to come for dinner and to stay overnight. She said she had business to discuss that couldn't wait."
 
@@ -54,7 +52,7 @@ Sterling stared at me for a long moment, and I watched him wrestle with somethin
 
 "I've already consulted with my partners," he said quietly. "Under the circumstances, we've agreed that cooperating fully with your investigation takes precedence over other considerations. Eleanor would have hated that, by the way. She despised anything that even hinted at impropriety or scandal."
 
-"Then she shouldn't have gotten herself murdered."
+"Then she shouldn't have gotten herself murdered." I poked at him.
 
 Sterling's mouth twitched. Not quite a smile, but close. "No. I suppose not."
 
@@ -72,15 +70,7 @@ Sterling didn't answer. Instead, he reached into his briefcase and produced a cr
 
 I smoothed it out on the table. A handwritten list in Eleanor's spidery script:
 
-Victor - NOTHING. He knows why. Julian - everything, held in trust Margot - unchanged D.S. - see attached (VOID)
-
-"D.S.?" I looked up at Sterling.
-
-His face had gone pale. "My initials."
-
-I noticed his hands were trembling. "She was cutting you out too."
-
-"Look at the bottom of the page, Detective."
+*Victor - NOTHING. He knows why. Julian - everything, held in trust Margot - unchanged*
 
 I did. Three words, underlined twice: He knows why.
 
@@ -146,23 +136,21 @@ I waited.
 
 I found Julian Ashworth in the kitchen, of all places. It took me another five minutes of navigating the house's maze-like layout—past the butler's pantry, through a service corridor, around a corner I'd already passed twice. The grandson of the family sat hunched over the marble island, a cup of coffee growing cold beside him, steam no longer rising from its surface. His head was in his hands. He was younger than I'd expected. Twenty-two, maybe twenty-three. He had the soft, unfinished look of someone who hadn't yet been fully tempered by life's harder edges.
 
-"Mr. Ashworth?"
+"Julian?"
 
-He looked up, and I saw red-rimmed eyes, a face pale with shock. Whatever performance the rest of the family was putting on, Julian's grief appeared genuine.
+He looked up, and I saw red-rimmed eyes, a face pale with shock. Whatever performance the rest of the family was putting on, Julian's grief appeared genuine. The kitchen was enormous, all stainless steel and white marble, the kind of room that had probably never seen Eleanor Ashworth dirty her hands with actual cooking. But it felt more human than the rest of the house, somehow. Less like a mausoleum.
 
-"It's Julian," he said, his voice hoarse. "Please. Mr. Ashworth is my father, and right now, I can't." He broke off, swallowing hard.
-
-I pulled out a stool and sat across from him. The kitchen was enormous, all stainless steel and white marble, the kind of room that had probably never seen Eleanor Ashworth dirty her hands with actual cooking. But it felt more human than the rest of the house, somehow. Less like a mausoleum.
-
-"I know this is difficult," I said. "But I need to ask you some questions about last night."
+"I know this is difficult," I pulled out a stool and sat across from him. "But I need to ask you some questions about last night."
 
 Julian nodded, wrapping his hands around the cold coffee cup as if seeking warmth. "I already told the other officers. I was in my room all night. Studying for finals. I have contracts and civil procedure next week, and Grandma insisted I come home for the weekend even though I told her I couldn't afford the time."
 
-His voice cracked. I waited.
+His voice cracked.
 
-"She was impossible," Julian continued. "Demanding, controlling, always pushing. She had my whole life planned out. Law school, then the family business, then eventually taking over for my father." He laughed bitterly. "I didn't even want to be a lawyer. I wanted to study marine biology. But Grandma said that was frivolous, that an Ashworth had responsibilities."
+"She was impossible," Julian continued. "Demanding, controlling, always pushing. She had my whole life planned out. Law school, then the family business, then eventually taking over for my father." 
 
-"Did you argue about it?"
+He laughed bitterly. "I didn't even want to be a lawyer. I wanted to study marine biology. But Grandma said that was frivolous, that an Ashworth had responsibilities."
+
+I paused before my next question. "Did you argue about it?"
 
 "All the time. Every time I came home." Julian's jaw tightened. "But I loved her. That's the thing people don't understand about my grandmother. You could hate what she did, hate how she controlled everyone, but she had this presence. This force of will that made you want to please her, even when you knew she was wrong."
 
@@ -210,13 +198,7 @@ I waited.
 
 ---
 
-The morning had stretched into afternoon by the time I stepped out onto the back terrace for a cigarette I'd promised myself I'd quit three years ago. The rain had stopped, leaving the world washed clean and smelling of wet earth, but the sky remained gray, heavy with the promise of more storms to come.
-
-I thought about what I'd learned. Victor, on the verge of being disinherited. A sixty-percent fortune slipping through his fingers. Diana, who'd endured years of Eleanor's contempt and had everything to gain from her death. Margot, broken by her mother's cruelty, harboring decades of resentment. Julian, caught in the middle of a family he didn't understand and couldn't escape.
-
-And then there was the locket. My grandmother's locket, clutched in the dead hand of a woman who had apparently "destroyed" its original owner.
-
-I pulled out my phone and dialed Captain Reyes.
+The morning had stretched into afternoon by the time I stepped out onto the back terrace for a cigarette I'd promised myself I'd quit three years ago. The rain had stopped, leaving the world washed clean and smelling of wet earth, but the sky remained gray, heavy with the promise of more storms to come. I thought about what I'd learned. Victor, on the verge of being disinherited. A sixty-percent fortune slipping through his fingers. Diana, who'd endured years of Eleanor's contempt and had everything to gain from her death. Margot, broken by her mother's cruelty, harboring decades of resentment. Julian, caught in the middle of a family he didn't understand and couldn't escape. And then there was the locket. My grandmother's locket, clutched in the dead hand of a woman who had apparently "destroyed" its original owner. I pulled out my phone and dialed Captain Reyes.
 
 "Marlowe. What have you got?"
 
@@ -228,7 +210,7 @@ I pulled out my phone and dialed Captain Reyes.
 
 Reyes was quiet for a moment. "The locket."
 
-"You saw it?"
+"You saw it?" The words escaped my mouth as I was too late to realize she had set a trap.
 
 "I saw the way you looked at it." Her voice was careful. "Marlowe, if you have a conflict of interest here—"
 
@@ -238,23 +220,23 @@ Reyes was quiet for a moment. "The locket."
 
 The use of my first name stopped me. Maria Reyes and I had worked together for fifteen years. Seen each other through divorces and promotions and cases that left marks neither of us talked about. She knew me better than almost anyone.
 
-"The locket belonged to my grandmother," I said finally. "It disappeared twenty years ago. I haven't seen it since."
+"The locket belonged to my grandmother," I admitted reluctantly. "It disappeared twenty years ago. I haven't seen it since."
 
-"And it turned up in Eleanor Ashworth's hand."
+"And it turned up in Eleanor Ashworth's hand." Reyes arrived at the same conclusion I had earlier.
 
 "Yes."
 
 Another pause. I could practically hear her thinking, weighing the options.
 
-"This could be grounds to remove you from the case."
+"This could be grounds to remove you from the case." My captain warned.
 
-"I know."
+I had to tread carefully. "I know."
 
-"Is that what you want?"
+"Is that what you want?" She was provoking me.
 
-I looked back at the house, at its Gothic towers and darkened windows, at the secrets it held like a crypt holds bones.
+I looked back at the house, at its Gothic towers and darkened windows, at the secrets it held like a crypt holds bones. Of course I didn't want to be taken off this case.
 
-"No," I said. "I want answers. I want to know what happened to my grandmother. I want to know why Eleanor Ashworth died holding something that should have been buried with my family's past."
+"No," I affirmed. "I want answers. I want to know what happened to my grandmother. I want to know why Eleanor Ashworth died holding something that should have been buried with my family's past."
 
 "And if those answers implicate you? Your family?"
 
@@ -284,14 +266,8 @@ My heart was pounding. "Tell me."
 
 But Rosa shook her head. "Not here. Not now. Too many ears in this house, too many shadows." She pressed a folded piece of paper into my hand. "Tonight. Midnight. Come alone."
 
-Before I could respond, she turned and disappeared back into the house, leaving me standing on the terrace with a piece of paper burning in my palm and twenty years of questions screaming for answers.
+Before I could respond, she turned and disappeared back into the house, leaving me standing on the terrace with a piece of paper burning in my palm and twenty years of questions screaming for answers. I unfolded the paper with hands that weren't quite steady. A single address, written in careful, precise handwriting, along with simple directions: 
 
-I unfolded the paper with hands that weren't quite steady. A single address, written in careful, precise handwriting, along with simple directions: Past the garden gate, follow the old cart path for a quarter mile. You'll see the steeple through the trees.
+*Past the garden gate, follow the old cart path for a quarter mile. You'll see the steeple through the trees.*
 
-The old Ashworth chapel. The one that had been abandoned since before I was born. The one where, according to family legend, the first Ashworth had buried his secrets along with his sins.
-
-Tonight, at midnight, I would finally learn the truth.
-
-But as I tucked the paper into my pocket and turned back toward the house, I couldn't shake the feeling that someone was watching me. That somewhere in those shadowed windows, a killer was making plans.
-
-And that whatever secrets Rosa Martinez was about to reveal, they would change everything I thought I knew. About the Ashworths. About Eleanor's murder. And about my own family's place in this web of lies.
+The old Ashworth chapel. The one that had been abandoned since before I was born. The one where, according to family legend, the first Ashworth had buried his secrets along with his sins. Tonight, at midnight, I would finally learn the truth. But as I tucked the paper into my pocket and turned back toward the house, I couldn't shake the feeling that someone was watching me. That somewhere in those shadowed windows, a killer was making plans. And that whatever secrets Rosa Martinez was about to reveal, they would change everything I thought I knew. About the Ashworths. About Eleanor's murder. And about my own family's place in this web of lies.

@@ -10,19 +10,9 @@ The chapel sat at the far edge of the Ashworth property, separated from the main
 
 I parked my car on the access road, killed the engine, and sat listening to the tick of cooling metal for a full minute before stepping out. The walk to the chapel was about a hundred yards, and I took it slow, my flashlight cutting a weak beam through the darkness, my other hand resting on my service weapon. The rain had stopped, but the clouds still hung low and heavy, blocking out the moon and stars. The only sounds were my footsteps crunching on dead leaves and the distant hoot of an owl. Mournful. Questioning.
 
-The chapel door hung askew on rusted hinges. I pushed it open, wincing at the groan of tortured metal, and stepped inside.
+The chapel door hung askew on rusted hinges. I pushed it open, wincing at the groan of tortured metal, and stepped inside. The interior was exactly what you'd expect from a building abandoned for half a century. Pews overturned and rotting. Hymnals scattered across the floor, their pages swollen with moisture and mold. At the far end, a stone altar stood beneath what remained of a massive crucifix, Christ's face worn smooth by time until it was just a suggestion of features, a ghost of divinity. I checked my watch, the luminous dial glowing faintly in the darkness. Eleven-fifty. Ten minutes until Rosa was supposed to arrive. I found a pew that still had four legs and sat down to wait, my back to the wall where I could see both the entrance and the vestry door at the rear. An old habit. A good one. The kind of instinct that had kept me alive through the glory days when the department brass kept assigning me cases designed to end careers. The Thornwood arsons—seven buildings, two deaths, no witnesses. They'd given me that one expecting me to drown in the paperwork. Instead, I'd found the connection between the properties and the insurance adjustor who owned them all through shell companies. The department commended me publicly and quietly resented me for making them look bad. That was the pattern in those days: assign Marlowe the impossible case, watch him solve it anyway, then find another impossible case to assign. The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
 
-The interior was exactly what you'd expect from a building abandoned for half a century. Pews overturned and rotting. Hymnals scattered across the floor, their pages swollen with moisture and mold. At the far end, a stone altar stood beneath what remained of a massive crucifix, Christ's face worn smooth by time until it was just a suggestion of features, a ghost of divinity.
-
-I checked my watch, the luminous dial glowing faintly in the darkness. Eleven-fifty. Ten minutes until Rosa was supposed to arrive.
-
-I found a pew that still had four legs and sat down to wait, my back to the wall where I could see both the entrance and the vestry door at the rear. An old habit. A good one. The kind of instinct that had kept me alive through the glory days when the department brass kept assigning me cases designed to end careers. The Thornwood arsons—seven buildings, two deaths, no witnesses. They'd given me that one expecting me to drown in the paperwork. Instead, I'd found the connection between the properties and the insurance adjustor who owned them all through shell companies. The department commended me publicly and quietly resented me for making them look bad. That was the pattern in those days: assign Marlowe the impossible case, watch him solve it anyway, then find another impossible case to assign.
-
-The silence pressed against my ears like cotton, thick and suffocating. In the darkness, my mind wandered back to the last time I'd been here. Twenty-three years ago. I was a rookie cop and my grandmother was still alive. The Ashworth name was just another wealthy family in Millbrook. Not the weight around my neck it had become.
-
-The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway.
-
-Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of her own clutched in one hand. She looked smaller here, away from the grand surroundings of the Ashworth estate. Just a woman in her sixties. Carrying secrets that had grown heavier with each passing year.
+The sound of approaching footsteps pulled me back to the present. I stood, my hand instinctively moving toward the service weapon at my hip, and watched as a figure appeared in the doorway. Rosa Martinez stepped into the chapel, wrapped in a heavy coat, a flashlight of her own clutched in one hand. She looked smaller here, away from the grand surroundings of the Ashworth estate. Just a woman in her sixties. Carrying secrets that had grown heavier with each passing year.
 
 "Detective Marlowe." Her voice echoed off the stone walls. "You came."
 
@@ -36,15 +26,11 @@ She reached the altar and turned to face me, her dark eyes glittering in the com
 
 "I have seen many things in my lifetime. Things that would make a priest weep. Things that would make a judge vomit." Her voice was flat, matter-of-fact. "I have kept silent because that is what you do in this family. You see nothing. You hear nothing. You remember nothing."
 
-"But now?"
+"But now?" I played along.
 
 "Now Eleanor is dead." Rosa's face twisted with something that might have been grief or relief. It was hard to tell in the shadows. "And I am old, Detective. Too old to carry these secrets to my grave. They are too heavy. They have been heavy for twenty years."
 
-She reached into her coat pocket and withdrew something small that glinted gold in the flashlight beam. My breath caught in my throat.
-
-It was a photograph. Faded, creased from years of handling, but unmistakable.
-
-My grandmother. Young, beautiful, standing beside a man I didn't recognize in front of this very chapel. And around her neck, the gold heart-shaped locket that had been found clutched in Eleanor Ashworth's dead hand.
+She reached into her coat pocket and withdrew something small that glinted gold in the flashlight beam. My breath caught in my throat. It was a photograph. Faded, creased from years of handling, but unmistakable. My grandmother. Young, beautiful, standing beside a man I didn't recognize in front of this very chapel. And around her neck, the gold heart-shaped locket that had been found clutched in Eleanor Ashworth's dead hand.
 
 "Where did you get this?" My voice came out rough, broken.
 
@@ -56,25 +42,23 @@ I stared at the box. "What's inside?"
 
 "Open it."
 
-My hands trembled as I lifted the lid. Inside, nestled in faded velvet, were three items: a newspaper clipping yellowed with age, a small brass key, and a folded piece of paper covered in my grandmother's handwriting.
-
-I picked up the newspaper clipping first. The headline read: SHIPPING YARD ACCIDENT CLAIMS WORKER'S LIFE - Seattle, 1964. The photograph beneath showed a crane, collapsed, and in the background, barely visible, a young man's face circled in pencil.
+My hands trembled as I lifted the lid. Inside, nestled in faded velvet, were three items: a newspaper clipping yellowed with age, a small brass key, and a folded piece of paper covered in my grandmother's handwriting. I picked up the newspaper clipping first. The headline read: SHIPPING YARD ACCIDENT CLAIMS WORKER'S LIFE - Seattle, 1964. The photograph beneath showed a crane, collapsed, and in the background, barely visible, a young man's face circled in pencil.
 
 "Who circled this?"
 
 "Read the name in the article."
 
-I scanned the faded text. Marcus Webb, 34, a transfer from the Millbrook shipping office...
+I scanned the faded text. 
+
+*Marcus Webb, 34, a transfer from the Millbrook shipping office...*
 
 My blood ran cold. I looked at the photograph Rosa had shown me—the man standing with my grandmother, the same strong jaw, the same eyes.
 
 "He was transferred. And then he died."
 
-Rosa said nothing. She simply pointed at the folded paper.
+Rosa said nothing. She simply pointed at the folded paper. I opened it. My grandmother's handwriting. I'd recognize it anywhere, but the words made no sense at first:
 
-I opened it. My grandmother's handwriting. I'd recognize it anywhere, but the words made no sense at first:
-
-Things I Cannot Say: - E. wanted what she could not have - M. chose me instead - Three days after I confronted her, they found me - The locket was GONE when I woke in the hospital - Natural causes. That is what money buys. - If you're reading this, I did not survive the second attempt
+*Things I Cannot Say: - E. wanted what she could not have - M. chose me instead - Three days after I confronted her, they found me - The locket was GONE when I woke in the hospital - Natural causes. That is what money buys. - If you're reading this, I did not survive the second attempt*
 
 "Second attempt?" The words came out strangled.
 
@@ -90,57 +74,33 @@ Eleanor had her killed.
 
 "This opens a safe deposit box at First National Bank. Your grandmother's secrets are there." Rosa picked up the brass key from the box and pressed it into my palm. "The path is yours to walk now. The truth is yours to find."
 
-I sat in the darkness, turning the key over in my finger. My grandmother had known she was being hunted. And she'd waited, patiently, all those years, knowing there was nothing she could do to Eleanor.
+I sat in the darkness, turning the key over in my finger. My grandmother had known she was being hunted. And she'd waited, patiently, all those years, knowing there was nothing she could do to Eleanor. But why did it take Eleanor thirty years to silence her?
 
 "The locket," I said slowly. "She was wearing it when she confronted Eleanor. It disappeared. And now Eleanor dies clutching it. Why?"
 
 "I don't know." Rosa's eyes wavered.
 
-A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open. Rosa went rigid. Someone had followed us.
+A sound cut through the darkness. The creak of rusted hinges. The groan of the chapel door being pushed open. Rosa went rigid. Someone had followed us. I was on my feet in an instant, my weapon drawn, my flashlight sweeping toward the entrance. 
 
-I was on my feet in an instant, my weapon drawn, my flashlight sweeping toward the entrance. "Who's there?"
+"Who's there?"
 
 No answer. Just the whisper of wind through broken windows and the pound of my own heartbeat.
 
 "Stay behind me," I told Rosa, moving toward the door. My footsteps seemed impossibly loud in the silence, each one echoing off stone walls that had heard confessions for over a century.
 
-I reached the doorway and swept my flashlight across the darkness outside. Nothing. No movement. No sound.
-
-The blow came from behind.
-
-I didn't see it. Didn't hear it. Just felt an explosion of pain at the base of my skull as something heavy connected with the back of my head. The world tilted sideways, my flashlight spinning away into darkness, my weapon clattering across stone.
-
-I hit the ground hard, my vision swimming with stars and shadows. Somewhere nearby, Rosa was screaming. A high, terrified sound that cut off abruptly. Replaced by the sickening thud of a body hitting the floor.
-
-But my body wouldn't obey. The darkness was closing in, thick and suffocating, and the last thing I heard before unconsciousness claimed me was a voice. Familiar, yet somehow wrong. Whispering words I couldn't quite understand.
+I reached the doorway and swept my flashlight across the darkness outside. Nothing. No movement. No sound. The blow came from behind. I didn't see it. Didn't hear it. Just felt an explosion of pain at the base of my skull as something heavy connected with the back of my head. The world tilted sideways, my flashlight spinning away into darkness, my weapon clattering across stone. I hit the ground hard, my vision swimming with stars and shadows. Somewhere nearby, Rosa was screaming. A high, terrified sound that cut off abruptly. Replaced by the sickening thud of a body hitting the floor. But my body wouldn't obey. The darkness was closing in, thick and suffocating, and the last thing I heard before unconsciousness claimed me was a voice. Familiar, yet somehow wrong. Whispering words I couldn't quite understand.
 
 ---
 
-I woke to pain.
-
-It radiated from the back of my skull in waves, each pulse bringing fresh nausea and a reminder that I was very much still alive. Though probably not for much longer, given the circumstances.
-
-I was lying on cold stone, my hands bound behind my back with what felt like zip ties, my ankles similarly secured. The darkness was absolute; either my flashlight had been taken or my eyes weren't working properly. Maybe both.
+I woke to pain that radiated from the back of my skull in waves, each pulse bringing fresh nausea and a reminder that I was very much still alive. Though probably not for much longer, given the circumstances. I was lying on cold stone, my hands bound behind my back with what felt like zip ties, my ankles similarly secured. The darkness was absolute; either my flashlight had been taken or my eyes weren't working properly. Maybe both.
 
 "Rosa?" My voice came out as a croak. "Rosa, are you there?"
 
-No answer.
-
-I twisted against my bonds, testing their strength, and was rewarded with a fresh spike of pain through my skull that made my vision white out. When it cleared. Assuming my vision had cleared. It was impossible to tell in the darkness. I forced myself to take stock.
-
-I was still in the chapel. I could smell the mold and decay, feel the grit of centuries-old dust beneath my cheek. My weapon was gone, along with my phone and flashlight. Whoever had attacked us was thorough.
-
-The attack had come from inside the chapel, not outside. That meant our attacker had been waiting for us, had known we were coming. But how? I hadn't told anyone about Rosa's invitation. Had she?
-
-Or had someone been watching the whole time? Listening? Following?
-
-A sound cut through my thoughts. Footsteps. Slow and deliberate. Approaching from somewhere to my left. I went still, feigning unconsciousness, and listened.
+No answer. I twisted against my bonds, testing their strength, and was rewarded with a fresh spike of pain through my skull that made my vision white out. When it cleared. Assuming my vision had cleared. It was impossible to tell in the darkness. I forced myself to take stock. I was still in the chapel. I could smell the mold and decay, feel the grit of centuries-old dust beneath my cheek. My weapon was gone, along with my phone and flashlight. Whoever had attacked us was thorough. The attack had come from inside the chapel, not outside. That meant our attacker had been waiting for us, had known we were coming. But how? I hadn't told anyone about Rosa's invitation. Had she? Or had someone been watching the whole time? Listening? Following? Footsteps. Slow and deliberate. Approaching from somewhere to my left. I went still, feigning unconsciousness, and listened.
 
 "I know you're awake, Detective Marlowe." The voice was distorted somehow, artificially deepened, but there was something familiar about it that I couldn't quite place. "You can stop pretending."
 
-I didn't move. Didn't speak. Let them think I was still out, let them get closer.
-
-A foot connected with my ribs. Hard enough to drive the breath from my lungs but not hard enough to break anything. A warning shot.
+I didn't move. Didn't speak. Let them think I was still out, let them get closer. A foot connected with my ribs. Hard enough to drive the breath from my lungs but not hard enough to break anything. A warning shot.
 
 "I said stop pretending." The voice was closer now, directly above me. "We need to talk."
 
@@ -206,21 +166,19 @@ The figure paused at the threshold. And then they were gone, taking the candle w
 
 ---
 
-It took me forty-five minutes to free myself. Forty-five minutes of twisting and pulling and rubbing my wrists raw against the rough edge of a broken pew until the zip ties finally gave way. Another ten minutes to find Rosa, unconscious but breathing, slumped against the base of the altar with a nasty bruise forming on her temple.
+It took me forty-five minutes to free myself. Forty-five minutes of twisting and pulling and rubbing my wrists raw against the rough edge of a broken pew until the zip ties finally gave way. Another ten minutes to find Rosa, unconscious but breathing, slumped against the base of the altar with a nasty bruise forming on her temple. By the time I got her to my car and myself to a phone, it was nearly four in the morning. I called Reyes first—woke her up, told her everything, listened to her silence grow heavier with each revelation.
 
-By the time I got her to my car and myself to a phone, it was nearly four in the morning. I called Reyes first—woke her up, told her everything, listened to her silence grow heavier with each revelation.
-
-"You should have told me about the locket," she said finally. "Before all of this."
+"You should have told me about the locket," she said finally. "Before all of this." Reyes reprimanded me.
 
 "I know."
 
-"Your grandmother. Jesus, Marlowe."
+"Your grandmother. Jesus, Marlowe." Was that emphathy?
 
 "I know."
 
-More silence. Then: "The crime scene unit is still processing the chapel. They found the photograph you mentioned, along with some other items Rosa had collected over the years. Evidence of Eleanor's activities."
+More silence. Eventually, she eased up. "The crime scene unit is still processing the chapel. They found the photograph you mentioned, along with some other items Rosa had collected over the years. Evidence of Eleanor's activities."
 
-"What kind of evidence?"
+"What kind of evidence?" I asked.
 
 "Documents. Photographs. Records of payments made to various individuals over the decades—payments that coincide with suspicious accidents, sudden disappearances, careers destroyed." Reyes paused. "If even half of this is legitimate, Eleanor Ashworth was running a one-woman crime syndicate from inside that mansion."
 
@@ -228,7 +186,7 @@ I leaned against my car, exhaustion finally catching up to me. The sun was just 
 
 "There's something else," Reyes said. "The medical examiner finished her preliminary report on Eleanor."
 
-"And?"
+"And?" She left me in suspense.
 
 "The three methods of death. They weren't all administered at the same time."
 
@@ -236,7 +194,7 @@ I straightened. "What do you mean?"
 
 "The poison was in her system for at least an hour before death—a slow-acting toxin, something that would have made her groggy, disoriented. The strangulation came second, but it wasn't what killed her. The marks suggest someone started to strangle her, then stopped. And the stabbing—the letter opener—that was the actual cause of death. But here's the thing: the angle of the wound is wrong."
 
-"Wrong how?"
+I was puzzled. "Wrong how?"
 
 "Wrong for murder," Reyes said quietly. "Right for suicide."
 
@@ -244,9 +202,7 @@ A chill ran through me. "You're saying Eleanor killed herself?"
 
 "I'm saying someone poisoned her, someone else tried to strangle her, and then Eleanor—confused, dying, maybe trying to end her suffering—picked up the letter opener and finished the job herself." Reyes exhaled. "Three methods of death, Marlowe. But possibly three different hands involved. Including the victim's own."
 
-I stood there in the growing dawn, watching the sky lighten and the shadows retreat, thinking about a woman who had destroyed so many lives finally meeting her end at the intersection of all her sins.
-
-Three methods. Three suspects. And a mystery that had just become infinitely more complicated.
+I stood there in the growing dawn, watching the sky lighten and the shadows retreat, thinking about a woman who had destroyed so many lives finally meeting her end at the intersection of all her sins. Three methods. Three suspects. And a mystery that had just become infinitely more complicated.
 
 "I need to get back to the house," I said. "There's something I'm missing. Something about the timing, the methods, the way it all fits together."
 
@@ -258,6 +214,4 @@ Three methods. Three suspects. And a mystery that had just become infinitely mor
 
 "I'll rest when this is over." I climbed into my car, wincing as my head protested the movement. "Send backup to the Ashworth estate. I want everyone contained. No one leaves until I get some answers."
 
-I hung up before she could argue and started the engine. The sun was rising over Millbrook, burning away the clouds and the shadows and the comfortable darkness that had hidden so many secrets.
-
-Time to bring them all into the light.
+I hung up before she could argue and started the engine. The sun was rising over Millbrook, burning away the clouds and the shadows and the comfortable darkness that had hidden so many secrets. It was time to bring them all into the light.

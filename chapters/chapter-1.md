@@ -2,7 +2,7 @@
 
 Millbrook sat in a cradle of low hills where the Thorne River bent south toward the coast. It was the kind of town that looked picturesque from a distance—church steeples rising above autumn maples, Victorian storefronts lining a cobblestone Main Street, the silver thread of water catching the light as it wound past the old shipping docks. Postcards and tourist brochures loved Millbrook. They didn’t mention the rust eating at the warehouse district or the way the river fog settled into the streets like something hiding. They didn’t talk about the names that mattered there, the families whose money had built those steeples and whose influence decided which businesses thrived and which quietly closed their doors.
 
-I had lived there my whole life, excepting four years of college and a brief stint with the state police that had ended when my grandmother got sick. I came back to take care of her, joined the Millbrook PD, and never left. Fifty-two years in, and I still couldn’t decide if that town was home or a trap I had never figured out how to escape.
+I had lived there my whole life, excepting four years of college and a brief stint with the state police that had ended when my grandmother got sick. I came back to take care of her, joined the Millbrook PD, and never left. Fourty-two years in, and I still couldn’t decide if that town was home or a trap I had never figured out how to escape.
 
 The old-timers at the station still talked about my early years like they were something mythical. Back then, the top brass had a habit of handing me the cases nobody else wanted. The unsolvables. Political landmines that could end careers. I thought they were testing me, secretly hoping I’d fail spectacularly enough to justify showing me the door. But one by one, I cracked them all. Eventually, my antagonizers gave up.
 
@@ -52,7 +52,7 @@ Captain Maria Reyes met me at the front door, her silver-streaked hair pulled ba
 
 She didn't smile at the weak attempt at humor. Instead, she handed me a pair of latex gloves and led me through the marble foyer, past the sweeping staircase where old portraits of dead Ashworths watched our passage with oil-painted disapproval.
 
-"The victim is Eleanor Ashworth," Reyes said, her voice low. We walked as she talked, our footsteps echoing in the cavernous foyer. "The matriarch. Seventy-three years old, found in the library by her housekeeper around three this morning."
+"The victim is Eleanor Ashworth," Reyes said, her voice low. We walked as she talked, our footsteps echoing in the cavernous foyer. "The matriarch. Eighty-three years old, found in the library by her housekeeper around three this morning."
 
 Eleanor. I felt the cold weight in my chest grow heavier. Eleanor, with her silver hair and sharp tongue and secrets that could topple dynasties.
 
@@ -82,7 +82,7 @@ Reyes flipped open her notepad, the pages rustling softly in the otherwise silen
 
 "The will." Reyes nodded. "We're working on getting a copy."
 
-I stood, my knees protesting the movement. At fifty-two, the job was getting harder on my body than I liked to admit. "Who inherits?"
+I stood, my knees protesting the movement. At fourty-two, the job was getting harder on my body than I liked to admit. "Who inherits?"
 
 "That's the question, isn't it? From what I understand, Eleanor was unpredictable with her money. Changed her will more often than most people change their sheets."
 

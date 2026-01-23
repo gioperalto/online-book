@@ -2,7 +2,7 @@
 
 Victor Ashworth looked exactly like what old money produces after four generations: soft around the middle, sharp around the eyes, and possessed of that particular brand of arrogance that comes from never having to apologize for anything. He sat in the drawing room like a man attending a mildly inconvenient business meeting, not one whose mother lay dead two rooms away.
 
-"Detective Marlowe." He didn't rise when I entered, just gestured vaguely toward a chair across from him with a hand that held a crystal tumbler of what looked like scotch. At this hour. "I remember you. You used to come around when I was a boy. Something to do with my father's shipping company, wasn't it?"
+"Detective Marlowe." He didn't rise when I entered, just gestured vaguely toward a chair across from him with a hand that held a crystal tumbler of what looked like scotch. At this hour. "I remember you. You used to come around a lot when I was a boy. Something to do with my father's shipping company, wasn't it?"
 
 He was testing me, I realized. Trying to establish that he knew things about me, that the power dynamic here wasn't as simple as detective and suspect. It was a tactic I'd seen before—usually from people with something to hide. But Victor didn't know the half of it. He didn't know that twenty years ago, when I was still the department's rising star fresh off solving the Kellerman kidnapping, I'd investigated a string of embezzlement cases that led right to the edge of Ashworth holdings before the chief at the time told me to back off. "Insufficient evidence," he'd said, though we both knew the real reason. Back then, the brass kept handing me cases they expected me to fail—political hot potatoes, cold cases gone frigid, investigations that had broken better detectives. The Ashworth connection was supposed to be another one of those. But I'd gotten too close, and they'd yanked me off before I could finish the job.
 
@@ -152,13 +152,9 @@ The silence that followed was deafening. Victor looked at me with naked hatred. 
 
 I nodded, tucking my notebook away. "I'll be in touch, Mr. Ashworth. Mrs. Ashworth. Don't leave town."
 
-I was almost to the door when Diana's voice stopped me.
+"Detective Marlowe?" I was almost to the door when Diana's voice stopped me.
 
-"Detective Marlowe?"
-
-I turned.
-
-She was standing very still, one hand pressed against her stomach in a gesture that seemed unconscious. "When you catch whoever did this, I want to know why. Not for Eleanor's sake. For my own. I need to understand how someone could do something so thorough."
+I turned. She was standing very still, one hand pressed against her stomach in a gesture that seemed unconscious. "When you catch whoever did this, I want to know why. Not for Eleanor's sake. For my own. I need to understand how someone could do something so thorough."
 
 It was an odd word choice. Thorough. Three methods of death. Poison, strangulation, stabbing. As if someone wanted to make absolutely certain Eleanor Ashworth stayed dead.
 
@@ -220,11 +216,7 @@ But she just shook her head and turned back to the rain-streaked glass, a pale g
 
 ---
 
-I stepped outside for air, finding my way through a maze of hallways to a covered porch at the back of the house. The rain hammered the grounds into mud, and I stood there watching it fall, letting the cold air bite at my face. My hands were shaking. From cold, I told myself, though I knew better.
-
-The locket. Someone else knew about the locket.
-
-I lit a cigarette—a habit I'd quit and restarted half a dozen times over the years—and smoked it down to the filter before pulling out my phone. The number I dialed was one I knew by heart but hadn't called in three years. Each ring felt like a small eternity. It rang four times before a familiar voice answered.
+I stepped outside for air, finding my way through a maze of hallways to a covered porch at the back of the house. The rain hammered the grounds into mud, and I stood there watching it fall, letting the cold air bite at my face. My hands were shaking. From cold, I told myself, though I knew better. The locket. Someone else knew about the locket. I lit a cigarette—a habit I'd quit and restarted half a dozen times over the years—and smoked it down to the filter before pulling out my phone. The number I dialed was one I knew by heart but hadn't called in three years. Each ring felt like a small eternity. It rang four times before a familiar voice answered.
 
 "Sarah." Her name felt strange in my mouth, like a word in a dead language. "It's James. I need to talk to you about–"
 
@@ -236,14 +228,6 @@ She finished my sentence. "The Ashworths?"
 
 I thought about the question. About the weight of the past pressing down on me. About the locket in Eleanor's dead hand. My grandmother's locket, the one that had disappeared twenty years ago along with every chance I'd had at a normal life.
 
-No, I admitted finally. The admission cost me more than I wanted to acknowledge. I wasn't okay.
+"No." I admitted finally. 
 
-I told her I would come see her tonight, after I finished at the estate. It might be late—nine, maybe ten, depending on how the interviews went. There were things I needed to tell her. Things I should have told her three years ago.
-
-I hung up before she could respond, before I could lose my nerve. The rain continued to fall, washing the world clean while the Ashworth house loomed behind me, full of secrets and lies and at least one murderer who thought they could get away with their crime.
-
-They were wrong.
-
-Whatever it cost me, whatever ghosts I had to face, I was going to find the truth.
-
-Even if it destroyed me in the process.
+The admission cost me more than I wanted to acknowledge. I wasn't okay. I told her I would come see her tonight, after I finished at the estate. It might be late—nine, maybe ten, depending on how the interviews went. There were things I needed to tell her. Things I should have told her three years ago. I hung up before she could respond, before I could lose my nerve. The rain continued to fall, washing the world clean while the Ashworth house loomed behind me, full of secrets and lies and at least one murderer who thought they could get away with their crime. They were wrong. Whatever it cost me, whatever ghosts I had to face, I was going to find the truth. Even if it destroyed me in the process.
